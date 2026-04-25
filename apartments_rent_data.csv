@@ -1,0 +1,2001 @@
+area,rooms,bathrooms,wilaya,municipality,property_type,floor,is_furnished,amenities,price
+40,1,2,M'Sila,M'Sila City,Studio,4,0,"Parking,Security 24/7,Air Conditioning,Wifi",15500
+81,2,2,Algiers,Zeralda,Apartment,8,0,"Elevator,Security 24/7,Wifi",67000
+123,2,1,M'Sila,M'Sila City,Apartment,2,1,Wifi,62000
+33,1,1,Setif,El Eulma,Studio,1,1,"Elevator,Wifi",30500
+133,3,1,Oran,Akid Lotfi,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",91500
+42,1,2,Oran,Oran City,Studio,0,0,Elevator,24000
+67,4,1,Setif,Ain Arnat,Apartment,2,1,"Heating,Elevator,Security 24/7,Air Conditioning",74000
+145,4,1,Constantine,El Khroub,Apartment,2,0,"Heating,Air Conditioning,Parking",88500
+74,3,1,Setif,Ain Arnat,Apartment,2,0,"Parking,Elevator,Wifi,Air Conditioning",51000
+91,4,2,Constantine,Ali Mendjeli,Apartment,2,0,"Parking,Elevator",61000
+151,2,2,Setif,Ain Arnat,Apartment,6,1,"Parking,Elevator,Security 24/7,Air Conditioning",93000
+156,4,2,Algiers,Bab Ezzouar,Apartment,7,1,"Heating,Elevator,Security 24/7,Air Conditioning",217500
+61,4,1,M'Sila,Boussaada,Apartment,0,0,"Elevator,Air Conditioning",32000
+149,3,1,Oran,Oran City,Apartment,6,1,"Heating,Security 24/7,Air Conditioning,Parking",132500
+70,4,2,Oran,Es Senia,Apartment,0,0,"Parking,Security 24/7,Wifi",69000
+37,1,2,M'Sila,Boussaada,Studio,1,1,"Parking,Elevator,Air Conditioning,Heating",23500
+75,3,1,Setif,Setif City,Apartment,8,0,"Parking,Elevator,Wifi,Air Conditioning",39000
+139,4,2,Setif,El Eulma,Apartment,3,1,"Elevator,Security 24/7",115500
+148,4,1,Setif,El Eulma,Apartment,8,0,"Elevator,Security 24/7,Air Conditioning",78000
+67,4,2,Constantine,Ali Mendjeli,Apartment,2,1,"Heating,Security 24/7,Air Conditioning,Wifi",77500
+67,4,1,Constantine,Constantine City,Apartment,1,0,Wifi,52500
+43,1,1,Algiers,Zeralda,Studio,4,1,Elevator,66000
+50,1,2,M'Sila,Magra,Studio,0,0,"Heating,Wifi",15000
+61,3,1,Oran,Bir El Djir,Apartment,0,1,"Parking,Elevator,Wifi",78000
+119,3,2,Algiers,Zeralda,Apartment,6,0,"Elevator,Security 24/7,Wifi",94000
+121,2,1,Algiers,Bab Ezzouar,Apartment,5,0,"Elevator,Wifi",100000
+112,2,1,Constantine,Constantine City,Apartment,6,0,"Elevator,Security 24/7,Wifi",52500
+114,3,2,Setif,Setif City,Apartment,4,0,"Heating,Elevator,Air Conditioning",56500
+107,2,2,Oran,Akid Lotfi,Apartment,7,1,"Heating,Security 24/7,Wifi",99500
+128,4,2,Constantine,Constantine City,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning,Wifi",82000
+153,2,1,M'Sila,M'Sila City,Apartment,6,0,"Parking,Elevator,Wifi,Heating",48000
+83,4,2,Constantine,Constantine City,Apartment,1,0,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",60500
+250,7,1,Algiers,Zeralda,Villa,0,0,Wifi,326000
+140,3,2,Oran,Bir El Djir,Apartment,7,0,"Heating,Elevator,Parking",95000
+134,2,2,Constantine,Ali Mendjeli,Apartment,7,1,Parking,95500
+301,8,1,Algiers,Bab Ezzouar,Villa,0,0,Heating,373500
+118,4,1,Algiers,El Biar,Apartment,0,0,"Heating,Security 24/7,Air Conditioning,Wifi",118000
+111,4,1,Setif,El Eulma,Apartment,4,1,"Parking,Elevator,Security 24/7,Air Conditioning",87500
+146,2,2,Oran,Es Senia,Apartment,1,1,Elevator,139500
+88,2,1,Oran,Akid Lotfi,Apartment,5,1,"Elevator,Air Conditioning",95500
+90,4,1,M'Sila,Magra,Apartment,5,1,"Heating,Elevator,Wifi,Parking",61000
+151,3,1,Algiers,El Biar,Apartment,8,0,Security 24/7,114000
+139,3,1,Constantine,Constantine City,Apartment,4,1,Elevator,109000
+62,4,2,Constantine,Ali Mendjeli,Apartment,8,1,"Heating,Elevator,Wifi,Air Conditioning",76500
+87,2,2,Oran,Es Senia,Apartment,8,0,Air Conditioning,52500
+48,1,1,Constantine,Constantine City,Studio,4,0,"Heating,Parking",31500
+108,4,2,Algiers,Sidi M'Hamed,Apartment,4,1,"Elevator,Security 24/7,Air Conditioning",150500
+35,1,1,Constantine,Ali Mendjeli,Studio,2,0,Parking,24500
+110,2,2,Algiers,El Biar,Apartment,3,0,"Heating,Security 24/7,Wifi",84000
+106,4,2,Setif,El Eulma,Apartment,4,0,"Heating,Elevator,Security 24/7,Wifi",61500
+157,2,1,Setif,El Eulma,Apartment,5,0,"Parking,Elevator,Air Conditioning",66500
+147,2,1,Algiers,Sidi M'Hamed,Apartment,1,0,"Elevator,Air Conditioning",114000
+67,2,2,Setif,El Eulma,Apartment,2,1,"Heating,Air Conditioning",54000
+129,2,1,Constantine,Constantine City,Apartment,4,0,"Heating,Elevator",69000
+270,6,2,Oran,Bir El Djir,Villa,0,1,"Heating,Elevator,Wifi,Parking",393500
+118,4,2,Constantine,El Khroub,Apartment,6,1,"Heating,Security 24/7",100500
+148,4,2,Setif,Setif City,Apartment,4,0,"Elevator,Air Conditioning",66500
+77,4,1,M'Sila,Boussaada,Apartment,3,0,"Heating,Elevator,Security 24/7,Air Conditioning",34500
+157,4,2,M'Sila,Boussaada,Apartment,7,0,"Elevator,Security 24/7,Wifi",54500
+90,2,2,Algiers,Sidi M'Hamed,Apartment,3,1,"Elevator,Air Conditioning,Wifi",124500
+343,6,1,Setif,Ain Arnat,Villa,0,0,"Heating,Air Conditioning",217000
+123,3,2,Algiers,Hydra,Apartment,4,0,"Parking,Security 24/7,Wifi,Air Conditioning",99000
+103,3,2,Constantine,Ali Mendjeli,Apartment,7,1,"Parking,Security 24/7",85500
+68,3,1,Constantine,Constantine City,Apartment,2,0,"Heating,Elevator,Wifi,Air Conditioning",45000
+89,4,2,Constantine,El Khroub,Apartment,4,0,"Parking,Elevator,Security 24/7,Air Conditioning",56000
+156,4,1,Setif,El Eulma,Apartment,0,0,"Elevator,Security 24/7,Wifi",86500
+131,3,1,Setif,Setif City,Apartment,3,1,"Elevator,Security 24/7,Wifi",107500
+127,3,1,Setif,Ain Arnat,Apartment,1,1,"Security 24/7,Air Conditioning",100500
+88,4,2,Constantine,El Khroub,Apartment,3,1,"Heating,Elevator,Security 24/7,Wifi",96500
+65,4,1,Oran,Oran City,Apartment,7,0,Heating,54500
+436,5,2,Oran,Bir El Djir,Villa,0,0,"Parking,Security 24/7",331500
+116,2,2,M'Sila,M'Sila City,Apartment,5,0,"Parking,Elevator,Air Conditioning",39500
+94,4,2,Constantine,El Khroub,Apartment,3,0,"Parking,Security 24/7,Heating",64500
+84,4,2,Setif,El Eulma,Apartment,3,0,"Elevator,Security 24/7",56000
+140,2,2,Constantine,Ali Mendjeli,Apartment,0,0,"Elevator,Wifi",79000
+152,3,1,Constantine,Ali Mendjeli,Apartment,7,0,"Security 24/7,Wifi",74000
+60,2,2,Setif,El Eulma,Apartment,6,1,"Heating,Elevator,Air Conditioning",53500
+116,4,1,Constantine,Constantine City,Apartment,2,0,"Parking,Security 24/7,Air Conditioning",73500
+93,4,2,M'Sila,M'Sila City,Apartment,7,1,"Parking,Elevator,Security 24/7",58500
+119,3,1,Setif,Ain Arnat,Apartment,1,1,"Parking,Security 24/7,Wifi,Heating",93500
+442,4,2,M'Sila,M'Sila City,Villa,0,0,"Parking,Heating",173000
+132,3,1,Oran,Es Senia,Apartment,5,1,"Parking,Elevator",139000
+101,2,1,Oran,Es Senia,Apartment,5,0,"Parking,Elevator,Wifi",61000
+71,2,2,Setif,El Eulma,Apartment,8,0,"Parking,Elevator",39000
+30,1,2,M'Sila,Magra,Studio,2,0,"Heating,Security 24/7,Wifi,Air Conditioning",15000
+83,3,1,Oran,Akid Lotfi,Apartment,5,1,"Air Conditioning,Wifi",84000
+157,2,1,Setif,El Eulma,Apartment,1,0,Heating,68500
+110,3,1,Constantine,Ali Mendjeli,Apartment,5,0,Air Conditioning,53500
+106,3,1,Algiers,Zeralda,Apartment,7,1,"Parking,Elevator",137000
+85,4,1,Oran,Es Senia,Apartment,6,1,"Parking,Elevator",115000
+131,3,1,Algiers,Zeralda,Apartment,6,1,"Parking,Heating",159000
+157,4,1,M'Sila,M'Sila City,Apartment,4,0,"Heating,Elevator,Air Conditioning",58000
+101,3,1,Oran,Bir El Djir,Apartment,1,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",72000
+116,4,1,Algiers,El Biar,Apartment,8,1,"Elevator,Security 24/7,Air Conditioning",155000
+121,2,1,Oran,Akid Lotfi,Apartment,8,0,Security 24/7,67000
+129,4,2,Constantine,El Khroub,Apartment,7,1,"Parking,Elevator,Wifi",124500
+392,8,1,M'Sila,Boussaada,Villa,0,0,Heating,174000
+79,3,1,Algiers,Zeralda,Apartment,0,0,"Parking,Elevator,Wifi",80000
+148,2,2,Constantine,Ali Mendjeli,Apartment,3,0,"Elevator,Security 24/7,Air Conditioning",70500
+84,2,2,Algiers,El Biar,Apartment,1,0,"Security 24/7,Wifi",73000
+87,2,1,M'Sila,M'Sila City,Apartment,0,0,"Heating,Wifi",37500
+30,1,2,Setif,Ain Arnat,Studio,2,1,Security 24/7,25000
+156,8,1,Setif,El Eulma,Villa,0,1,"Heating,Parking",246000
+136,2,1,M'Sila,Boussaada,Apartment,6,0,"Security 24/7,Air Conditioning",39000
+94,3,2,M'Sila,Boussaada,Apartment,2,1,"Elevator,Security 24/7,Wifi,Air Conditioning",60500
+76,3,2,M'Sila,Magra,Apartment,0,0,"Heating,Wifi",31500
+158,2,2,Constantine,Ali Mendjeli,Apartment,6,0,"Parking,Wifi,Heating",70500
+32,1,2,Constantine,Ali Mendjeli,Studio,4,1,"Parking,Air Conditioning,Wifi",22000
+140,3,1,Setif,Setif City,Apartment,7,0,"Heating,Security 24/7",57000
+139,4,2,M'Sila,Boussaada,Apartment,7,0,Air Conditioning,45500
+152,2,2,M'Sila,M'Sila City,Apartment,7,1,"Parking,Elevator",66500
+61,4,2,M'Sila,Boussaada,Apartment,0,0,"Heating,Elevator,Security 24/7",28500
+145,4,1,Algiers,Hydra,Apartment,7,0,"Heating,Elevator,Security 24/7,Parking",141000
+136,3,1,Algiers,Hydra,Apartment,0,1,"Elevator,Wifi",185500
+108,4,1,Oran,Es Senia,Apartment,2,1,"Heating,Elevator,Security 24/7,Wifi",135000
+33,1,2,Setif,El Eulma,Studio,1,1,"Heating,Elevator,Security 24/7",29000
+72,2,2,M'Sila,Magra,Apartment,2,0,Wifi,31500
+38,1,1,Constantine,Constantine City,Studio,2,1,"Parking,Security 24/7,Air Conditioning",34500
+144,4,2,M'Sila,M'Sila City,Apartment,7,0,"Parking,Elevator,Security 24/7,Heating",56500
+125,4,2,Oran,Es Senia,Apartment,1,1,"Heating,Wifi",146000
+80,4,2,Constantine,Constantine City,Apartment,0,0,"Heating,Elevator,Security 24/7",63000
+119,2,2,Algiers,Hydra,Apartment,7,0,"Parking,Elevator,Air Conditioning",95000
+124,2,1,Setif,Setif City,Apartment,6,0,"Parking,Elevator,Security 24/7,Wifi",51000
+135,2,2,M'Sila,M'Sila City,Apartment,8,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",47000
+193,7,2,Algiers,Hydra,Villa,0,1,"Heating,Parking",449500
+94,3,1,Constantine,Ali Mendjeli,Apartment,4,1,Security 24/7,80000
+157,2,2,Setif,El Eulma,Apartment,1,1,"Heating,Wifi",112500
+67,3,2,Oran,Akid Lotfi,Apartment,4,0,"Parking,Elevator",48500
+89,3,1,Oran,Oran City,Apartment,1,0,"Heating,Elevator,Air Conditioning",68000
+149,3,1,Constantine,Constantine City,Apartment,1,1,"Parking,Elevator,Air Conditioning",129500
+134,3,2,Constantine,Ali Mendjeli,Apartment,5,0,"Elevator,Air Conditioning",78500
+124,3,1,Algiers,Zeralda,Apartment,6,0,"Parking,Elevator,Security 24/7,Air Conditioning",98000
+70,4,2,M'Sila,M'Sila City,Apartment,7,1,"Parking,Elevator",53000
+107,2,1,M'Sila,M'Sila City,Apartment,3,0,"Heating,Elevator,Wifi",41000
+106,2,1,Setif,Ain Arnat,Apartment,8,1,Elevator,68500
+75,3,1,M'Sila,Magra,Apartment,3,1,Elevator,48500
+72,4,1,M'Sila,M'Sila City,Apartment,6,0,"Heating,Elevator,Air Conditioning,Wifi",26500
+72,4,2,Oran,Bir El Djir,Apartment,5,1,"Parking,Elevator,Security 24/7,Heating",103000
+221,4,2,Algiers,Hydra,Villa,0,0,"Heating,Elevator,Security 24/7,Wifi",283500
+128,4,1,Algiers,Bab Ezzouar,Apartment,0,1,"Parking,Elevator",189500
+137,2,1,Setif,Setif City,Apartment,8,0,"Parking,Elevator,Security 24/7",65000
+43,1,2,Setif,Ain Arnat,Studio,2,0,"Elevator,Air Conditioning",18000
+129,2,2,Algiers,Zeralda,Apartment,6,0,"Parking,Security 24/7,Air Conditioning,Wifi",94000
+62,3,2,M'Sila,Boussaada,Apartment,5,0,"Parking,Elevator,Heating",31000
+128,2,2,M'Sila,M'Sila City,Apartment,8,0,"Heating,Elevator,Security 24/7,Air Conditioning",42000
+51,1,2,M'Sila,Boussaada,Studio,4,1,"Parking,Elevator,Air Conditioning,Heating",25000
+437,4,2,Oran,Akid Lotfi,Villa,0,0,"Heating,Security 24/7",326500
+132,2,2,Constantine,El Khroub,Apartment,2,0,"Security 24/7,Wifi",71500
+39,1,2,M'Sila,M'Sila City,Studio,3,1,"Security 24/7,Wifi",28000
+150,3,2,Constantine,Constantine City,Apartment,2,0,"Parking,Elevator",84500
+124,3,2,M'Sila,M'Sila City,Apartment,5,1,Elevator,64000
+71,2,2,M'Sila,Magra,Apartment,3,0,"Parking,Elevator,Air Conditioning,Wifi",27000
+64,4,1,Setif,El Eulma,Apartment,1,0,"Parking,Elevator,Air Conditioning,Heating",50500
+75,2,2,Setif,El Eulma,Apartment,3,0,Elevator,39500
+122,3,2,Oran,Es Senia,Apartment,2,0,"Elevator,Wifi",81000
+138,2,1,Constantine,Constantine City,Apartment,6,0,Parking,63000
+322,7,2,Constantine,Ali Mendjeli,Villa,0,0,"Parking,Elevator,Security 24/7,Wifi",237500
+111,2,1,Setif,Setif City,Apartment,5,0,Elevator,58500
+197,8,1,Algiers,El Biar,Villa,0,0,"Parking,Air Conditioning",308000
+103,2,2,Setif,Ain Arnat,Apartment,6,1,"Heating,Security 24/7,Air Conditioning,Parking",67000
+50,1,1,Algiers,El Biar,Studio,1,0,"Heating,Air Conditioning,Wifi",46000
+155,2,2,Oran,Oran City,Apartment,7,1,Parking,126000
+121,4,1,Algiers,Hydra,Apartment,1,0,"Heating,Elevator,Security 24/7,Wifi",123000
+118,3,1,Algiers,El Biar,Apartment,8,0,"Elevator,Air Conditioning,Wifi",112000
+153,4,2,Setif,El Eulma,Apartment,6,1,"Air Conditioning,Wifi",115000
+151,2,1,Setif,Ain Arnat,Apartment,1,0,"Heating,Security 24/7,Wifi",70500
+102,2,1,M'Sila,Magra,Apartment,0,0,Elevator,36000
+158,3,2,Algiers,El Biar,Apartment,1,0,"Parking,Elevator",132500
+145,3,1,Algiers,El Biar,Apartment,5,1,"Parking,Elevator,Air Conditioning,Heating",191500
+83,3,2,M'Sila,M'Sila City,Apartment,2,0,"Elevator,Wifi",31500
+130,2,1,Constantine,El Khroub,Apartment,2,0,"Parking,Elevator,Wifi,Heating",70000
+142,3,1,Algiers,Bab Ezzouar,Apartment,7,0,"Elevator,Air Conditioning,Wifi",121500
+77,4,1,Algiers,Bab Ezzouar,Apartment,3,0,"Elevator,Air Conditioning",90000
+149,2,2,Setif,El Eulma,Apartment,8,0,"Parking,Elevator,Air Conditioning",69500
+110,2,2,Constantine,Constantine City,Apartment,2,0,"Elevator,Security 24/7,Wifi,Air Conditioning",58000
+63,3,2,M'Sila,M'Sila City,Apartment,6,1,Elevator,36000
+95,2,2,M'Sila,M'Sila City,Apartment,7,0,"Heating,Elevator",35500
+40,1,1,Constantine,Ali Mendjeli,Studio,3,0,Security 24/7,21500
+134,4,1,Oran,Es Senia,Apartment,6,0,Elevator,93500
+108,4,1,Oran,Oran City,Apartment,2,1,"Parking,Elevator,Security 24/7,Air Conditioning",129000
+145,4,2,Oran,Bir El Djir,Apartment,0,0,"Parking,Elevator,Air Conditioning",102000
+144,2,1,Oran,Bir El Djir,Apartment,1,1,"Heating,Wifi",133000
+99,3,2,M'Sila,Magra,Apartment,2,0,Wifi,33000
+151,3,2,Constantine,Constantine City,Apartment,8,0,"Parking,Elevator",83500
+65,4,1,Oran,Akid Lotfi,Apartment,3,0,"Heating,Security 24/7,Wifi",65500
+107,3,1,Algiers,El Biar,Apartment,7,0,"Heating,Elevator,Air Conditioning,Wifi",99000
+40,1,1,Setif,El Eulma,Studio,0,0,"Heating,Wifi,Air Conditioning,Parking",18500
+80,3,1,Algiers,Bab Ezzouar,Apartment,1,0,"Heating,Elevator,Air Conditioning",83000
+303,8,2,Algiers,Bab Ezzouar,Villa,0,1,"Heating,Air Conditioning",580000
+147,3,1,M'Sila,M'Sila City,Apartment,5,1,"Elevator,Wifi",80500
+100,4,1,Setif,Ain Arnat,Apartment,1,1,Security 24/7,98000
+75,3,1,Algiers,Zeralda,Apartment,1,0,"Heating,Elevator,Air Conditioning,Parking",74500
+44,1,2,M'Sila,M'Sila City,Studio,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",17500
+65,4,1,Oran,Bir El Djir,Apartment,6,0,"Heating,Elevator,Wifi,Air Conditioning",61000
+84,3,1,Setif,Ain Arnat,Apartment,5,0,"Elevator,Security 24/7,Air Conditioning,Wifi",50000
+424,7,1,M'Sila,M'Sila City,Villa,0,0,Elevator,182500
+134,2,1,M'Sila,Magra,Apartment,2,0,"Elevator,Security 24/7",46500
+80,2,2,Oran,Es Senia,Apartment,3,0,"Elevator,Air Conditioning",59500
+155,2,1,Algiers,Zeralda,Apartment,7,0,"Heating,Elevator,Security 24/7",105500
+328,7,2,M'Sila,Boussaada,Villa,0,1,"Heating,Elevator,Wifi,Air Conditioning",239000
+60,4,1,Oran,Akid Lotfi,Apartment,5,0,"Heating,Elevator,Security 24/7",54500
+94,2,2,Setif,Ain Arnat,Apartment,3,0,Elevator,47500
+149,4,1,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Air Conditioning",51000
+98,4,2,Constantine,Constantine City,Apartment,8,0,"Parking,Elevator,Wifi,Air Conditioning",67000
+78,2,2,Algiers,El Biar,Apartment,4,0,"Heating,Elevator,Security 24/7",65000
+141,3,2,Algiers,Bab Ezzouar,Apartment,1,1,"Heating,Elevator,Security 24/7",189500
+74,2,2,Algiers,Sidi M'Hamed,Apartment,6,0,"Parking,Elevator,Wifi",57500
+62,3,2,Algiers,Zeralda,Apartment,4,1,"Heating,Elevator,Parking",112000
+104,4,2,Setif,Ain Arnat,Apartment,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",53500
+112,3,1,Constantine,Ali Mendjeli,Apartment,1,0,"Heating,Elevator,Security 24/7,Air Conditioning",63000
+159,2,2,Setif,El Eulma,Apartment,7,0,"Elevator,Air Conditioning",73000
+154,4,1,M'Sila,M'Sila City,Apartment,0,0,Elevator,54500
+53,1,2,Constantine,El Khroub,Studio,2,0,"Parking,Wifi",28000
+89,3,2,Constantine,Ali Mendjeli,Apartment,4,1,"Air Conditioning,Wifi",77000
+88,2,2,M'Sila,M'Sila City,Apartment,3,0,Elevator,33000
+191,5,1,Setif,Ain Arnat,Villa,0,0,"Parking,Security 24/7",149000
+151,4,2,M'Sila,M'Sila City,Apartment,7,1,"Parking,Security 24/7,Air Conditioning",76500
+144,2,1,Oran,Es Senia,Apartment,0,1,"Parking,Elevator,Security 24/7,Wifi",142500
+70,4,2,M'Sila,Boussaada,Apartment,4,1,"Parking,Elevator,Security 24/7",52000
+134,2,1,Oran,Bir El Djir,Apartment,7,0,"Parking,Security 24/7,Heating",73000
+110,4,2,Setif,Ain Arnat,Apartment,3,1,"Parking,Elevator,Security 24/7,Air Conditioning",98500
+72,4,2,Setif,El Eulma,Apartment,6,0,"Parking,Elevator,Wifi",49000
+125,2,1,Constantine,El Khroub,Apartment,7,1,"Heating,Elevator,Security 24/7,Air Conditioning",101000
+67,2,2,Constantine,Ali Mendjeli,Apartment,8,1,"Heating,Elevator,Parking",66000
+62,3,2,Setif,El Eulma,Apartment,1,0,"Parking,Elevator,Security 24/7,Heating",35500
+90,3,1,Oran,Es Senia,Apartment,6,0,"Parking,Heating",60000
+89,2,2,Algiers,Hydra,Apartment,4,0,Wifi,67000
+112,4,2,Oran,Bir El Djir,Apartment,5,0,"Heating,Elevator",87000
+276,6,1,Oran,Bir El Djir,Villa,0,0,"Heating,Elevator,Air Conditioning,Parking",255000
+40,1,1,Constantine,Constantine City,Studio,0,0,Security 24/7,23500
+45,1,1,Setif,Ain Arnat,Studio,3,1,Security 24/7,35000
+72,2,2,Constantine,El Khroub,Apartment,0,0,Security 24/7,48000
+101,2,1,Setif,Setif City,Apartment,4,0,"Heating,Security 24/7,Wifi",36500
+72,4,1,Constantine,Constantine City,Apartment,1,0,"Security 24/7,Air Conditioning",55500
+67,4,1,Oran,Akid Lotfi,Apartment,3,1,"Elevator,Air Conditioning",97000
+69,2,2,Algiers,Hydra,Apartment,4,1,Elevator,94000
+76,3,1,Setif,El Eulma,Apartment,3,0,"Heating,Elevator,Air Conditioning",49000
+106,3,1,Constantine,Constantine City,Apartment,8,0,"Parking,Elevator,Air Conditioning",62500
+102,2,1,M'Sila,M'Sila City,Apartment,3,0,"Elevator,Air Conditioning",36000
+136,4,1,Oran,Oran City,Apartment,6,1,"Elevator,Security 24/7",153000
+166,6,1,M'Sila,Magra,Villa,0,1,"Wifi,Air Conditioning",165500
+124,2,1,M'Sila,Boussaada,Apartment,3,0,"Heating,Elevator,Air Conditioning,Parking",39000
+134,3,2,Constantine,Ali Mendjeli,Apartment,0,1,"Elevator,Wifi",116000
+105,2,2,Oran,Es Senia,Apartment,2,0,"Elevator,Security 24/7,Wifi,Air Conditioning",71500
+154,3,1,Constantine,Ali Mendjeli,Apartment,8,0,"Heating,Elevator,Security 24/7",68000
+141,3,1,Setif,Setif City,Apartment,5,0,Parking,62000
+37,1,1,Oran,Bir El Djir,Studio,4,1,Heating,38000
+133,2,1,M'Sila,M'Sila City,Apartment,4,0,"Heating,Security 24/7,Parking,Elevator,Wifi",46000
+42,1,1,Setif,Setif City,Studio,1,1,"Parking,Elevator,Air Conditioning",35000
+150,3,1,Setif,El Eulma,Apartment,0,1,"Elevator,Wifi",114000
+79,4,1,Algiers,Bab Ezzouar,Apartment,8,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",88000
+258,7,1,Oran,Bir El Djir,Villa,0,0,"Parking,Elevator,Security 24/7",256500
+152,2,2,M'Sila,Boussaada,Apartment,2,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",42500
+116,2,2,M'Sila,M'Sila City,Apartment,6,0,"Parking,Elevator,Air Conditioning,Wifi",39500
+119,3,1,Algiers,Bab Ezzouar,Apartment,5,0,"Elevator,Wifi",107000
+95,4,2,M'Sila,M'Sila City,Apartment,8,1,"Parking,Security 24/7",54500
+33,1,1,Setif,El Eulma,Studio,4,0,"Heating,Elevator,Wifi",16500
+155,3,2,Algiers,Sidi M'Hamed,Apartment,5,0,"Heating,Elevator,Security 24/7,Air Conditioning",133000
+110,2,1,Algiers,El Biar,Apartment,8,0,"Heating,Elevator,Air Conditioning,Parking",95500
+100,2,1,Algiers,Bab Ezzouar,Apartment,8,0,"Elevator,Security 24/7,Wifi,Air Conditioning",88500
+30,1,1,Constantine,Ali Mendjeli,Studio,0,0,"Heating,Elevator,Security 24/7,Parking",15000
+93,2,1,Oran,Akid Lotfi,Apartment,6,0,Security 24/7,55000
+139,3,2,Algiers,Zeralda,Apartment,7,0,"Elevator,Wifi",123000
+156,6,2,Algiers,El Biar,Villa,0,1,"Heating,Security 24/7,Wifi",396000
+71,2,1,Setif,Ain Arnat,Apartment,5,0,"Heating,Security 24/7,Air Conditioning,Parking",34000
+153,4,2,Constantine,Constantine City,Apartment,6,1,"Heating,Air Conditioning,Wifi,Parking",125500
+38,1,1,Oran,Bir El Djir,Studio,0,0,"Elevator,Wifi",23500
+108,4,2,Oran,Oran City,Apartment,0,0,"Parking,Elevator,Heating",84500
+85,4,1,Oran,Bir El Djir,Apartment,6,0,"Security 24/7,Air Conditioning,Wifi",68000
+86,3,2,Setif,Setif City,Apartment,8,1,"Elevator,Security 24/7,Air Conditioning",74500
+54,1,1,M'Sila,M'Sila City,Studio,1,0,"Heating,Elevator,Wifi",20000
+66,2,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Elevator,Security 24/7",56500
+113,3,2,Oran,Es Senia,Apartment,2,1,"Security 24/7,Wifi,Air Conditioning",123000
+100,3,2,M'Sila,Magra,Apartment,1,1,"Parking,Elevator,Security 24/7,Air Conditioning",62000
+128,4,2,Algiers,Zeralda,Apartment,1,0,Wifi,120500
+42,1,1,M'Sila,M'Sila City,Studio,2,0,"Heating,Wifi,Parking",15000
+119,2,2,Setif,El Eulma,Apartment,5,1,"Elevator,Wifi",87000
+138,3,1,M'Sila,M'Sila City,Apartment,1,0,"Parking,Elevator,Security 24/7",52500
+127,4,1,Setif,El Eulma,Apartment,0,1,"Elevator,Air Conditioning",109000
+130,4,2,M'Sila,Magra,Apartment,3,0,"Elevator,Security 24/7",50500
+122,3,2,Algiers,Hydra,Apartment,3,1,"Elevator,Security 24/7,Air Conditioning,Wifi",172500
+120,2,1,Algiers,Sidi M'Hamed,Apartment,5,0,"Parking,Elevator,Heating",87000
+32,1,1,M'Sila,Magra,Studio,0,0,Air Conditioning,15000
+65,3,2,Constantine,Ali Mendjeli,Apartment,5,0,"Heating,Elevator",44000
+95,3,1,Oran,Es Senia,Apartment,8,0,"Elevator,Wifi,Air Conditioning",58500
+78,4,1,Algiers,Hydra,Apartment,7,1,Parking,121500
+136,2,1,Constantine,Ali Mendjeli,Apartment,4,0,Parking,63500
+30,1,1,Algiers,Zeralda,Studio,0,0,Air Conditioning,29500
+84,3,1,Oran,Bir El Djir,Apartment,8,0,Heating,59500
+125,2,2,Constantine,Ali Mendjeli,Apartment,2,0,"Parking,Elevator,Security 24/7",66000
+95,4,1,M'Sila,Magra,Apartment,3,0,"Security 24/7,Wifi",43000
+123,4,2,Setif,Ain Arnat,Apartment,6,0,"Heating,Security 24/7,Air Conditioning,Wifi",53500
+405,4,2,Setif,Setif City,Villa,0,0,"Elevator,Security 24/7,Air Conditioning",232500
+155,3,1,Constantine,El Khroub,Apartment,3,0,"Security 24/7,Air Conditioning,Wifi",87000
+117,2,1,M'Sila,Magra,Apartment,6,0,Elevator,36500
+118,3,2,Setif,Setif City,Apartment,0,0,"Heating,Security 24/7,Parking,Elevator,Wifi",62500
+97,4,1,Algiers,El Biar,Apartment,0,0,"Elevator,Wifi",104500
+129,3,1,M'Sila,M'Sila City,Apartment,4,1,"Parking,Elevator,Security 24/7,Air Conditioning",61000
+269,5,2,Setif,Setif City,Villa,0,1,"Parking,Elevator,Security 24/7,Wifi",287500
+40,1,1,Setif,Ain Arnat,Studio,4,1,Security 24/7,31500
+94,4,1,Constantine,Constantine City,Apartment,4,1,"Heating,Wifi,Parking",86000
+84,2,2,Constantine,El Khroub,Apartment,2,0,"Elevator,Air Conditioning",51000
+128,4,1,Oran,Akid Lotfi,Apartment,4,1,"Heating,Elevator,Security 24/7",149000
+113,3,1,Oran,Bir El Djir,Apartment,7,1,"Parking,Elevator,Security 24/7,Air Conditioning",108500
+124,4,2,Oran,Bir El Djir,Apartment,3,0,"Parking,Elevator,Security 24/7",91500
+102,4,1,Algiers,El Biar,Apartment,7,1,"Elevator,Security 24/7,Wifi",169500
+125,3,1,Oran,Es Senia,Apartment,7,0,"Heating,Elevator,Air Conditioning,Wifi",73500
+53,1,1,Constantine,El Khroub,Studio,2,1,"Parking,Security 24/7,Air Conditioning,Heating",44500
+154,2,2,Algiers,Hydra,Apartment,3,0,"Security 24/7,Wifi",122000
+143,4,2,M'Sila,Boussaada,Apartment,4,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",82000
+72,2,2,M'Sila,Boussaada,Apartment,5,1,"Heating,Elevator,Wifi,Parking",44500
+69,3,1,Constantine,Ali Mendjeli,Apartment,7,0,"Parking,Elevator,Air Conditioning,Heating",47000
+112,3,1,Algiers,El Biar,Apartment,8,0,"Heating,Elevator,Security 24/7,Parking",96000
+189,7,2,Algiers,Sidi M'Hamed,Villa,0,0,"Parking,Security 24/7",289500
+444,7,1,Setif,El Eulma,Villa,0,0,Parking,261500
+37,1,2,M'Sila,Magra,Studio,0,1,"Heating,Elevator",21000
+139,3,1,Constantine,El Khroub,Apartment,5,1,"Heating,Security 24/7,Parking,Elevator,Wifi",124500
+339,7,2,Constantine,Constantine City,Villa,0,1,"Parking,Elevator,Wifi",385500
+47,1,2,Constantine,El Khroub,Studio,0,0,Security 24/7,24500
+37,1,2,Constantine,El Khroub,Studio,2,0,Air Conditioning,20000
+435,8,2,Oran,Es Senia,Villa,0,1,"Elevator,Wifi,Air Conditioning",545500
+111,3,1,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Air Conditioning",46500
+157,2,1,M'Sila,Magra,Apartment,0,1,"Heating,Security 24/7",74500
+156,3,2,Setif,Ain Arnat,Apartment,4,0,"Parking,Elevator,Wifi,Heating",69000
+70,2,2,Algiers,El Biar,Apartment,4,1,"Heating,Security 24/7,Air Conditioning",90000
+145,3,2,Setif,Ain Arnat,Apartment,0,0,"Heating,Elevator",71000
+32,1,1,M'Sila,M'Sila City,Studio,2,1,"Heating,Elevator,Wifi",22000
+73,2,2,M'Sila,Boussaada,Apartment,8,1,"Parking,Elevator",36500
+34,1,1,Setif,Ain Arnat,Studio,2,1,Wifi,28000
+52,1,2,Oran,Akid Lotfi,Studio,3,0,"Heating,Elevator,Air Conditioning,Parking",37500
+49,1,1,Algiers,Sidi M'Hamed,Studio,4,1,"Heating,Wifi",58500
+106,4,1,Oran,Oran City,Apartment,3,0,"Heating,Air Conditioning,Wifi,Parking",81000
+134,2,2,Algiers,Hydra,Apartment,4,0,Air Conditioning,93500
+110,3,1,Algiers,Hydra,Apartment,6,0,"Parking,Elevator,Air Conditioning,Wifi",90000
+93,4,2,Constantine,Ali Mendjeli,Apartment,3,0,"Parking,Elevator,Air Conditioning",60500
+81,3,1,Constantine,Ali Mendjeli,Apartment,2,0,"Heating,Elevator",52500
+104,3,2,Algiers,Zeralda,Apartment,2,0,Air Conditioning,99000
+145,3,1,M'Sila,Boussaada,Apartment,0,0,"Elevator,Wifi",48000
+73,3,2,Oran,Oran City,Apartment,6,0,"Heating,Security 24/7,Air Conditioning",56000
+107,2,2,Setif,El Eulma,Apartment,0,1,"Heating,Elevator",80500
+127,4,1,Constantine,Ali Mendjeli,Apartment,3,0,"Parking,Elevator,Wifi,Air Conditioning",84000
+39,1,1,M'Sila,Magra,Studio,4,0,"Parking,Elevator",15000
+104,4,2,M'Sila,M'Sila City,Apartment,4,0,"Parking,Elevator,Security 24/7,Wifi",43000
+35,1,1,Constantine,Constantine City,Studio,2,0,"Heating,Security 24/7,Air Conditioning",24000
+145,3,2,Setif,Ain Arnat,Apartment,2,1,"Parking,Elevator",115000
+132,4,2,Algiers,Sidi M'Hamed,Apartment,2,1,"Heating,Elevator,Air Conditioning",192500
+54,1,1,Oran,Es Senia,Studio,1,0,"Heating,Air Conditioning,Parking",32000
+123,3,1,Algiers,Zeralda,Apartment,8,0,"Parking,Elevator,Air Conditioning,Heating",112000
+54,1,1,Oran,Es Senia,Studio,3,0,Security 24/7,35000
+102,2,1,M'Sila,M'Sila City,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",34000
+111,2,1,Oran,Oran City,Apartment,4,1,"Parking,Elevator,Security 24/7",99000
+129,4,1,Constantine,El Khroub,Apartment,3,0,"Parking,Elevator,Security 24/7,Wifi",74000
+121,3,2,Oran,Akid Lotfi,Apartment,3,1,"Heating,Elevator,Wifi,Air Conditioning",127500
+64,4,2,M'Sila,Magra,Apartment,4,0,Elevator,32000
+32,1,2,M'Sila,M'Sila City,Studio,0,0,"Security 24/7,Wifi",15000
+147,2,1,Constantine,Constantine City,Apartment,6,0,"Heating,Security 24/7",62000
+348,5,2,M'Sila,Boussaada,Villa,0,0,"Heating,Security 24/7",151000
+143,3,2,M'Sila,Magra,Apartment,8,0,"Parking,Elevator,Security 24/7,Heating",52500
+81,2,2,Constantine,Constantine City,Apartment,3,1,"Heating,Elevator",71000
+157,4,2,Oran,Bir El Djir,Apartment,1,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",112500
+250,7,2,Constantine,Ali Mendjeli,Villa,0,0,"Elevator,Wifi",209500
+129,2,1,M'Sila,M'Sila City,Apartment,3,1,"Elevator,Security 24/7,Wifi,Air Conditioning",66000
+97,4,1,M'Sila,Boussaada,Apartment,6,0,"Elevator,Wifi,Air Conditioning",34500
+91,4,1,Constantine,El Khroub,Apartment,0,1,"Parking,Elevator,Security 24/7,Wifi",97500
+90,4,1,Setif,Setif City,Apartment,0,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",56000
+125,2,1,Algiers,Zeralda,Apartment,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",90000
+75,4,1,Constantine,El Khroub,Apartment,3,0,Parking,56000
+94,2,1,Algiers,El Biar,Apartment,3,1,"Heating,Security 24/7,Wifi",122000
+119,2,1,Setif,Ain Arnat,Apartment,5,0,"Elevator,Security 24/7,Wifi",52500
+79,4,1,Constantine,Ali Mendjeli,Apartment,6,1,"Heating,Wifi,Parking",80500
+123,3,2,Oran,Bir El Djir,Apartment,3,0,"Elevator,Security 24/7,Wifi,Air Conditioning",82000
+96,3,2,M'Sila,Boussaada,Apartment,4,0,Elevator,33500
+108,4,1,M'Sila,M'Sila City,Apartment,5,0,"Parking,Elevator,Heating",40000
+94,3,2,M'Sila,M'Sila City,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning",34500
+106,2,2,Setif,El Eulma,Apartment,5,0,"Parking,Elevator,Heating",46000
+109,3,1,Algiers,Hydra,Apartment,3,0,Elevator,98500
+153,3,2,M'Sila,M'Sila City,Apartment,8,0,"Elevator,Air Conditioning,Wifi",56000
+88,4,2,Oran,Bir El Djir,Apartment,3,0,"Heating,Elevator,Wifi,Parking",72500
+417,7,2,Setif,El Eulma,Villa,0,1,"Parking,Wifi,Heating",392000
+145,4,1,M'Sila,Boussaada,Apartment,4,0,Elevator,52000
+80,4,2,Setif,El Eulma,Apartment,0,0,Heating,57500
+41,1,1,Constantine,Ali Mendjeli,Studio,2,0,"Heating,Security 24/7,Wifi,Parking",21500
+283,5,2,Oran,Akid Lotfi,Villa,0,1,"Heating,Security 24/7,Wifi,Air Conditioning",391500
+101,2,1,Constantine,El Khroub,Apartment,6,0,Wifi,49500
+97,2,1,Setif,Setif City,Apartment,2,1,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",74000
+43,1,1,Setif,Setif City,Studio,4,0,"Parking,Elevator,Heating",20000
+139,3,2,M'Sila,Magra,Apartment,7,0,"Heating,Air Conditioning",45000
+47,1,1,Constantine,El Khroub,Studio,4,0,"Heating,Air Conditioning",28000
+143,2,2,Algiers,Hydra,Apartment,3,0,"Parking,Elevator,Air Conditioning",116500
+104,3,2,Oran,Bir El Djir,Apartment,1,0,"Parking,Wifi,Air Conditioning",75000
+124,4,1,Constantine,El Khroub,Apartment,6,0,"Elevator,Wifi,Air Conditioning",76500
+46,1,2,M'Sila,Boussaada,Studio,4,1,"Parking,Security 24/7,Wifi",28000
+119,2,1,M'Sila,Magra,Apartment,7,0,Elevator,31000
+155,3,1,Setif,Ain Arnat,Apartment,1,0,Parking,80500
+109,4,1,Setif,El Eulma,Apartment,5,0,"Parking,Air Conditioning",59500
+87,2,2,Constantine,Constantine City,Apartment,1,0,"Heating,Elevator",50500
+99,4,2,Setif,Setif City,Apartment,6,0,Air Conditioning,53000
+108,3,1,M'Sila,M'Sila City,Apartment,1,1,"Heating,Elevator",61500
+93,4,2,Oran,Bir El Djir,Apartment,1,0,"Security 24/7,Air Conditioning",80500
+119,2,1,Algiers,Zeralda,Apartment,8,0,"Parking,Elevator,Air Conditioning",103000
+52,1,1,Algiers,Zeralda,Studio,4,0,"Parking,Elevator,Security 24/7,Wifi",44500
+70,4,2,Algiers,Sidi M'Hamed,Apartment,4,0,"Elevator,Security 24/7,Wifi,Air Conditioning",75000
+115,4,1,M'Sila,Boussaada,Apartment,6,1,"Wifi,Air Conditioning",63000
+140,2,2,M'Sila,Magra,Apartment,1,1,"Heating,Elevator,Security 24/7,Wifi",69000
+143,2,1,Oran,Es Senia,Apartment,2,0,"Heating,Elevator,Security 24/7,Air Conditioning",85500
+159,4,2,Algiers,Bab Ezzouar,Apartment,2,1,"Heating,Elevator,Air Conditioning,Wifi",222500
+42,1,1,Setif,El Eulma,Studio,4,1,"Parking,Elevator,Security 24/7,Wifi",32000
+157,4,2,Setif,El Eulma,Apartment,5,0,"Air Conditioning,Wifi",73000
+258,4,1,Setif,Ain Arnat,Villa,0,0,"Security 24/7,Wifi,Air Conditioning",172000
+134,3,1,M'Sila,M'Sila City,Apartment,4,0,"Parking,Elevator,Security 24/7,Air Conditioning",44000
+121,4,2,Setif,El Eulma,Apartment,3,0,"Elevator,Wifi",65500
+129,4,2,Oran,Oran City,Apartment,1,0,"Parking,Elevator,Security 24/7,Air Conditioning",98500
+153,2,1,Constantine,Constantine City,Apartment,0,0,"Security 24/7,Wifi",75000
+140,2,1,Setif,El Eulma,Apartment,8,0,"Parking,Elevator,Wifi,Air Conditioning",53500
+102,2,1,Oran,Oran City,Apartment,6,1,Air Conditioning,94000
+116,3,1,Algiers,Sidi M'Hamed,Apartment,8,0,"Parking,Elevator,Wifi,Heating",108500
+156,2,2,Oran,Oran City,Apartment,7,0,"Heating,Elevator,Security 24/7,Air Conditioning",80000
+147,2,1,Oran,Es Senia,Apartment,7,1,Parking,118500
+48,1,2,Oran,Bir El Djir,Studio,1,0,"Parking,Elevator",32000
+149,3,2,Setif,Setif City,Apartment,8,0,"Parking,Elevator,Wifi",74000
+106,4,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Security 24/7,Wifi",107500
+90,3,2,Oran,Es Senia,Apartment,1,0,"Heating,Parking",63500
+157,4,2,Setif,El Eulma,Apartment,1,0,"Elevator,Security 24/7",81500
+223,6,2,M'Sila,M'Sila City,Villa,0,0,"Security 24/7,Air Conditioning,Wifi",118500
+165,6,1,M'Sila,M'Sila City,Villa,0,1,"Elevator,Air Conditioning",164500
+77,3,2,Oran,Akid Lotfi,Apartment,0,0,"Elevator,Security 24/7",56000
+31,1,1,Setif,El Eulma,Studio,1,0,Security 24/7,16000
+52,1,2,Algiers,Hydra,Studio,2,1,"Security 24/7,Air Conditioning",74500
+159,2,1,Oran,Oran City,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",94000
+118,3,1,Algiers,Hydra,Apartment,1,0,"Parking,Elevator,Security 24/7,Air Conditioning",105000
+54,1,2,Algiers,Sidi M'Hamed,Studio,4,0,"Parking,Elevator,Air Conditioning,Heating",38500
+68,2,1,M'Sila,M'Sila City,Apartment,0,0,"Heating,Elevator,Security 24/7",25500
+77,3,2,Oran,Akid Lotfi,Apartment,3,1,"Heating,Elevator",95000
+74,2,1,Constantine,Ali Mendjeli,Apartment,6,1,"Elevator,Security 24/7",68000
+156,3,2,Constantine,Constantine City,Apartment,2,0,"Parking,Air Conditioning,Heating",81000
+338,4,2,M'Sila,Magra,Villa,0,0,"Parking,Wifi",144000
+85,3,2,Algiers,Bab Ezzouar,Apartment,6,0,"Elevator,Security 24/7,Air Conditioning,Wifi",71500
+41,1,2,Algiers,Bab Ezzouar,Studio,0,1,"Heating,Elevator",57000
+146,4,2,Oran,Bir El Djir,Apartment,6,0,"Parking,Elevator,Air Conditioning,Wifi",100500
+65,2,2,Setif,Ain Arnat,Apartment,3,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",36000
+40,1,1,M'Sila,Magra,Studio,4,1,"Parking,Security 24/7,Wifi",17000
+76,3,1,Setif,El Eulma,Apartment,4,1,"Heating,Elevator,Wifi",64000
+41,1,2,Oran,Akid Lotfi,Studio,1,0,"Heating,Security 24/7,Air Conditioning",28500
+145,2,2,Oran,Akid Lotfi,Apartment,3,0,"Heating,Elevator",88000
+116,4,2,Setif,Setif City,Apartment,8,0,"Elevator,Air Conditioning",67000
+80,3,2,Oran,Akid Lotfi,Apartment,6,1,"Heating,Elevator,Parking",80000
+133,4,2,M'Sila,M'Sila City,Apartment,5,0,"Parking,Elevator,Wifi,Air Conditioning",51000
+369,4,2,Setif,El Eulma,Villa,0,0,"Heating,Security 24/7,Wifi,Parking",216000
+134,4,2,Oran,Oran City,Apartment,1,0,"Heating,Elevator",97000
+51,1,2,Setif,Setif City,Studio,1,0,"Elevator,Security 24/7,Wifi,Air Conditioning",23500
+33,1,2,Setif,Setif City,Studio,0,0,"Parking,Wifi",21000
+50,1,1,M'Sila,M'Sila City,Studio,0,0,"Parking,Elevator,Security 24/7,Wifi",17500
+41,1,2,Setif,Ain Arnat,Studio,1,0,"Parking,Elevator,Security 24/7,Wifi",24000
+420,8,2,M'Sila,Magra,Villa,0,0,"Elevator,Air Conditioning",183500
+66,4,1,Oran,Es Senia,Apartment,3,1,Air Conditioning,98500
+75,3,2,Constantine,Constantine City,Apartment,3,1,Elevator,76000
+128,3,1,M'Sila,M'Sila City,Apartment,3,0,"Elevator,Wifi",45500
+405,6,1,Algiers,Hydra,Villa,0,0,"Parking,Elevator,Air Conditioning",420000
+47,1,2,M'Sila,Magra,Studio,3,1,Parking,27500
+137,2,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Heating,Elevator,Wifi",107500
+150,4,2,Oran,Akid Lotfi,Apartment,5,0,"Parking,Security 24/7,Air Conditioning,Heating",95500
+114,2,1,Setif,El Eulma,Apartment,8,1,"Heating,Elevator,Wifi",73000
+52,1,2,Oran,Akid Lotfi,Studio,3,0,"Air Conditioning,Wifi",33000
+96,2,2,Constantine,El Khroub,Apartment,2,0,"Elevator,Wifi,Air Conditioning",54500
+127,4,1,Algiers,Bab Ezzouar,Apartment,1,1,Wifi,191000
+124,2,1,Setif,El Eulma,Apartment,6,0,Elevator,59000
+97,4,2,M'Sila,Magra,Apartment,2,1,"Parking,Security 24/7",65000
+50,1,2,Algiers,El Biar,Studio,3,1,"Elevator,Wifi",64500
+129,2,2,Constantine,Constantine City,Apartment,2,0,"Parking,Air Conditioning,Heating",71000
+157,2,1,M'Sila,M'Sila City,Apartment,7,1,"Security 24/7,Air Conditioning",69500
+360,5,2,Constantine,El Khroub,Villa,0,1,"Parking,Security 24/7,Air Conditioning",387000
+37,1,2,Algiers,Zeralda,Studio,4,0,Air Conditioning,31000
+116,4,1,Constantine,Constantine City,Apartment,1,0,"Elevator,Security 24/7,Wifi,Air Conditioning",75000
+118,3,1,Algiers,Sidi M'Hamed,Apartment,6,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",102500
+131,3,1,Constantine,Ali Mendjeli,Apartment,1,0,"Parking,Elevator",74000
+89,4,1,Constantine,Constantine City,Apartment,3,0,"Heating,Security 24/7,Parking,Elevator,Wifi",61000
+366,4,2,M'Sila,Boussaada,Villa,0,1,"Security 24/7,Wifi",232500
+33,1,1,M'Sila,Boussaada,Studio,0,1,"Parking,Elevator,Wifi",19500
+227,5,1,Oran,Es Senia,Villa,0,0,"Heating,Air Conditioning",223000
+63,3,1,Constantine,Constantine City,Apartment,6,1,"Elevator,Security 24/7,Wifi",69500
+63,4,2,Setif,El Eulma,Apartment,2,1,"Heating,Elevator,Air Conditioning",73500
+76,2,2,Constantine,Ali Mendjeli,Apartment,2,0,"Elevator,Security 24/7",42500
+376,7,2,Setif,Setif City,Villa,0,0,"Heating,Elevator",239000
+64,3,1,Setif,Ain Arnat,Apartment,6,0,"Heating,Elevator,Wifi",47000
+100,4,1,Constantine,El Khroub,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",72500
+49,1,2,Oran,Es Senia,Studio,0,0,Elevator,27500
+97,3,2,Constantine,Ali Mendjeli,Apartment,4,1,"Heating,Wifi",83000
+61,3,2,Setif,Setif City,Apartment,8,0,"Security 24/7,Wifi,Air Conditioning",30500
+86,3,1,Setif,Ain Arnat,Apartment,6,0,"Parking,Elevator,Security 24/7,Wifi",42500
+51,1,1,Algiers,Sidi M'Hamed,Studio,4,0,"Heating,Wifi,Air Conditioning,Parking",36000
+156,2,1,Oran,Es Senia,Apartment,6,1,"Parking,Elevator,Wifi,Air Conditioning",148000
+110,3,2,M'Sila,Boussaada,Apartment,1,0,"Parking,Elevator,Security 24/7,Wifi",42500
+47,1,2,Constantine,El Khroub,Studio,3,0,"Elevator,Security 24/7",25500
+64,3,1,M'Sila,Boussaada,Apartment,0,0,"Parking,Security 24/7,Wifi,Air Conditioning",23500
+105,2,1,Oran,Bir El Djir,Apartment,7,0,"Parking,Security 24/7,Air Conditioning,Wifi",57000
+68,4,1,Algiers,El Biar,Apartment,5,0,"Parking,Elevator",86500
+90,3,1,M'Sila,Boussaada,Apartment,4,0,Air Conditioning,31500
+86,3,1,Oran,Es Senia,Apartment,1,1,"Parking,Elevator,Security 24/7",103000
+112,3,1,Constantine,Constantine City,Apartment,1,1,"Heating,Elevator,Security 24/7,Air Conditioning",103000
+38,1,1,M'Sila,Magra,Studio,2,1,"Heating,Elevator,Wifi,Air Conditioning",27000
+177,7,2,Oran,Es Senia,Villa,0,1,"Heating,Security 24/7,Parking",328000
+158,2,1,M'Sila,M'Sila City,Apartment,1,1,"Security 24/7,Wifi",80500
+107,4,2,Oran,Es Senia,Apartment,1,1,Elevator,130000
+148,3,2,M'Sila,M'Sila City,Apartment,2,1,"Heating,Elevator,Air Conditioning,Parking",76500
+100,3,2,Oran,Es Senia,Apartment,5,0,"Parking,Elevator,Security 24/7",75500
+198,8,1,Setif,El Eulma,Villa,0,0,"Parking,Air Conditioning",177000
+392,4,2,Setif,El Eulma,Villa,0,1,Air Conditioning,350000
+34,1,1,Oran,Akid Lotfi,Studio,4,0,Elevator,25000
+84,4,1,Constantine,Ali Mendjeli,Apartment,5,1,"Heating,Air Conditioning",79500
+121,3,2,Setif,Setif City,Apartment,5,0,"Heating,Elevator",65500
+156,2,1,M'Sila,Magra,Apartment,7,0,"Elevator,Wifi",49000
+89,2,1,Oran,Es Senia,Apartment,1,1,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",92500
+100,4,1,Algiers,Zeralda,Apartment,1,0,"Parking,Security 24/7,Wifi,Heating",104500
+116,3,2,Constantine,El Khroub,Apartment,7,0,"Parking,Elevator,Security 24/7,Heating",63000
+144,3,1,Oran,Oran City,Apartment,5,0,"Heating,Elevator,Wifi,Parking",97000
+134,4,2,Algiers,Hydra,Apartment,7,1,"Parking,Security 24/7,Wifi,Heating",172500
+100,2,1,Constantine,Ali Mendjeli,Apartment,2,1,"Elevator,Security 24/7",87500
+72,2,1,Constantine,Ali Mendjeli,Apartment,6,0,"Elevator,Security 24/7",42000
+61,2,2,Algiers,Hydra,Apartment,5,1,"Elevator,Wifi",95000
+81,4,1,M'Sila,Magra,Apartment,6,0,"Elevator,Air Conditioning",41000
+111,3,1,Setif,Setif City,Apartment,8,1,"Heating,Air Conditioning,Parking",79500
+32,1,2,M'Sila,M'Sila City,Studio,2,0,Air Conditioning,15000
+104,4,1,Algiers,Hydra,Apartment,5,1,"Heating,Elevator,Air Conditioning,Wifi",148000
+48,1,2,Algiers,Sidi M'Hamed,Studio,1,0,"Parking,Heating",42500
+149,3,1,Algiers,Zeralda,Apartment,8,0,"Security 24/7,Air Conditioning",112000
+41,1,1,Oran,Es Senia,Studio,3,0,"Elevator,Air Conditioning",31500
+147,4,2,Setif,Setif City,Apartment,0,0,"Parking,Elevator,Security 24/7",78000
+120,3,1,Constantine,El Khroub,Apartment,3,1,"Elevator,Security 24/7",108000
+41,1,2,Constantine,Constantine City,Studio,0,0,"Parking,Security 24/7",22000
+147,3,2,M'Sila,Magra,Apartment,0,0,"Heating,Elevator,Security 24/7,Wifi",51500
+155,3,2,Algiers,Bab Ezzouar,Apartment,7,0,"Parking,Elevator,Security 24/7,Wifi",133500
+145,2,1,Algiers,Hydra,Apartment,7,1,"Heating,Elevator,Security 24/7",178500
+73,4,1,Oran,Es Senia,Apartment,0,0,Elevator,66000
+387,4,1,Constantine,Ali Mendjeli,Villa,0,1,Parking,393000
+93,2,2,Setif,Ain Arnat,Apartment,3,1,"Parking,Elevator,Wifi",72000
+99,3,2,Setif,Ain Arnat,Apartment,2,0,"Heating,Elevator,Air Conditioning",55000
+68,2,1,M'Sila,Boussaada,Apartment,5,0,"Parking,Elevator",28500
+113,4,2,Algiers,El Biar,Apartment,7,0,"Elevator,Security 24/7",97500
+91,3,1,Setif,Ain Arnat,Apartment,1,1,"Elevator,Wifi,Air Conditioning",81500
+249,6,1,Algiers,Hydra,Villa,0,0,"Parking,Wifi,Air Conditioning",315500
+74,3,1,M'Sila,Boussaada,Apartment,1,0,"Heating,Security 24/7,Wifi,Parking",31000
+133,4,2,Oran,Oran City,Apartment,8,1,"Heating,Security 24/7,Wifi,Air Conditioning",135500
+80,3,1,Setif,Setif City,Apartment,2,1,"Elevator,Wifi",71500
+80,3,2,Setif,El Eulma,Apartment,1,0,Security 24/7,45000
+41,1,2,Setif,El Eulma,Studio,4,0,"Heating,Elevator,Wifi",15500
+86,3,1,Setif,El Eulma,Apartment,7,1,"Heating,Elevator,Wifi",77500
+87,4,2,M'Sila,Boussaada,Apartment,6,1,Wifi,51500
+63,4,1,Constantine,El Khroub,Apartment,3,1,"Heating,Elevator",80500
+202,5,1,M'Sila,Magra,Villa,0,1,"Heating,Elevator,Air Conditioning",173000
+48,1,1,Oran,Oran City,Studio,3,1,"Parking,Elevator,Wifi",52500
+107,2,1,Setif,Setif City,Apartment,8,1,"Heating,Elevator,Wifi,Parking",83000
+389,5,2,Setif,El Eulma,Villa,0,0,"Parking,Elevator,Security 24/7",230500
+152,4,2,Setif,Ain Arnat,Apartment,1,1,"Elevator,Security 24/7,Wifi,Air Conditioning",127000
+86,2,2,Constantine,Constantine City,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",49000
+44,1,2,Setif,Ain Arnat,Studio,4,1,"Parking,Elevator,Wifi",33500
+105,3,1,Setif,El Eulma,Apartment,7,0,"Heating,Elevator,Security 24/7,Wifi",52000
+152,2,2,M'Sila,M'Sila City,Apartment,0,1,Security 24/7,71500
+126,4,2,Oran,Es Senia,Apartment,8,0,"Heating,Wifi,Air Conditioning",83500
+63,2,1,Algiers,Zeralda,Apartment,7,0,"Elevator,Security 24/7,Wifi,Air Conditioning",64000
+114,4,1,M'Sila,Magra,Apartment,7,1,Elevator,73000
+119,4,1,Constantine,Constantine City,Apartment,7,0,"Heating,Elevator,Air Conditioning,Parking",76000
+40,1,2,Constantine,El Khroub,Studio,4,0,Air Conditioning,22500
+145,3,2,Constantine,Constantine City,Apartment,7,0,"Heating,Air Conditioning,Wifi,Parking",68500
+152,3,2,Algiers,Bab Ezzouar,Apartment,3,1,"Parking,Elevator,Air Conditioning",203000
+46,1,1,M'Sila,Boussaada,Studio,0,0,"Heating,Wifi",18000
+141,2,2,Algiers,El Biar,Apartment,3,1,"Heating,Elevator",175500
+45,1,2,Algiers,Hydra,Studio,2,1,"Heating,Air Conditioning,Parking",64000
+46,1,1,Oran,Bir El Djir,Studio,0,1,"Elevator,Security 24/7",53500
+194,7,2,Setif,Setif City,Villa,0,0,"Heating,Parking",169000
+113,2,2,Algiers,Hydra,Apartment,7,0,"Elevator,Wifi",96000
+98,2,1,M'Sila,Magra,Apartment,0,0,"Elevator,Air Conditioning",32000
+243,4,2,Oran,Oran City,Villa,0,1,"Heating,Security 24/7,Air Conditioning",351000
+142,3,1,Algiers,El Biar,Apartment,4,0,"Parking,Elevator,Security 24/7,Heating",127000
+36,1,1,Oran,Akid Lotfi,Studio,4,1,"Heating,Security 24/7,Air Conditioning,Wifi",36500
+134,3,1,Oran,Akid Lotfi,Apartment,6,1,"Heating,Security 24/7,Wifi",125000
+89,4,1,Constantine,Constantine City,Apartment,8,0,Parking,56000
+111,4,2,Constantine,Constantine City,Apartment,1,0,Security 24/7,71000
+145,2,1,Algiers,Bab Ezzouar,Apartment,3,0,"Parking,Elevator",116000
+159,2,1,Algiers,Bab Ezzouar,Apartment,4,1,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",194500
+105,2,1,Oran,Bir El Djir,Apartment,0,0,"Parking,Security 24/7,Air Conditioning",69000
+137,2,1,Setif,El Eulma,Apartment,0,0,"Heating,Elevator,Parking",59000
+40,1,1,M'Sila,M'Sila City,Studio,2,1,Heating,26000
+131,4,2,Constantine,Ali Mendjeli,Apartment,7,0,Elevator,74000
+70,4,2,Oran,Bir El Djir,Apartment,0,1,"Parking,Elevator",102000
+129,4,2,Setif,El Eulma,Apartment,7,0,"Parking,Security 24/7",65000
+61,3,2,M'Sila,M'Sila City,Apartment,6,0,"Parking,Elevator",25500
+298,7,2,M'Sila,Magra,Villa,0,0,"Heating,Air Conditioning",149500
+136,3,1,Constantine,Constantine City,Apartment,1,0,"Elevator,Air Conditioning",76000
+98,3,1,Algiers,El Biar,Apartment,2,0,"Elevator,Wifi",93500
+140,3,1,Oran,Oran City,Apartment,7,1,"Parking,Elevator,Security 24/7",148000
+99,2,1,Constantine,Constantine City,Apartment,3,0,"Heating,Elevator,Security 24/7,Air Conditioning",57000
+36,1,2,Algiers,Bab Ezzouar,Studio,2,1,Elevator,53500
+133,2,1,M'Sila,Magra,Apartment,3,1,Elevator,68500
+81,2,2,Setif,Ain Arnat,Apartment,6,0,"Heating,Security 24/7,Air Conditioning,Parking",34500
+108,2,2,Algiers,Hydra,Apartment,2,0,Security 24/7,94000
+87,3,2,M'Sila,Boussaada,Apartment,5,0,"Heating,Elevator,Wifi,Parking",29500
+60,4,1,Oran,Bir El Djir,Apartment,4,0,"Heating,Elevator,Security 24/7",58000
+143,2,2,Constantine,Constantine City,Apartment,0,1,Air Conditioning,110500
+155,4,1,Setif,Setif City,Apartment,0,1,"Parking,Elevator,Air Conditioning",126500
+84,4,2,M'Sila,Boussaada,Apartment,8,1,"Heating,Elevator,Wifi",62500
+91,3,2,Oran,Es Senia,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",67500
+79,2,2,Setif,Ain Arnat,Apartment,1,0,"Parking,Elevator,Heating",43500
+129,3,2,M'Sila,Magra,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",50500
+148,4,1,Oran,Es Senia,Apartment,8,0,Elevator,89500
+144,3,1,Algiers,Hydra,Apartment,1,1,"Elevator,Security 24/7",190500
+69,4,1,M'Sila,M'Sila City,Apartment,5,0,"Heating,Security 24/7,Wifi,Parking",30000
+419,5,1,Oran,Oran City,Villa,0,0,"Security 24/7,Wifi,Air Conditioning",320500
+73,4,1,Algiers,Zeralda,Apartment,8,0,"Parking,Security 24/7,Wifi,Air Conditioning",72000
+86,3,2,M'Sila,Boussaada,Apartment,4,1,Elevator,53000
+151,3,2,Oran,Bir El Djir,Apartment,2,0,Elevator,99000
+374,8,2,Constantine,Ali Mendjeli,Villa,0,0,"Parking,Wifi",274500
+67,4,1,Algiers,Zeralda,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",84000
+41,1,2,Algiers,Sidi M'Hamed,Studio,1,0,Wifi,38500
+154,3,1,M'Sila,Boussaada,Apartment,8,0,"Elevator,Security 24/7",54000
+282,8,2,Algiers,Hydra,Villa,0,0,Security 24/7,362000
+69,2,1,Algiers,Sidi M'Hamed,Apartment,6,0,Air Conditioning,56500
+135,3,2,Constantine,El Khroub,Apartment,3,0,"Security 24/7,Air Conditioning",75000
+46,1,1,Setif,Ain Arnat,Studio,3,1,"Elevator,Security 24/7,Air Conditioning",38000
+30,1,2,M'Sila,M'Sila City,Studio,3,0,Wifi,15000
+80,2,1,M'Sila,M'Sila City,Apartment,8,0,"Heating,Elevator,Security 24/7,Air Conditioning",25500
+128,2,2,Algiers,Hydra,Apartment,8,1,"Parking,Elevator,Security 24/7,Heating",142500
+44,1,1,Algiers,Sidi M'Hamed,Studio,3,0,"Parking,Security 24/7,Wifi,Heating",34500
+73,4,1,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Air Conditioning,Wifi",31500
+74,3,2,Setif,Ain Arnat,Apartment,8,1,"Heating,Elevator,Security 24/7,Air Conditioning",63500
+359,4,1,Constantine,El Khroub,Villa,0,1,"Heating,Elevator,Parking",368500
+126,3,2,M'Sila,Magra,Apartment,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",47500
+103,3,2,Constantine,Ali Mendjeli,Apartment,7,0,"Parking,Elevator",61000
+42,1,2,Oran,Es Senia,Studio,0,1,Security 24/7,44500
+94,4,2,M'Sila,Boussaada,Apartment,7,1,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",68500
+74,3,1,Setif,Setif City,Apartment,3,0,"Parking,Elevator",42000
+118,3,2,Setif,El Eulma,Apartment,7,1,"Heating,Security 24/7,Wifi",83000
+88,2,1,Oran,Es Senia,Apartment,3,0,"Elevator,Security 24/7,Wifi",61500
+108,3,1,Oran,Oran City,Apartment,7,0,"Heating,Security 24/7,Wifi,Air Conditioning",69500
+106,3,1,Oran,Es Senia,Apartment,6,0,"Parking,Elevator",78000
+147,3,2,Setif,Ain Arnat,Apartment,8,1,"Heating,Wifi,Air Conditioning,Parking",96000
+138,3,2,Setif,Ain Arnat,Apartment,5,0,Heating,61000
+69,2,2,Algiers,Zeralda,Apartment,8,0,"Heating,Wifi",58500
+63,2,1,Oran,Oran City,Apartment,8,1,"Parking,Elevator,Wifi",70500
+72,2,1,Oran,Bir El Djir,Apartment,5,1,"Parking,Elevator,Wifi",78500
+50,1,2,Oran,Akid Lotfi,Studio,3,1,"Parking,Elevator,Heating",45000
+89,2,1,Constantine,Constantine City,Apartment,0,1,Parking,77500
+88,3,2,Setif,El Eulma,Apartment,1,1,"Heating,Elevator,Wifi,Air Conditioning",78000
+109,2,2,Setif,El Eulma,Apartment,1,0,"Elevator,Air Conditioning,Wifi",48000
+132,3,1,Algiers,Hydra,Apartment,0,0,"Elevator,Wifi",117500
+90,2,1,Setif,El Eulma,Apartment,2,0,"Parking,Elevator,Security 24/7,Air Conditioning",48500
+86,2,1,Constantine,Constantine City,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",49500
+117,4,1,Oran,Akid Lotfi,Apartment,7,0,"Elevator,Air Conditioning",91500
+131,4,1,Setif,Ain Arnat,Apartment,8,0,"Heating,Elevator,Air Conditioning",72000
+145,3,1,Constantine,Constantine City,Apartment,6,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",79000
+139,4,2,M'Sila,Magra,Apartment,0,1,"Parking,Elevator,Heating",81500
+118,4,2,Constantine,Ali Mendjeli,Apartment,7,0,Air Conditioning,66000
+103,3,2,Setif,Ain Arnat,Apartment,7,0,"Elevator,Wifi,Air Conditioning",53500
+133,4,1,Algiers,Zeralda,Apartment,7,1,"Heating,Security 24/7,Air Conditioning",170000
+159,2,1,Constantine,Constantine City,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",80500
+144,3,1,Constantine,Ali Mendjeli,Apartment,8,0,"Heating,Elevator,Security 24/7,Air Conditioning",83000
+291,7,1,Algiers,Sidi M'Hamed,Villa,0,0,"Security 24/7,Air Conditioning",357000
+347,4,2,Algiers,Hydra,Villa,0,0,"Security 24/7,Air Conditioning",370500
+146,2,1,Algiers,El Biar,Apartment,0,1,"Elevator,Wifi",181500
+119,3,1,Constantine,Constantine City,Apartment,7,0,"Heating,Elevator,Air Conditioning,Wifi",60500
+60,4,1,Oran,Bir El Djir,Apartment,5,1,Security 24/7,82500
+191,7,1,Oran,Es Senia,Villa,0,1,Wifi,341000
+83,2,1,Oran,Oran City,Apartment,1,0,Parking,55500
+221,5,2,Constantine,Ali Mendjeli,Villa,0,1,"Elevator,Air Conditioning",289500
+110,3,1,M'Sila,Boussaada,Apartment,7,1,"Elevator,Air Conditioning",64000
+259,6,1,Oran,Oran City,Villa,0,0,"Heating,Security 24/7,Air Conditioning,Parking",248000
+92,3,2,M'Sila,M'Sila City,Apartment,3,0,"Heating,Security 24/7,Air Conditioning",41000
+76,2,2,Algiers,Sidi M'Hamed,Apartment,7,0,"Parking,Security 24/7",59500
+285,6,1,Setif,Ain Arnat,Villa,0,0,Parking,196000
+380,4,2,Oran,Akid Lotfi,Villa,0,0,"Heating,Wifi,Air Conditioning,Parking",297000
+54,1,2,Constantine,Ali Mendjeli,Studio,4,1,"Parking,Security 24/7,Air Conditioning,Heating",39500
+141,3,2,M'Sila,M'Sila City,Apartment,6,0,"Parking,Air Conditioning,Wifi",40000
+113,3,2,Constantine,Constantine City,Apartment,8,1,"Parking,Elevator",94000
+155,3,1,Algiers,Sidi M'Hamed,Apartment,4,1,Air Conditioning,182000
+365,8,2,Setif,Setif City,Villa,0,0,Parking,239000
+196,6,1,Constantine,El Khroub,Villa,0,1,Parking,285500
+126,2,1,M'Sila,Magra,Apartment,6,0,Security 24/7,38000
+40,1,2,Setif,Ain Arnat,Studio,0,1,Wifi,34500
+113,3,2,M'Sila,Magra,Apartment,2,0,Wifi,39500
+129,3,1,Constantine,El Khroub,Apartment,1,0,Wifi,73500
+40,1,1,Algiers,El Biar,Studio,3,0,"Parking,Elevator,Security 24/7",35000
+87,3,2,Oran,Akid Lotfi,Apartment,7,0,"Parking,Elevator,Heating",59000
+33,1,2,Oran,Akid Lotfi,Studio,0,0,Elevator,23500
+141,4,1,Constantine,Ali Mendjeli,Apartment,7,0,Security 24/7,77500
+45,1,1,Constantine,Constantine City,Studio,4,0,"Parking,Wifi",25500
+131,2,2,Oran,Akid Lotfi,Apartment,7,0,Air Conditioning,73000
+150,2,2,M'Sila,Magra,Apartment,2,0,"Heating,Elevator,Security 24/7,Air Conditioning",48000
+42,1,1,Constantine,El Khroub,Studio,3,0,"Parking,Air Conditioning,Wifi,Heating",26000
+148,4,2,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Wifi",56500
+113,2,2,Oran,Bir El Djir,Apartment,2,1,"Heating,Elevator,Security 24/7,Air Conditioning",111500
+60,4,1,Constantine,El Khroub,Apartment,4,1,"Heating,Elevator",74500
+136,4,2,Setif,Ain Arnat,Apartment,5,0,"Parking,Wifi,Air Conditioning,Heating",62000
+154,3,1,Constantine,Constantine City,Apartment,7,0,"Heating,Elevator,Security 24/7,Wifi",86500
+284,4,2,Oran,Es Senia,Villa,0,0,"Heating,Elevator",252000
+151,4,1,Oran,Akid Lotfi,Apartment,5,1,"Elevator,Security 24/7,Wifi",149500
+322,6,1,Setif,Ain Arnat,Villa,0,1,Security 24/7,325500
+124,4,1,Constantine,El Khroub,Apartment,7,0,"Heating,Air Conditioning,Wifi",69000
+108,2,2,Algiers,Zeralda,Apartment,6,0,"Heating,Elevator,Wifi,Air Conditioning",85000
+99,2,1,Algiers,Zeralda,Apartment,3,1,"Elevator,Air Conditioning,Wifi",130000
+129,4,2,Constantine,Ali Mendjeli,Apartment,7,0,"Heating,Elevator",77000
+95,4,2,Setif,Ain Arnat,Apartment,6,0,"Parking,Air Conditioning,Wifi,Heating",52500
+40,1,2,M'Sila,Boussaada,Studio,1,1,"Elevator,Security 24/7,Wifi,Air Conditioning",21000
+85,2,1,Constantine,Constantine City,Apartment,2,0,"Parking,Security 24/7,Wifi",48000
+136,4,1,Constantine,Constantine City,Apartment,5,0,"Heating,Elevator,Security 24/7,Wifi",72500
+89,3,1,Constantine,El Khroub,Apartment,4,0,"Parking,Elevator,Security 24/7",60500
+84,3,2,Algiers,Sidi M'Hamed,Apartment,1,1,"Parking,Elevator,Security 24/7,Wifi",130000
+377,6,2,M'Sila,Magra,Villa,0,0,"Heating,Elevator,Wifi",163500
+133,2,1,Setif,Setif City,Apartment,8,0,"Heating,Elevator,Security 24/7,Wifi",63500
+141,4,2,Constantine,El Khroub,Apartment,5,0,"Heating,Elevator,Air Conditioning",86500
+121,2,2,Setif,Ain Arnat,Apartment,2,0,"Elevator,Security 24/7",59500
+106,4,2,M'Sila,Magra,Apartment,4,1,"Security 24/7,Air Conditioning",62000
+92,3,1,Oran,Akid Lotfi,Apartment,1,1,"Heating,Elevator,Wifi,Parking",107500
+95,2,1,M'Sila,Boussaada,Apartment,3,1,"Heating,Elevator,Wifi",47500
+40,1,2,Constantine,Constantine City,Studio,4,1,Wifi,35500
+264,4,2,Setif,Ain Arnat,Villa,0,0,"Elevator,Wifi",173500
+81,4,1,Oran,Oran City,Apartment,1,1,"Parking,Elevator,Security 24/7,Wifi",110000
+89,2,2,Algiers,El Biar,Apartment,8,1,"Elevator,Security 24/7",110500
+64,4,2,M'Sila,Boussaada,Apartment,3,0,"Parking,Security 24/7",28000
+129,4,2,Algiers,Zeralda,Apartment,7,1,Heating,170500
+133,3,1,Setif,Setif City,Apartment,3,0,"Parking,Elevator",66500
+85,4,2,M'Sila,M'Sila City,Apartment,6,1,"Heating,Air Conditioning",50000
+152,2,2,Algiers,Hydra,Apartment,7,1,"Parking,Elevator,Air Conditioning,Heating",182000
+131,2,1,Algiers,Hydra,Apartment,7,0,"Heating,Elevator,Parking",108000
+150,4,1,Constantine,Ali Mendjeli,Villa,0,0,"Parking,Heating",148000
+66,2,2,Constantine,El Khroub,Apartment,2,0,"Heating,Elevator,Security 24/7,Parking",44000
+80,4,1,M'Sila,M'Sila City,Apartment,8,0,"Parking,Elevator,Wifi",37500
+83,3,2,Oran,Es Senia,Apartment,5,1,Air Conditioning,85000
+371,5,2,M'Sila,Magra,Villa,0,0,"Heating,Elevator,Air Conditioning,Parking",161000
+325,7,2,Setif,El Eulma,Villa,0,0,"Heating,Elevator,Air Conditioning",216000
+130,2,1,Oran,Es Senia,Apartment,8,0,Elevator,74000
+70,2,2,Setif,El Eulma,Apartment,4,1,"Elevator,Security 24/7,Wifi,Air Conditioning",59500
+51,1,2,Setif,El Eulma,Studio,1,0,"Parking,Elevator,Wifi,Air Conditioning",23500
+90,4,2,Setif,Ain Arnat,Apartment,2,0,"Elevator,Wifi",58000
+41,1,2,Setif,Setif City,Studio,2,0,"Parking,Air Conditioning",18500
+44,1,2,M'Sila,M'Sila City,Studio,4,1,"Security 24/7,Wifi",23000
+107,2,1,Algiers,Bab Ezzouar,Apartment,6,0,"Heating,Elevator,Security 24/7,Wifi",81500
+140,3,2,Algiers,Sidi M'Hamed,Apartment,2,0,Heating,124000
+96,2,2,M'Sila,Boussaada,Apartment,3,1,"Elevator,Security 24/7",50500
+86,4,1,Oran,Oran City,Apartment,6,0,"Parking,Elevator",72500
+136,2,1,M'Sila,Boussaada,Apartment,2,1,"Heating,Security 24/7,Air Conditioning",71500
+163,8,1,Oran,Oran City,Villa,0,0,Parking,215000
+32,1,2,Setif,El Eulma,Studio,2,0,"Heating,Security 24/7,Air Conditioning",17000
+317,6,1,Setif,Setif City,Villa,0,1,"Parking,Elevator,Security 24/7,Air Conditioning",324500
+62,4,2,M'Sila,Boussaada,Apartment,3,0,"Heating,Elevator,Air Conditioning,Parking",28000
+284,4,1,Algiers,El Biar,Villa,0,1,Heating,501500
+46,1,2,Constantine,Constantine City,Studio,2,1,"Heating,Security 24/7,Air Conditioning,Parking",42500
+149,3,1,Setif,Setif City,Apartment,0,1,"Parking,Elevator,Air Conditioning",107000
+349,8,1,Setif,El Eulma,Villa,0,0,"Parking,Elevator,Security 24/7,Air Conditioning",232500
+92,4,1,M'Sila,Boussaada,Apartment,0,0,"Parking,Elevator,Wifi",39000
+119,3,1,Constantine,Ali Mendjeli,Apartment,7,0,"Elevator,Security 24/7,Wifi",61000
+128,2,2,Setif,Setif City,Apartment,2,0,Parking,62500
+74,2,1,Constantine,Constantine City,Apartment,2,0,"Elevator,Security 24/7,Wifi,Air Conditioning",41500
+95,3,1,Setif,Ain Arnat,Apartment,3,1,"Elevator,Security 24/7,Wifi,Air Conditioning",82500
+73,3,1,Algiers,El Biar,Apartment,3,1,Air Conditioning,118000
+64,4,1,Oran,Bir El Djir,Apartment,8,1,"Heating,Wifi",88500
+141,2,2,Constantine,Constantine City,Apartment,8,0,"Heating,Elevator,Air Conditioning,Parking",72000
+106,4,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",107000
+124,4,2,Algiers,Sidi M'Hamed,Apartment,4,1,Heating,165500
+61,3,2,Constantine,Constantine City,Apartment,2,0,"Heating,Elevator,Security 24/7",45000
+40,1,2,Constantine,El Khroub,Studio,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",26000
+92,3,2,Oran,Es Senia,Apartment,2,1,"Parking,Security 24/7,Wifi",107500
+63,2,2,Constantine,El Khroub,Apartment,8,0,"Heating,Elevator",40500
+137,3,2,Oran,Es Senia,Apartment,1,0,"Heating,Elevator,Security 24/7,Wifi",91000
+118,2,1,Setif,Ain Arnat,Apartment,3,1,"Heating,Elevator,Security 24/7,Wifi",91500
+114,4,1,Oran,Oran City,Apartment,2,1,"Elevator,Security 24/7,Air Conditioning",136500
+87,4,2,Algiers,Hydra,Apartment,3,0,"Heating,Elevator,Security 24/7,Parking",94500
+130,4,1,Algiers,El Biar,Apartment,0,1,"Parking,Elevator",192500
+51,1,1,Setif,Setif City,Studio,2,1,"Parking,Security 24/7,Air Conditioning,Wifi",43500
+96,2,1,M'Sila,Boussaada,Apartment,3,0,"Heating,Security 24/7",34000
+150,3,1,M'Sila,Magra,Apartment,7,0,"Heating,Elevator,Air Conditioning",52000
+135,2,2,Oran,Akid Lotfi,Apartment,3,1,"Heating,Security 24/7,Parking",125000
+39,1,2,M'Sila,Boussaada,Studio,2,0,"Parking,Elevator,Wifi",15000
+406,8,2,Setif,El Eulma,Villa,0,0,Air Conditioning,257000
+65,2,1,M'Sila,Magra,Apartment,4,0,"Heating,Elevator",23500
+154,2,1,Constantine,Ali Mendjeli,Apartment,2,1,"Heating,Elevator,Security 24/7,Parking",125000
+152,4,2,Algiers,Zeralda,Apartment,7,0,Heating,122500
+103,2,1,M'Sila,M'Sila City,Apartment,3,0,"Elevator,Security 24/7,Wifi",38500
+110,4,1,Algiers,Hydra,Apartment,5,0,Elevator,95000
+84,3,1,M'Sila,M'Sila City,Apartment,3,1,"Elevator,Security 24/7",56000
+68,3,2,Constantine,Ali Mendjeli,Apartment,7,0,"Security 24/7,Wifi",39500
+122,4,2,Setif,Ain Arnat,Apartment,6,0,Heating,61000
+106,4,2,Setif,Setif City,Apartment,0,1,"Heating,Elevator,Security 24/7,Wifi",96500
+127,3,2,M'Sila,Boussaada,Apartment,1,0,"Heating,Elevator,Wifi,Air Conditioning",46000
+114,2,2,Algiers,Hydra,Apartment,1,1,"Parking,Security 24/7,Wifi,Air Conditioning",148000
+115,3,1,Oran,Oran City,Apartment,5,0,"Elevator,Air Conditioning",80000
+96,2,2,Algiers,Hydra,Apartment,8,0,"Elevator,Air Conditioning,Wifi",72500
+120,2,2,M'Sila,M'Sila City,Apartment,1,1,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",65000
+162,7,2,Setif,Setif City,Villa,0,0,"Parking,Elevator,Security 24/7,Wifi",156000
+74,4,1,Oran,Oran City,Apartment,8,1,Air Conditioning,89500
+127,2,1,Setif,Setif City,Apartment,0,0,"Elevator,Security 24/7,Wifi,Air Conditioning",63500
+71,4,2,Oran,Akid Lotfi,Apartment,2,1,"Elevator,Air Conditioning",96000
+75,4,1,M'Sila,Magra,Apartment,4,0,"Parking,Elevator,Security 24/7,Wifi",34000
+79,2,1,Oran,Akid Lotfi,Apartment,4,0,"Parking,Elevator,Air Conditioning,Heating",50000
+155,4,1,Setif,Setif City,Villa,0,0,"Elevator,Air Conditioning,Wifi",132000
+97,3,1,Oran,Akid Lotfi,Apartment,6,0,"Elevator,Wifi",65000
+109,3,2,M'Sila,Boussaada,Apartment,0,1,"Parking,Elevator,Security 24/7,Wifi",62500
+159,3,1,Constantine,El Khroub,Apartment,1,1,"Parking,Elevator,Security 24/7,Wifi",134000
+155,3,1,Algiers,Zeralda,Apartment,6,0,"Heating,Elevator,Security 24/7,Wifi",118000
+46,1,1,Algiers,Sidi M'Hamed,Studio,2,0,"Heating,Wifi",40500
+155,2,2,Algiers,Bab Ezzouar,Apartment,1,1,Air Conditioning,188500
+69,4,1,Oran,Es Senia,Apartment,4,1,"Elevator,Wifi",98500
+139,3,1,Oran,Oran City,Apartment,7,0,"Parking,Elevator,Security 24/7,Wifi",81000
+147,3,1,Algiers,El Biar,Apartment,2,0,"Parking,Elevator,Security 24/7,Wifi",120000
+40,1,2,Algiers,Hydra,Studio,1,0,Wifi,36500
+85,4,2,M'Sila,Boussaada,Apartment,1,1,"Elevator,Wifi",59500
+62,4,1,Constantine,El Khroub,Apartment,8,0,"Heating,Elevator,Wifi,Parking",56000
+34,1,2,Constantine,Constantine City,Studio,0,1,"Parking,Security 24/7",37500
+101,2,1,M'Sila,M'Sila City,Apartment,7,0,"Heating,Security 24/7,Wifi,Air Conditioning",30000
+107,2,2,Oran,Oran City,Apartment,2,0,Elevator,65000
+100,2,2,Setif,El Eulma,Apartment,0,1,"Heating,Elevator",82500
+105,2,2,M'Sila,Magra,Apartment,6,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",32500
+113,2,2,Setif,Setif City,Apartment,8,1,"Heating,Air Conditioning,Parking,Elevator,Wifi",83000
+158,2,2,M'Sila,Magra,Apartment,7,1,"Heating,Air Conditioning,Wifi",69000
+62,4,2,Algiers,Zeralda,Apartment,3,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",124000
+77,4,2,M'Sila,M'Sila City,Apartment,4,0,"Heating,Wifi,Air Conditioning",29500
+187,6,2,Setif,Setif City,Villa,0,1,"Parking,Wifi,Heating",245000
+64,2,2,Setif,Setif City,Apartment,1,0,"Elevator,Wifi,Air Conditioning",32500
+152,3,2,M'Sila,Magra,Apartment,4,1,"Heating,Elevator,Security 24/7,Wifi",75000
+139,4,1,Oran,Es Senia,Apartment,5,1,"Heating,Air Conditioning",140500
+221,8,2,Constantine,El Khroub,Villa,0,0,Security 24/7,207000
+111,2,2,Algiers,Hydra,Apartment,7,1,"Elevator,Security 24/7,Air Conditioning,Wifi",142500
+150,3,1,Constantine,Constantine City,Apartment,0,1,"Parking,Security 24/7,Air Conditioning,Heating",127000
+119,2,2,Constantine,El Khroub,Apartment,5,0,"Elevator,Security 24/7,Wifi,Air Conditioning",61000
+150,2,1,Oran,Oran City,Apartment,8,1,"Heating,Elevator,Security 24/7,Parking",144500
+67,3,1,Setif,El Eulma,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning",37000
+245,7,1,Constantine,El Khroub,Villa,0,1,"Parking,Air Conditioning,Wifi,Heating",324000
+68,4,1,Algiers,El Biar,Apartment,6,0,"Heating,Elevator,Security 24/7,Air Conditioning",87500
+154,4,1,Constantine,Ali Mendjeli,Apartment,8,1,"Elevator,Security 24/7,Air Conditioning",143000
+87,4,2,Setif,Setif City,Apartment,0,0,"Elevator,Air Conditioning",53000
+108,3,1,Algiers,Hydra,Apartment,6,0,"Parking,Air Conditioning",92000
+54,1,2,Algiers,Zeralda,Studio,4,1,"Heating,Elevator,Security 24/7,Wifi",64000
+113,2,1,Algiers,Bab Ezzouar,Apartment,5,1,"Parking,Elevator,Wifi,Heating",146500
+91,3,2,Constantine,Constantine City,Apartment,1,0,"Heating,Elevator",57000
+92,4,1,Constantine,Constantine City,Apartment,1,1,"Elevator,Security 24/7",94500
+165,8,1,Constantine,El Khroub,Villa,0,1,Heating,275000
+104,3,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Parking,Elevator,Air Conditioning,Wifi",104000
+80,2,1,Oran,Bir El Djir,Apartment,1,1,"Parking,Elevator,Security 24/7,Air Conditioning",86000
+126,2,2,Oran,Akid Lotfi,Apartment,1,1,Heating,120500
+51,1,1,M'Sila,Boussaada,Studio,4,0,"Heating,Elevator,Air Conditioning,Wifi",15000
+42,1,2,Oran,Es Senia,Studio,4,1,"Parking,Air Conditioning",44500
+141,4,1,M'Sila,Magra,Apartment,4,0,"Elevator,Security 24/7,Wifi",53000
+89,3,2,Setif,Setif City,Apartment,1,0,Wifi,50500
+121,4,1,M'Sila,Magra,Apartment,0,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",46000
+103,3,2,Oran,Bir El Djir,Apartment,5,1,"Parking,Air Conditioning",99500
+127,3,1,M'Sila,Boussaada,Apartment,7,1,"Parking,Elevator",69000
+69,4,2,Oran,Oran City,Apartment,8,0,"Heating,Elevator,Wifi",67000
+87,4,1,Algiers,Zeralda,Apartment,0,1,"Parking,Heating",151000
+62,4,1,Algiers,Hydra,Apartment,2,0,"Parking,Elevator",76500
+429,4,1,Setif,Setif City,Villa,0,1,"Parking,Elevator,Wifi,Heating",375000
+112,2,1,Constantine,Ali Mendjeli,Apartment,6,0,"Parking,Elevator",58500
+95,4,2,Constantine,Ali Mendjeli,Apartment,2,0,"Heating,Elevator",63500
+129,2,1,Constantine,Constantine City,Apartment,2,0,"Elevator,Security 24/7,Wifi",63500
+73,2,1,Algiers,Zeralda,Apartment,2,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",63500
+109,3,2,Setif,Ain Arnat,Apartment,4,0,"Parking,Air Conditioning,Heating",53000
+145,3,2,Setif,El Eulma,Apartment,0,1,"Parking,Elevator",109500
+65,2,2,Constantine,Constantine City,Apartment,2,0,Elevator,43500
+116,3,2,Oran,Es Senia,Apartment,5,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",82500
+102,2,2,Oran,Bir El Djir,Apartment,8,0,"Heating,Elevator,Security 24/7,Air Conditioning",65500
+41,1,1,Constantine,Ali Mendjeli,Studio,4,0,"Heating,Security 24/7,Wifi",27500
+68,2,2,Algiers,El Biar,Apartment,4,1,"Parking,Security 24/7,Wifi",90500
+131,3,2,M'Sila,Boussaada,Apartment,0,0,Wifi,50500
+159,2,2,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Air Conditioning",49500
+143,2,1,Algiers,Zeralda,Apartment,1,0,"Elevator,Air Conditioning",115000
+132,3,1,M'Sila,Boussaada,Apartment,7,0,"Elevator,Security 24/7,Wifi",46000
+86,3,1,Oran,Oran City,Apartment,4,1,"Elevator,Wifi",97500
+395,6,2,Constantine,Constantine City,Villa,0,1,"Heating,Elevator,Security 24/7,Parking",421500
+50,1,2,Constantine,Ali Mendjeli,Studio,3,0,"Parking,Security 24/7,Air Conditioning,Heating",23500
+119,2,1,Constantine,Constantine City,Apartment,4,1,"Elevator,Wifi",103000
+411,7,1,Constantine,El Khroub,Villa,0,1,Air Conditioning,436000
+116,4,1,M'Sila,Boussaada,Apartment,5,0,"Heating,Security 24/7,Parking,Elevator,Wifi",47000
+110,2,2,Constantine,Ali Mendjeli,Apartment,3,0,"Elevator,Security 24/7,Wifi",55500
+117,2,2,M'Sila,M'Sila City,Apartment,8,0,Elevator,32000
+143,4,2,M'Sila,M'Sila City,Apartment,0,0,"Heating,Elevator,Parking",53500
+107,2,2,M'Sila,Magra,Apartment,4,0,"Heating,Security 24/7,Wifi",34000
+310,5,1,M'Sila,Boussaada,Villa,0,0,"Parking,Elevator,Security 24/7",147500
+91,2,2,Algiers,Zeralda,Apartment,7,0,"Parking,Elevator,Wifi,Heating",77000
+151,4,2,Oran,Bir El Djir,Apartment,6,1,"Parking,Elevator,Security 24/7",162500
+125,2,1,M'Sila,Magra,Apartment,4,0,"Heating,Security 24/7,Parking,Elevator,Wifi",41500
+143,4,2,Setif,Ain Arnat,Apartment,5,1,"Parking,Heating",102500
+46,1,1,Constantine,El Khroub,Studio,0,0,"Heating,Elevator,Security 24/7,Wifi",25500
+48,1,2,Algiers,Zeralda,Studio,3,0,"Heating,Elevator,Air Conditioning",43000
+115,3,1,Setif,Setif City,Apartment,4,0,"Heating,Elevator,Security 24/7,Wifi",64000
+81,2,1,M'Sila,M'Sila City,Apartment,0,1,"Heating,Elevator",47500
+67,3,1,M'Sila,M'Sila City,Apartment,0,0,"Parking,Air Conditioning,Wifi",32000
+64,4,1,Constantine,Constantine City,Apartment,4,0,"Elevator,Wifi",48000
+114,2,1,Constantine,El Khroub,Apartment,1,0,"Elevator,Security 24/7,Air Conditioning,Wifi",57500
+155,7,1,Constantine,Constantine City,Villa,0,1,"Heating,Security 24/7,Wifi",263000
+84,4,2,Oran,Oran City,Apartment,7,0,"Heating,Elevator",71000
+132,4,2,M'Sila,Magra,Apartment,3,0,"Parking,Elevator,Air Conditioning",51000
+82,2,1,Oran,Bir El Djir,Apartment,5,0,"Parking,Elevator,Heating",50000
+125,4,2,Setif,Ain Arnat,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning,Wifi",65500
+72,3,2,Setif,Setif City,Apartment,7,1,"Parking,Elevator,Security 24/7,Heating",72000
+90,4,2,M'Sila,Boussaada,Apartment,5,1,"Parking,Elevator,Air Conditioning,Wifi",56500
+49,1,1,Setif,Setif City,Studio,3,0,"Elevator,Security 24/7,Air Conditioning,Wifi",22000
+289,6,2,Algiers,Sidi M'Hamed,Villa,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",343000
+132,2,2,Oran,Akid Lotfi,Apartment,5,0,"Heating,Security 24/7,Wifi,Parking",77000
+106,4,2,M'Sila,M'Sila City,Apartment,8,0,"Heating,Elevator",41500
+424,6,1,Constantine,El Khroub,Villa,0,1,"Security 24/7,Air Conditioning",433000
+82,2,2,Constantine,Constantine City,Apartment,5,1,"Parking,Wifi",62500
+88,3,2,Constantine,Constantine City,Apartment,6,0,Parking,49500
+106,4,1,Constantine,El Khroub,Apartment,2,1,"Parking,Security 24/7,Air Conditioning,Wifi",107500
+154,4,2,M'Sila,M'Sila City,Apartment,3,1,"Wifi,Air Conditioning",90500
+70,3,2,Algiers,Zeralda,Apartment,3,0,Security 24/7,75000
+282,4,1,Oran,Es Senia,Villa,0,1,Security 24/7,378500
+84,2,1,Algiers,Bab Ezzouar,Apartment,0,0,"Security 24/7,Wifi",75500
+396,7,2,Oran,Oran City,Villa,0,0,"Wifi,Air Conditioning",327500
+144,2,1,M'Sila,M'Sila City,Apartment,4,1,"Heating,Elevator,Security 24/7,Wifi",61500
+137,2,2,Constantine,Ali Mendjeli,Apartment,5,0,"Heating,Elevator",64000
+84,3,1,Setif,El Eulma,Apartment,5,1,"Parking,Elevator",61500
+31,1,1,M'Sila,Magra,Studio,1,0,"Heating,Security 24/7,Wifi",19000
+431,7,2,Constantine,Ali Mendjeli,Villa,0,1,"Heating,Wifi,Air Conditioning,Parking",447500
+249,7,2,Oran,Bir El Djir,Villa,0,0,"Security 24/7,Wifi,Air Conditioning",250000
+71,3,1,Constantine,Ali Mendjeli,Apartment,0,1,"Parking,Elevator,Air Conditioning,Heating",78000
+41,1,2,Constantine,Constantine City,Studio,4,0,"Heating,Elevator,Wifi,Parking",22500
+118,2,1,M'Sila,Magra,Apartment,1,0,"Heating,Elevator,Security 24/7,Wifi",45000
+30,1,2,M'Sila,Magra,Studio,3,0,"Security 24/7,Wifi",15000
+112,2,2,M'Sila,M'Sila City,Apartment,5,0,"Heating,Elevator,Security 24/7",36000
+51,1,2,Setif,El Eulma,Studio,2,0,"Heating,Wifi",25500
+148,3,2,Setif,El Eulma,Apartment,8,0,"Elevator,Security 24/7,Air Conditioning",72500
+136,3,1,Oran,Oran City,Apartment,5,0,Security 24/7,77000
+109,3,2,Setif,Ain Arnat,Apartment,7,1,"Heating,Elevator,Wifi,Parking",84000
+54,1,2,Setif,El Eulma,Studio,2,1,"Heating,Security 24/7",38500
+101,4,2,Constantine,Constantine City,Apartment,3,1,"Elevator,Wifi",107500
+392,4,1,Setif,Ain Arnat,Villa,0,0,Wifi,225500
+122,2,1,Algiers,Hydra,Apartment,8,1,Security 24/7,141000
+65,4,1,M'Sila,Boussaada,Apartment,5,0,"Heating,Wifi,Air Conditioning",32500
+74,3,1,Constantine,El Khroub,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",49000
+289,6,1,Constantine,El Khroub,Villa,0,0,"Parking,Elevator,Security 24/7",223000
+146,4,2,M'Sila,Magra,Apartment,6,0,"Parking,Elevator,Heating",49000
+51,1,2,Oran,Bir El Djir,Studio,4,1,"Parking,Elevator,Wifi,Heating",51000
+43,1,1,M'Sila,M'Sila City,Studio,2,1,"Heating,Elevator,Wifi,Air Conditioning",27000
+104,2,1,Oran,Akid Lotfi,Apartment,0,0,"Security 24/7,Air Conditioning",66500
+151,3,1,Constantine,Constantine City,Apartment,3,1,"Parking,Elevator,Security 24/7,Wifi",130000
+157,4,2,Oran,Oran City,Apartment,5,1,"Parking,Elevator,Security 24/7,Air Conditioning",171000
+33,1,2,Algiers,Sidi M'Hamed,Studio,3,0,"Heating,Elevator,Wifi",32500
+105,4,1,M'Sila,Magra,Apartment,4,0,"Parking,Elevator",45000
+60,2,1,Algiers,Hydra,Apartment,5,0,"Parking,Security 24/7,Air Conditioning,Heating",52000
+66,2,1,Setif,El Eulma,Apartment,3,0,"Elevator,Wifi",30500
+86,2,2,Oran,Es Senia,Apartment,6,0,"Parking,Elevator,Air Conditioning",62500
+151,4,2,Setif,Setif City,Apartment,3,0,"Parking,Elevator,Air Conditioning",79000
+405,7,1,Constantine,El Khroub,Villa,0,1,"Parking,Wifi",426500
+63,3,1,M'Sila,M'Sila City,Apartment,3,0,"Parking,Wifi",28000
+150,2,2,Oran,Bir El Djir,Apartment,5,0,"Heating,Air Conditioning",80000
+120,3,2,Oran,Es Senia,Apartment,7,0,Elevator,83500
+418,6,2,Setif,Setif City,Villa,0,0,Security 24/7,251500
+119,4,2,Setif,El Eulma,Apartment,8,0,"Elevator,Air Conditioning",72000
+78,2,1,Constantine,El Khroub,Apartment,4,1,"Elevator,Air Conditioning",67500
+129,3,1,Algiers,El Biar,Apartment,1,0,"Heating,Security 24/7,Wifi",119000
+195,5,2,M'Sila,Boussaada,Villa,0,0,Parking,110500
+80,3,2,Algiers,Bab Ezzouar,Apartment,5,0,"Parking,Elevator,Security 24/7",75000
+149,2,2,Constantine,Constantine City,Apartment,5,0,"Heating,Wifi",66000
+440,6,2,Setif,El Eulma,Villa,0,1,"Elevator,Air Conditioning,Wifi",396000
+38,1,1,Setif,El Eulma,Studio,1,0,Security 24/7,21000
+96,2,1,Constantine,Ali Mendjeli,Apartment,1,0,"Elevator,Wifi",54000
+153,3,2,Algiers,El Biar,Apartment,3,0,"Parking,Wifi",130000
+40,1,1,Algiers,Sidi M'Hamed,Studio,4,0,"Heating,Security 24/7,Wifi,Parking",32500
+141,4,1,Oran,Oran City,Apartment,1,1,"Parking,Elevator,Wifi,Heating",155500
+50,1,2,Oran,Oran City,Studio,2,0,Parking,34000
+103,4,2,M'Sila,Boussaada,Apartment,2,0,"Elevator,Security 24/7",43000
+107,2,1,Setif,Setif City,Apartment,8,0,"Elevator,Wifi",53500
+120,4,1,M'Sila,Boussaada,Apartment,6,0,"Parking,Elevator,Security 24/7,Heating",50500
+75,3,2,M'Sila,M'Sila City,Apartment,1,0,"Parking,Elevator,Heating",30000
+67,4,1,M'Sila,Boussaada,Apartment,6,0,"Heating,Elevator,Security 24/7,Wifi",35500
+134,2,2,Algiers,Sidi M'Hamed,Apartment,1,1,"Heating,Elevator,Security 24/7,Wifi",170500
+30,1,1,Setif,Setif City,Studio,2,0,"Elevator,Wifi",16500
+40,1,2,M'Sila,Boussaada,Studio,1,1,"Parking,Security 24/7,Air Conditioning",20000
+49,1,2,Oran,Es Senia,Studio,3,0,"Parking,Elevator,Air Conditioning,Heating",33500
+117,2,2,M'Sila,Magra,Apartment,8,1,"Elevator,Security 24/7,Air Conditioning",54500
+142,4,1,Setif,Ain Arnat,Apartment,5,0,"Heating,Elevator,Security 24/7,Parking",66000
+126,3,2,Oran,Akid Lotfi,Apartment,2,1,"Parking,Heating",138500
+82,3,2,Oran,Akid Lotfi,Apartment,6,0,"Heating,Elevator",64000
+66,4,1,Algiers,Hydra,Apartment,0,0,Wifi,80000
+120,2,2,M'Sila,M'Sila City,Apartment,1,0,"Parking,Elevator,Security 24/7,Air Conditioning",40000
+155,2,1,Oran,Akid Lotfi,Apartment,4,1,Security 24/7,125000
+51,1,1,M'Sila,M'Sila City,Studio,4,1,Wifi,33000
+48,1,2,Constantine,Constantine City,Studio,1,0,Air Conditioning,31000
+95,2,1,Constantine,Ali Mendjeli,Apartment,7,1,"Parking,Elevator,Security 24/7,Air Conditioning",73500
+147,3,1,Setif,Ain Arnat,Apartment,7,0,Air Conditioning,65000
+156,4,2,M'Sila,M'Sila City,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",59000
+80,4,1,Constantine,El Khroub,Apartment,2,0,"Heating,Elevator",58000
+65,4,1,Oran,Oran City,Apartment,3,0,"Parking,Elevator,Wifi,Heating",65000
+137,2,1,Algiers,El Biar,Apartment,6,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",173500
+391,8,2,Setif,El Eulma,Villa,0,1,"Heating,Elevator,Air Conditioning,Wifi",385000
+138,3,2,Algiers,El Biar,Apartment,0,1,"Air Conditioning,Wifi",189500
+78,4,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Parking,Wifi",74500
+107,2,2,Oran,Akid Lotfi,Apartment,7,0,"Heating,Elevator",73000
+35,1,1,Oran,Akid Lotfi,Studio,2,0,"Elevator,Air Conditioning,Wifi",26500
+76,2,2,Constantine,Constantine City,Apartment,1,0,"Security 24/7,Wifi",43500
+82,4,1,Setif,Ain Arnat,Apartment,0,1,"Parking,Wifi,Air Conditioning",78000
+65,4,2,Oran,Bir El Djir,Apartment,4,0,"Elevator,Air Conditioning",59000
+38,1,1,Algiers,Sidi M'Hamed,Studio,4,0,"Parking,Elevator,Air Conditioning",30000
+67,2,2,Constantine,Ali Mendjeli,Apartment,2,0,"Parking,Security 24/7,Air Conditioning,Wifi",42500
+103,4,2,Constantine,Ali Mendjeli,Apartment,6,0,Wifi,57000
+79,3,2,Oran,Oran City,Apartment,7,0,"Heating,Elevator,Security 24/7,Wifi",61500
+82,2,2,Constantine,Ali Mendjeli,Apartment,8,1,Heating,66000
+73,2,1,Oran,Akid Lotfi,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",55500
+112,4,2,M'Sila,Magra,Apartment,0,1,"Elevator,Air Conditioning",70500
+137,3,2,Setif,Ain Arnat,Apartment,5,1,"Elevator,Security 24/7",108000
+45,1,1,Oran,Es Senia,Studio,1,1,"Wifi,Air Conditioning",47500
+112,2,2,M'Sila,Magra,Apartment,5,1,"Heating,Security 24/7,Parking,Elevator,Wifi",62500
+138,4,2,Setif,El Eulma,Apartment,5,0,"Elevator,Security 24/7",75500
+151,2,2,Oran,Akid Lotfi,Apartment,2,0,"Parking,Elevator,Security 24/7",91000
+159,2,1,Algiers,El Biar,Apartment,3,0,"Heating,Security 24/7,Parking",128000
+85,4,2,M'Sila,M'Sila City,Apartment,6,0,"Elevator,Security 24/7,Wifi",37000
+121,3,1,Algiers,Zeralda,Apartment,3,0,"Elevator,Air Conditioning",109000
+408,8,1,Setif,Setif City,Villa,0,0,Security 24/7,258500
+100,4,1,M'Sila,Boussaada,Apartment,1,1,"Heating,Elevator",64500
+98,4,2,Setif,Ain Arnat,Apartment,0,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",57500
+73,3,2,Algiers,Sidi M'Hamed,Apartment,1,0,"Heating,Elevator,Security 24/7,Air Conditioning",81500
+114,3,1,Constantine,Ali Mendjeli,Apartment,5,1,"Elevator,Security 24/7",104000
+420,7,1,Constantine,Ali Mendjeli,Villa,0,0,Wifi,285500
+50,1,2,Constantine,Ali Mendjeli,Studio,4,0,Security 24/7,26500
+74,4,1,Constantine,El Khroub,Apartment,5,0,"Parking,Elevator",57000
+125,3,2,Setif,Ain Arnat,Apartment,6,0,"Elevator,Security 24/7,Wifi,Air Conditioning",63000
+90,3,2,Constantine,Constantine City,Apartment,1,0,"Parking,Elevator,Security 24/7",54500
+110,3,1,Oran,Oran City,Apartment,3,0,"Heating,Security 24/7",82000
+84,2,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Elevator,Security 24/7",77000
+50,1,1,Constantine,Constantine City,Studio,3,0,Heating,24500
+106,2,1,M'Sila,M'Sila City,Apartment,6,1,"Heating,Security 24/7,Wifi",46500
+73,4,2,Oran,Akid Lotfi,Apartment,6,0,"Parking,Elevator,Air Conditioning,Wifi",61500
+37,1,1,Constantine,Ali Mendjeli,Studio,0,1,"Parking,Security 24/7,Wifi,Heating",37000
+132,4,2,Constantine,Ali Mendjeli,Apartment,1,1,"Parking,Elevator,Wifi",124500
+235,5,1,Constantine,Ali Mendjeli,Villa,0,1,"Heating,Elevator,Air Conditioning,Parking",301500
+141,2,2,Constantine,Constantine City,Apartment,3,0,Elevator,74500
+91,3,2,Oran,Es Senia,Apartment,7,0,"Heating,Elevator",61000
+104,4,2,Algiers,El Biar,Apartment,1,1,"Parking,Air Conditioning",168500
+100,3,1,M'Sila,M'Sila City,Apartment,5,0,"Heating,Elevator",39000
+76,3,1,Setif,Setif City,Apartment,1,0,"Parking,Elevator,Security 24/7,Air Conditioning",46000
+84,3,2,M'Sila,Boussaada,Apartment,8,0,"Parking,Elevator,Security 24/7,Heating",32000
+88,4,2,M'Sila,Boussaada,Apartment,2,1,"Heating,Security 24/7,Parking",61000
+47,1,1,Constantine,Constantine City,Studio,0,0,"Heating,Elevator,Security 24/7",27500
+114,3,2,Constantine,Constantine City,Apartment,1,0,Wifi,65500
+90,4,1,Constantine,El Khroub,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning",62500
+88,2,1,M'Sila,M'Sila City,Apartment,7,1,Heating,41500
+91,2,1,Oran,Oran City,Apartment,3,0,"Parking,Elevator,Security 24/7,Air Conditioning",56500
+106,3,2,Oran,Akid Lotfi,Apartment,1,0,Parking,76500
+74,3,2,Setif,Ain Arnat,Apartment,1,0,"Elevator,Security 24/7,Wifi",47000
+79,2,2,Constantine,Ali Mendjeli,Apartment,4,1,"Elevator,Air Conditioning",65000
+126,2,2,Setif,Setif City,Apartment,1,0,"Elevator,Security 24/7",62500
+88,4,1,M'Sila,M'Sila City,Apartment,7,0,"Parking,Elevator,Security 24/7,Wifi",38000
+95,4,2,M'Sila,Boussaada,Apartment,6,1,"Parking,Elevator,Wifi",60000
+85,4,2,Oran,Bir El Djir,Apartment,6,0,"Elevator,Security 24/7,Air Conditioning",72500
+45,1,2,Algiers,Sidi M'Hamed,Studio,4,1,"Security 24/7,Wifi",53500
+181,8,1,Constantine,Ali Mendjeli,Villa,0,0,"Security 24/7,Wifi",187500
+385,6,2,M'Sila,M'Sila City,Villa,0,1,"Parking,Elevator,Security 24/7,Heating",257000
+68,4,1,M'Sila,M'Sila City,Apartment,0,0,"Elevator,Security 24/7,Wifi,Air Conditioning",39000
+62,4,2,Constantine,El Khroub,Apartment,6,0,"Parking,Elevator,Security 24/7",49000
+225,7,2,Setif,El Eulma,Villa,0,0,Security 24/7,177500
+34,1,2,Oran,Bir El Djir,Studio,3,0,Parking,22500
+46,1,2,Constantine,Ali Mendjeli,Studio,1,1,Heating,41500
+85,3,2,Constantine,Constantine City,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",57500
+102,3,1,Oran,Es Senia,Apartment,2,1,"Parking,Elevator,Security 24/7,Wifi",115500
+123,2,2,Algiers,Hydra,Apartment,7,0,"Parking,Elevator,Security 24/7,Air Conditioning",104000
+70,2,1,Algiers,Bab Ezzouar,Apartment,1,0,"Elevator,Security 24/7,Air Conditioning,Wifi",68500
+66,4,2,Setif,Ain Arnat,Apartment,4,1,"Parking,Elevator,Security 24/7,Wifi",65500
+54,1,2,Oran,Oran City,Studio,3,1,"Parking,Air Conditioning",57000
+226,6,1,Constantine,Constantine City,Villa,0,1,"Heating,Elevator,Wifi",304500
+31,1,2,Setif,Ain Arnat,Studio,1,1,"Heating,Elevator,Wifi",26500
+147,2,1,Oran,Bir El Djir,Apartment,4,1,"Heating,Elevator,Air Conditioning,Wifi",140000
+98,4,2,Oran,Es Senia,Apartment,2,0,Wifi,79500
+105,4,2,Oran,Es Senia,Apartment,0,0,"Parking,Elevator",82500
+77,4,1,Algiers,Bab Ezzouar,Apartment,2,1,"Elevator,Air Conditioning",139500
+132,2,1,M'Sila,Magra,Apartment,7,0,"Heating,Elevator,Security 24/7",38500
+133,2,2,Algiers,El Biar,Apartment,8,0,Security 24/7,92500
+60,3,1,Oran,Bir El Djir,Apartment,7,0,"Heating,Elevator,Security 24/7,Wifi",47000
+51,1,2,Algiers,Zeralda,Studio,3,0,"Security 24/7,Wifi",43000
+78,4,2,Constantine,Ali Mendjeli,Apartment,7,0,"Parking,Elevator,Air Conditioning",59000
+116,3,1,Oran,Akid Lotfi,Apartment,1,0,"Parking,Elevator,Security 24/7,Wifi",80000
+47,1,1,Oran,Akid Lotfi,Studio,1,0,"Parking,Elevator,Security 24/7",33000
+66,4,2,Algiers,Bab Ezzouar,Apartment,6,1,"Heating,Elevator,Parking",127000
+75,3,2,Constantine,El Khroub,Apartment,4,0,"Parking,Elevator,Heating",49000
+114,2,1,Oran,Es Senia,Apartment,7,0,"Security 24/7,Air Conditioning",64500
+300,8,2,Algiers,El Biar,Villa,0,0,"Parking,Elevator",374000
+149,4,2,Constantine,El Khroub,Apartment,7,0,"Parking,Elevator,Security 24/7,Air Conditioning",79000
+66,3,1,M'Sila,Boussaada,Apartment,2,0,"Elevator,Wifi",28000
+97,3,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Heating,Elevator,Air Conditioning",86000
+159,2,2,M'Sila,Boussaada,Apartment,5,0,"Elevator,Security 24/7,Wifi,Air Conditioning",44500
+139,2,1,M'Sila,M'Sila City,Apartment,8,0,"Heating,Security 24/7,Air Conditioning",38000
+307,4,1,Algiers,Bab Ezzouar,Villa,0,0,"Air Conditioning,Wifi",338500
+133,4,2,Algiers,Hydra,Apartment,6,1,"Heating,Elevator",172500
+49,1,1,Algiers,Hydra,Studio,2,0,Security 24/7,42000
+151,4,1,Setif,El Eulma,Apartment,3,0,"Heating,Elevator,Security 24/7,Parking",78500
+149,4,2,Oran,Es Senia,Apartment,0,0,"Elevator,Air Conditioning,Wifi",104500
+103,3,2,Setif,El Eulma,Apartment,3,0,"Parking,Elevator,Wifi,Heating",57000
+64,4,2,Constantine,Ali Mendjeli,Apartment,6,0,"Heating,Elevator,Security 24/7",43500
+78,4,2,M'Sila,M'Sila City,Apartment,1,1,"Heating,Air Conditioning",57000
+180,8,2,Oran,Oran City,Villa,0,1,"Parking,Security 24/7,Air Conditioning",344000
+151,2,2,Algiers,Hydra,Apartment,8,0,"Parking,Elevator,Security 24/7",122500
+69,2,2,Setif,Ain Arnat,Apartment,7,1,Air Conditioning,52000
+254,4,1,Oran,Akid Lotfi,Villa,0,0,"Parking,Elevator,Security 24/7,Heating",231000
+74,3,1,Oran,Es Senia,Apartment,1,0,"Heating,Elevator,Air Conditioning,Parking",61000
+135,2,1,Algiers,Sidi M'Hamed,Apartment,6,0,"Heating,Elevator,Wifi",107000
+95,4,2,Setif,El Eulma,Apartment,2,0,"Security 24/7,Wifi,Air Conditioning",59000
+110,4,1,M'Sila,Boussaada,Apartment,1,0,Elevator,46500
+156,4,2,Algiers,Bab Ezzouar,Apartment,7,1,"Elevator,Security 24/7",226000
+125,3,2,Oran,Oran City,Apartment,3,1,"Heating,Elevator,Security 24/7,Air Conditioning",130000
+257,8,2,Oran,Es Senia,Villa,0,1,"Heating,Elevator,Security 24/7,Air Conditioning",405500
+64,4,2,Constantine,El Khroub,Apartment,7,0,"Security 24/7,Air Conditioning",43000
+77,2,2,Constantine,Ali Mendjeli,Apartment,2,0,Wifi,43500
+126,3,1,M'Sila,Boussaada,Apartment,6,0,"Elevator,Security 24/7,Wifi",47500
+112,3,2,Algiers,Zeralda,Apartment,6,0,"Heating,Security 24/7,Parking",89500
+89,2,1,Oran,Bir El Djir,Apartment,8,0,Wifi,52000
+400,8,1,Constantine,Constantine City,Villa,0,0,"Security 24/7,Wifi",285500
+150,3,2,Algiers,Bab Ezzouar,Apartment,3,0,"Elevator,Security 24/7,Wifi,Air Conditioning",132000
+152,2,1,Oran,Oran City,Apartment,8,0,"Heating,Elevator,Security 24/7,Air Conditioning",81500
+70,2,2,Oran,Oran City,Apartment,8,1,Security 24/7,72000
+74,3,1,Oran,Es Senia,Apartment,8,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",60500
+110,2,1,Setif,Ain Arnat,Apartment,8,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",52000
+122,3,1,Oran,Bir El Djir,Apartment,1,0,"Heating,Elevator,Air Conditioning",85500
+101,2,1,M'Sila,Boussaada,Apartment,7,0,"Heating,Elevator,Air Conditioning,Parking",30000
+83,2,1,Algiers,Sidi M'Hamed,Apartment,5,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",117000
+142,3,2,Constantine,Ali Mendjeli,Apartment,3,0,Elevator,78500
+163,4,2,M'Sila,M'Sila City,Villa,0,0,"Parking,Elevator,Wifi,Heating",97000
+154,3,2,Constantine,Constantine City,Apartment,2,1,"Parking,Security 24/7,Wifi,Heating",131500
+143,3,1,Setif,Setif City,Apartment,0,0,"Elevator,Wifi",70500
+71,4,2,M'Sila,Boussaada,Apartment,5,0,"Parking,Elevator",32500
+74,4,2,Setif,Setif City,Apartment,5,1,"Parking,Elevator,Air Conditioning,Heating",79500
+151,4,2,M'Sila,Boussaada,Apartment,2,0,"Heating,Security 24/7,Wifi",58000
+152,3,1,Oran,Akid Lotfi,Apartment,5,0,Security 24/7,86000
+116,4,1,Algiers,Zeralda,Apartment,2,1,"Elevator,Air Conditioning,Wifi",180000
+125,4,1,Oran,Bir El Djir,Apartment,7,1,"Parking,Security 24/7,Air Conditioning",129500
+99,3,2,Oran,Akid Lotfi,Apartment,6,0,Air Conditioning,64000
+88,3,2,Constantine,El Khroub,Apartment,7,0,"Parking,Elevator,Air Conditioning",56000
+66,2,2,M'Sila,Boussaada,Apartment,1,1,"Parking,Heating",37000
+144,3,1,Constantine,El Khroub,Apartment,5,1,"Elevator,Security 24/7,Air Conditioning",125500
+93,3,1,Setif,Ain Arnat,Apartment,0,0,"Parking,Elevator,Air Conditioning",51500
+76,2,1,Oran,Bir El Djir,Apartment,4,1,"Parking,Elevator,Security 24/7,Wifi",84000
+146,4,1,Constantine,Ali Mendjeli,Apartment,3,0,"Parking,Wifi",87500
+44,1,2,M'Sila,M'Sila City,Studio,3,0,"Heating,Wifi",16000
+154,4,2,Setif,Setif City,Apartment,2,1,"Parking,Air Conditioning",123500
+50,1,1,Constantine,Ali Mendjeli,Studio,1,0,Air Conditioning,25500
+140,4,1,Setif,Setif City,Apartment,1,0,"Parking,Elevator",79000
+103,4,1,Algiers,Bab Ezzouar,Apartment,4,0,"Elevator,Wifi",105500
+117,4,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Heating,Elevator,Air Conditioning,Wifi",111500
+111,3,1,M'Sila,Boussaada,Apartment,4,1,"Heating,Security 24/7",60500
+131,3,1,Algiers,Zeralda,Apartment,3,0,"Elevator,Wifi",114500
+74,2,2,Setif,Ain Arnat,Apartment,5,1,"Elevator,Wifi",49500
+76,2,1,Setif,El Eulma,Apartment,6,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",39500
+135,2,1,M'Sila,M'Sila City,Apartment,8,1,"Parking,Security 24/7,Air Conditioning,Heating",59500
+129,3,1,Setif,Setif City,Apartment,4,0,"Parking,Elevator,Security 24/7,Heating",62000
+105,3,1,Constantine,Constantine City,Apartment,6,0,"Parking,Wifi,Air Conditioning",54500
+369,8,1,Constantine,El Khroub,Villa,0,1,"Heating,Security 24/7,Air Conditioning,Parking",417500
+54,1,1,Setif,El Eulma,Studio,3,1,"Heating,Air Conditioning,Wifi",38000
+30,1,2,Setif,El Eulma,Studio,1,0,"Parking,Elevator,Security 24/7,Heating",16000
+32,1,2,Oran,Akid Lotfi,Studio,2,0,"Parking,Elevator,Security 24/7,Air Conditioning",26000
+78,4,1,Algiers,Bab Ezzouar,Apartment,5,0,"Heating,Elevator,Wifi",93500
+93,4,1,Oran,Es Senia,Apartment,0,1,Air Conditioning,119000
+122,2,1,Constantine,Ali Mendjeli,Apartment,3,0,"Elevator,Security 24/7,Wifi,Air Conditioning",64500
+112,3,1,Oran,Es Senia,Apartment,7,1,"Elevator,Security 24/7,Wifi",123000
+107,3,1,M'Sila,M'Sila City,Apartment,3,1,"Parking,Wifi,Air Conditioning",66000
+119,3,2,Algiers,Bab Ezzouar,Apartment,3,0,"Parking,Wifi",104000
+151,3,1,Oran,Akid Lotfi,Apartment,2,0,"Heating,Elevator,Wifi,Air Conditioning",97000
+38,1,2,Constantine,Ali Mendjeli,Studio,4,0,Wifi,26500
+181,8,2,Constantine,Ali Mendjeli,Villa,0,0,"Heating,Elevator",187000
+36,1,2,Setif,Ain Arnat,Studio,1,1,Security 24/7,29000
+123,3,2,M'Sila,Magra,Apartment,7,0,"Parking,Elevator,Wifi,Air Conditioning",47000
+130,3,2,Constantine,Constantine City,Apartment,3,1,"Heating,Elevator,Air Conditioning",113000
+69,3,1,Algiers,Hydra,Apartment,1,0,"Heating,Security 24/7,Parking,Elevator,Wifi",75000
+151,3,1,Oran,Oran City,Apartment,1,0,Security 24/7,96000
+114,2,2,Constantine,Ali Mendjeli,Apartment,4,0,"Parking,Elevator,Security 24/7,Wifi",63500
+35,1,2,Algiers,Bab Ezzouar,Studio,2,0,"Elevator,Security 24/7,Air Conditioning,Wifi",28000
+126,2,1,Oran,Es Senia,Apartment,0,0,"Heating,Security 24/7,Wifi",78000
+86,2,1,Constantine,El Khroub,Apartment,8,0,"Parking,Elevator,Wifi",48000
+421,7,2,Oran,Bir El Djir,Villa,0,0,"Heating,Security 24/7,Air Conditioning,Parking",338500
+157,3,2,M'Sila,Magra,Apartment,1,1,"Elevator,Security 24/7",84500
+142,3,1,Algiers,Hydra,Apartment,0,0,"Parking,Security 24/7,Air Conditioning,Heating",121000
+379,5,2,M'Sila,Magra,Villa,0,0,Parking,163500
+102,2,1,Setif,El Eulma,Apartment,1,0,"Parking,Security 24/7,Wifi",49500
+149,2,2,Setif,Ain Arnat,Apartment,3,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",65500
+149,3,2,Setif,El Eulma,Apartment,8,0,"Elevator,Security 24/7",67500
+324,7,2,Algiers,El Biar,Villa,0,0,Security 24/7,377500
+121,3,2,Constantine,Constantine City,Apartment,7,0,"Heating,Elevator,Security 24/7,Parking",64500
+94,3,2,Oran,Akid Lotfi,Apartment,2,0,"Air Conditioning,Wifi",69500
+136,2,1,Algiers,El Biar,Apartment,8,0,"Heating,Elevator,Air Conditioning,Parking",95500
+108,3,2,Setif,Setif City,Apartment,1,0,Air Conditioning,54000
+47,1,2,Oran,Oran City,Studio,2,0,"Parking,Elevator,Air Conditioning,Wifi",28000
+117,3,1,Constantine,El Khroub,Apartment,8,0,"Heating,Elevator,Parking",65000
+93,3,2,Constantine,El Khroub,Apartment,5,0,"Heating,Security 24/7,Wifi,Parking",53500
+41,1,1,Algiers,Bab Ezzouar,Studio,2,0,"Heating,Security 24/7",33000
+124,3,1,M'Sila,M'Sila City,Apartment,8,1,Wifi,61500
+96,3,1,Algiers,Bab Ezzouar,Apartment,8,0,Security 24/7,82000
+208,6,1,Constantine,El Khroub,Villa,0,0,"Heating,Elevator,Parking",190000
+144,3,2,Constantine,Constantine City,Apartment,0,0,"Parking,Elevator,Air Conditioning",79000
+121,4,1,Setif,Ain Arnat,Apartment,4,1,"Heating,Elevator,Air Conditioning,Wifi",92000
+268,6,1,Oran,Bir El Djir,Villa,0,0,Heating,253500
+76,3,2,Constantine,Constantine City,Apartment,1,0,"Parking,Elevator,Air Conditioning",50000
+87,3,2,Constantine,Constantine City,Apartment,5,0,"Heating,Security 24/7,Parking,Elevator,Wifi",52000
+122,3,1,M'Sila,M'Sila City,Apartment,2,0,"Parking,Air Conditioning",44500
+170,6,1,M'Sila,Boussaada,Villa,0,0,Wifi,109000
+51,1,1,Oran,Bir El Djir,Studio,3,0,"Heating,Elevator,Security 24/7",29500
+98,4,1,Oran,Bir El Djir,Apartment,3,0,"Elevator,Security 24/7,Air Conditioning",85000
+64,2,1,Constantine,Constantine City,Apartment,1,0,Elevator,38500
+96,4,1,Oran,Bir El Djir,Apartment,0,1,"Elevator,Security 24/7",123000
+91,2,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Parking,Elevator,Wifi",83500
+123,3,1,Oran,Bir El Djir,Apartment,2,0,"Heating,Air Conditioning,Wifi",80000
+111,2,1,M'Sila,Magra,Apartment,1,1,"Heating,Elevator",57500
+69,4,1,M'Sila,M'Sila City,Apartment,5,0,"Elevator,Air Conditioning",30500
+125,4,2,Constantine,Constantine City,Apartment,8,1,Elevator,120500
+113,4,2,Constantine,Ali Mendjeli,Apartment,8,0,"Heating,Elevator,Security 24/7,Wifi",75000
+51,1,1,M'Sila,M'Sila City,Studio,0,0,"Parking,Security 24/7,Wifi,Heating",23500
+107,4,1,Constantine,Ali Mendjeli,Apartment,3,0,"Elevator,Security 24/7,Wifi",73500
+96,3,1,M'Sila,Magra,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",43000
+127,3,1,Algiers,Zeralda,Apartment,1,0,Parking,118000
+235,5,1,Algiers,Hydra,Villa,0,0,"Heating,Security 24/7",304500
+131,3,2,Constantine,Ali Mendjeli,Apartment,8,0,"Parking,Wifi",65500
+96,4,1,Algiers,Bab Ezzouar,Apartment,3,0,"Heating,Elevator,Security 24/7,Parking",102500
+118,3,2,Constantine,Constantine City,Apartment,7,0,"Elevator,Security 24/7,Wifi",73500
+159,2,2,Constantine,Ali Mendjeli,Apartment,4,1,"Parking,Elevator",123500
+134,4,2,Constantine,El Khroub,Apartment,7,1,"Parking,Elevator,Air Conditioning",128000
+103,2,1,Oran,Bir El Djir,Apartment,7,0,"Heating,Air Conditioning,Parking",58500
+316,8,1,M'Sila,M'Sila City,Villa,0,1,Parking,239000
+72,2,2,Constantine,El Khroub,Apartment,3,1,"Security 24/7,Air Conditioning",67500
+83,3,1,Setif,Setif City,Apartment,1,0,"Parking,Elevator,Air Conditioning,Heating",48500
+69,4,2,Constantine,Ali Mendjeli,Apartment,8,0,"Elevator,Wifi",55000
+54,1,2,Oran,Oran City,Studio,3,1,"Parking,Elevator,Air Conditioning",51500
+142,3,1,Setif,Setif City,Apartment,8,0,"Parking,Elevator,Security 24/7,Wifi",70500
+125,4,2,M'Sila,M'Sila City,Apartment,2,0,"Parking,Elevator,Air Conditioning,Heating",49500
+86,2,2,Algiers,El Biar,Apartment,2,0,Parking,77000
+130,2,1,Setif,El Eulma,Apartment,6,0,Security 24/7,50500
+102,2,2,M'Sila,Magra,Apartment,7,1,Heating,50500
+97,4,2,Constantine,El Khroub,Apartment,4,0,"Air Conditioning,Wifi",61500
+76,3,1,Constantine,El Khroub,Apartment,8,0,"Heating,Elevator,Security 24/7",47000
+123,3,1,Setif,El Eulma,Apartment,8,0,"Parking,Elevator",55000
+99,3,2,Algiers,Sidi M'Hamed,Apartment,2,1,"Heating,Security 24/7,Air Conditioning,Parking",147500
+45,1,1,Constantine,Constantine City,Studio,2,0,"Parking,Elevator",23000
+163,5,1,M'Sila,Magra,Villa,0,1,"Elevator,Security 24/7,Air Conditioning",154500
+70,2,1,Constantine,El Khroub,Apartment,4,1,"Heating,Elevator,Security 24/7,Wifi",59000
+152,2,2,M'Sila,M'Sila City,Apartment,8,1,"Heating,Security 24/7,Air Conditioning",63500
+48,1,2,Oran,Bir El Djir,Studio,2,1,"Heating,Air Conditioning,Wifi,Parking",52500
+145,4,1,Algiers,Sidi M'Hamed,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",134500
+112,3,1,Constantine,Ali Mendjeli,Apartment,2,0,"Heating,Security 24/7,Air Conditioning",66000
+32,1,1,M'Sila,Boussaada,Studio,2,0,Security 24/7,16000
+100,3,1,Algiers,El Biar,Apartment,8,0,"Parking,Elevator,Wifi",80000
+87,3,1,Setif,Setif City,Apartment,6,0,"Heating,Elevator",53000
+93,2,1,Setif,Setif City,Apartment,0,0,"Heating,Parking",45500
+96,3,2,M'Sila,M'Sila City,Apartment,7,0,"Parking,Elevator,Wifi",40000
+66,3,1,Algiers,Sidi M'Hamed,Apartment,1,1,"Parking,Security 24/7,Air Conditioning,Wifi",117000
+61,4,1,Constantine,El Khroub,Apartment,4,0,"Heating,Security 24/7,Wifi",47500
+103,3,1,Setif,El Eulma,Apartment,3,0,Elevator,60000
+72,2,1,Setif,El Eulma,Apartment,8,1,"Heating,Security 24/7,Parking,Elevator,Wifi",62500
+78,3,2,Setif,El Eulma,Apartment,4,1,"Elevator,Security 24/7",70500
+97,3,1,Constantine,Constantine City,Apartment,0,1,"Heating,Elevator,Security 24/7,Wifi",95500
+427,4,2,M'Sila,Boussaada,Villa,0,0,"Parking,Elevator,Wifi,Heating",162500
+33,1,2,M'Sila,M'Sila City,Studio,1,0,"Parking,Air Conditioning",15500
+53,1,2,Setif,Ain Arnat,Studio,1,0,"Security 24/7,Air Conditioning",18000
+115,2,1,Setif,Ain Arnat,Apartment,1,1,"Heating,Elevator,Parking",76500
+44,1,2,Setif,Setif City,Studio,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",18500
+66,4,1,Oran,Oran City,Apartment,7,1,"Parking,Air Conditioning,Wifi,Heating",85500
+104,4,1,Algiers,El Biar,Apartment,0,0,"Heating,Elevator,Wifi",105000
+114,3,1,Constantine,Constantine City,Apartment,5,1,"Heating,Air Conditioning",89500
+46,1,1,Constantine,Ali Mendjeli,Studio,2,0,Heating,25500
+90,4,1,Setif,Ain Arnat,Apartment,4,1,"Heating,Security 24/7,Wifi,Parking",78000
+45,1,1,M'Sila,Boussaada,Studio,3,0,"Heating,Elevator,Security 24/7",20000
+158,4,1,Algiers,Hydra,Apartment,8,0,"Elevator,Security 24/7,Air Conditioning",144500
+146,4,1,M'Sila,Magra,Apartment,6,0,Elevator,48000
+73,4,2,Algiers,Zeralda,Apartment,7,0,Security 24/7,77000
+38,1,2,Algiers,Sidi M'Hamed,Studio,3,1,"Heating,Parking",56500
+109,3,2,Constantine,Ali Mendjeli,Apartment,4,0,"Elevator,Air Conditioning,Wifi",65000
+68,2,2,Algiers,El Biar,Apartment,8,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",97500
+330,5,1,Constantine,El Khroub,Villa,0,0,"Heating,Parking",229500
+32,1,2,Algiers,Sidi M'Hamed,Studio,0,0,"Wifi,Air Conditioning",28000
+111,3,1,M'Sila,Boussaada,Apartment,1,0,"Parking,Wifi,Air Conditioning",39500
+117,4,1,M'Sila,Magra,Apartment,8,1,"Heating,Elevator,Security 24/7,Wifi",72000
+309,8,2,Setif,Setif City,Villa,0,1,"Security 24/7,Wifi",335500
+78,4,1,Algiers,Zeralda,Apartment,7,0,"Heating,Air Conditioning",78500
+197,7,2,Setif,Setif City,Villa,0,0,"Elevator,Wifi,Air Conditioning",168000
+271,6,1,Oran,Oran City,Villa,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",254000
+82,2,1,Algiers,El Biar,Apartment,4,0,Wifi,67500
+110,3,2,M'Sila,M'Sila City,Apartment,7,0,"Elevator,Air Conditioning,Wifi",46500
+142,4,1,Oran,Oran City,Apartment,1,0,"Parking,Elevator,Heating",99500
+78,3,1,Oran,Oran City,Apartment,0,0,"Elevator,Air Conditioning,Wifi",57000
+247,4,2,Oran,Oran City,Villa,0,0,Heating,228000
+93,2,2,M'Sila,Boussaada,Apartment,1,1,"Elevator,Wifi,Air Conditioning",53500
+96,4,2,M'Sila,Magra,Apartment,8,0,Wifi,36000
+64,2,1,Setif,Setif City,Apartment,2,0,"Parking,Elevator,Security 24/7,Wifi",34500
+121,4,2,Constantine,Ali Mendjeli,Apartment,6,0,"Heating,Elevator,Parking",69000
+126,2,1,M'Sila,M'Sila City,Apartment,3,0,"Heating,Elevator",42500
+72,3,1,M'Sila,M'Sila City,Apartment,4,0,"Heating,Security 24/7,Air Conditioning,Parking",28500
+104,2,2,Constantine,Ali Mendjeli,Apartment,6,0,"Heating,Elevator,Wifi",54500
+83,4,2,Setif,Ain Arnat,Apartment,3,1,"Elevator,Wifi",84500
+154,4,2,Algiers,Sidi M'Hamed,Apartment,8,0,"Elevator,Security 24/7,Wifi",142500
+119,2,1,Algiers,Hydra,Apartment,5,0,"Elevator,Wifi",96000
+166,6,2,Constantine,Ali Mendjeli,Villa,0,1,Security 24/7,262000
+138,3,2,M'Sila,Magra,Apartment,4,0,"Parking,Elevator,Security 24/7,Air Conditioning",48000
+247,7,2,Oran,Bir El Djir,Villa,0,1,"Parking,Security 24/7,Air Conditioning,Wifi",385000
+42,1,2,Constantine,El Khroub,Studio,3,0,Security 24/7,19000
+135,2,1,Constantine,Ali Mendjeli,Apartment,6,1,"Heating,Elevator,Air Conditioning",109500
+69,3,2,Setif,Setif City,Apartment,7,1,"Parking,Elevator,Security 24/7",61000
+102,4,2,Constantine,Ali Mendjeli,Apartment,7,0,Air Conditioning,61000
+92,3,1,Oran,Bir El Djir,Apartment,2,0,Elevator,68000
+98,4,2,M'Sila,Magra,Apartment,0,0,"Parking,Elevator,Wifi",43000
+121,4,2,Setif,Setif City,Apartment,2,1,"Heating,Elevator,Wifi",103500
+116,3,2,Constantine,Constantine City,Apartment,3,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",67500
+105,2,2,Oran,Akid Lotfi,Apartment,0,1,"Heating,Elevator",104500
+82,3,1,M'Sila,Magra,Apartment,2,1,"Parking,Elevator",55500
+77,3,2,Constantine,El Khroub,Apartment,1,1,"Heating,Security 24/7,Wifi,Air Conditioning",81500
+99,4,2,Setif,Setif City,Apartment,8,0,"Heating,Security 24/7,Air Conditioning,Wifi",53000
+82,2,2,Oran,Bir El Djir,Apartment,0,1,"Parking,Elevator,Security 24/7,Wifi",82500
+43,1,2,M'Sila,Magra,Studio,0,0,"Parking,Elevator,Air Conditioning,Heating",19000
+63,2,2,Algiers,Sidi M'Hamed,Apartment,1,1,"Heating,Elevator,Security 24/7",95500
+38,1,1,Setif,Ain Arnat,Studio,4,1,"Parking,Wifi,Air Conditioning",33500
+128,3,2,Oran,Oran City,Apartment,2,1,Elevator,131500
+70,4,2,M'Sila,M'Sila City,Apartment,6,0,Elevator,35500
+198,7,2,M'Sila,M'Sila City,Villa,0,0,"Parking,Elevator,Security 24/7,Air Conditioning",124000
+153,3,1,M'Sila,Boussaada,Apartment,2,0,"Heating,Elevator,Security 24/7,Air Conditioning",53500
+126,4,1,Constantine,Constantine City,Apartment,8,1,"Parking,Elevator,Air Conditioning",124000
+312,8,1,M'Sila,Boussaada,Villa,0,0,"Heating,Wifi",153000
+364,4,1,Setif,Setif City,Villa,0,0,"Heating,Elevator,Security 24/7,Wifi",216500
+68,4,1,Constantine,Ali Mendjeli,Apartment,7,0,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",52500
+103,2,2,Constantine,Constantine City,Apartment,2,0,Elevator,53500
+123,3,2,Setif,Ain Arnat,Apartment,1,0,"Elevator,Wifi",64000
+93,4,2,Oran,Akid Lotfi,Apartment,0,1,"Parking,Elevator,Air Conditioning,Wifi",118500
+51,1,2,Constantine,Constantine City,Studio,3,0,Security 24/7,23000
+51,1,1,Setif,El Eulma,Studio,3,1,"Elevator,Security 24/7,Air Conditioning",35500
+136,3,2,Constantine,Ali Mendjeli,Apartment,8,0,"Parking,Air Conditioning,Wifi",66000
+115,4,2,Oran,Akid Lotfi,Apartment,2,0,"Parking,Security 24/7,Air Conditioning",87500
+123,3,2,Algiers,El Biar,Apartment,1,0,"Parking,Elevator",108000
+135,2,2,Setif,El Eulma,Apartment,4,1,"Parking,Elevator,Security 24/7",93500
+87,3,1,Oran,Akid Lotfi,Apartment,3,0,"Parking,Air Conditioning,Wifi",67500
+264,6,1,Constantine,Constantine City,Villa,0,1,Air Conditioning,330000
+157,3,1,Constantine,Constantine City,Apartment,1,0,Elevator,86000
+32,1,1,Constantine,El Khroub,Studio,2,1,Heating,30500
+120,4,2,Setif,Ain Arnat,Apartment,5,1,"Heating,Security 24/7,Parking",93000
+170,6,1,M'Sila,M'Sila City,Villa,0,1,"Parking,Elevator",169500
+147,3,2,Constantine,Ali Mendjeli,Apartment,0,0,Air Conditioning,81500
+95,3,2,Oran,Oran City,Apartment,7,1,"Elevator,Wifi",100000
+77,4,2,Setif,Setif City,Apartment,2,0,"Elevator,Wifi,Air Conditioning",48500
+42,1,1,Setif,Ain Arnat,Studio,0,0,"Heating,Security 24/7,Air Conditioning,Parking",21000
+145,2,2,M'Sila,Boussaada,Apartment,5,1,"Parking,Elevator",71000
+154,2,1,Setif,Setif City,Apartment,3,0,"Heating,Elevator,Security 24/7,Parking",71500
+134,3,2,Constantine,Constantine City,Apartment,1,1,"Heating,Elevator,Air Conditioning",115500
+77,3,1,Constantine,Constantine City,Apartment,4,1,"Heating,Security 24/7,Air Conditioning",67000
+42,1,2,Constantine,El Khroub,Studio,4,0,"Parking,Air Conditioning",25000
+154,4,2,Oran,Bir El Djir,Apartment,6,1,"Elevator,Security 24/7,Air Conditioning",164000
+139,4,1,Algiers,El Biar,Apartment,1,0,"Elevator,Security 24/7,Wifi",128500
+89,2,1,Algiers,El Biar,Apartment,3,0,"Parking,Elevator,Wifi,Air Conditioning",79500
+148,2,2,Setif,El Eulma,Apartment,3,1,"Security 24/7,Wifi",110500
+38,1,2,M'Sila,M'Sila City,Studio,0,1,"Security 24/7,Air Conditioning,Wifi",16500
+165,8,2,Algiers,El Biar,Villa,0,1,"Parking,Air Conditioning",439000
+389,4,2,M'Sila,Boussaada,Villa,0,0,"Parking,Elevator,Air Conditioning",159500
+109,2,1,Setif,Setif City,Apartment,2,0,"Heating,Elevator",51500
+73,3,2,M'Sila,Boussaada,Apartment,2,0,"Heating,Elevator",27500
+69,2,2,M'Sila,M'Sila City,Apartment,1,1,"Heating,Security 24/7,Parking",44000
+52,1,2,Constantine,Constantine City,Studio,0,1,Wifi,41500
+88,4,1,M'Sila,M'Sila City,Apartment,8,0,Elevator,43500
+141,3,2,Oran,Oran City,Apartment,0,1,"Heating,Elevator,Security 24/7,Air Conditioning",141000
+66,2,1,Setif,El Eulma,Apartment,3,0,"Parking,Elevator,Security 24/7,Heating",37000
+122,3,1,Algiers,El Biar,Apartment,8,1,"Parking,Air Conditioning",150500
+85,3,1,M'Sila,Boussaada,Apartment,2,0,"Wifi,Air Conditioning",37000
+106,2,2,Setif,Setif City,Apartment,5,1,"Heating,Elevator,Air Conditioning",79500
+95,2,2,M'Sila,M'Sila City,Apartment,0,1,"Parking,Elevator",53500
+107,3,1,Setif,Setif City,Apartment,4,0,"Wifi,Air Conditioning",47000
+46,1,1,Algiers,El Biar,Studio,2,1,"Parking,Elevator,Wifi,Air Conditioning",58000
+72,4,1,Oran,Bir El Djir,Apartment,8,0,"Heating,Elevator,Wifi",65000
+97,4,2,Oran,Bir El Djir,Apartment,5,1,"Wifi,Air Conditioning",106500
+77,3,2,Algiers,Sidi M'Hamed,Apartment,2,0,"Elevator,Security 24/7,Wifi",81000
+52,1,2,Algiers,Sidi M'Hamed,Studio,4,1,"Heating,Security 24/7,Air Conditioning,Parking",61000
+97,2,2,M'Sila,M'Sila City,Apartment,8,0,"Heating,Security 24/7",28500
+54,1,1,Oran,Oran City,Studio,1,1,"Heating,Elevator,Security 24/7,Air Conditioning",49500
+47,1,1,Oran,Bir El Djir,Studio,0,1,"Heating,Wifi",49000
+151,4,2,Setif,El Eulma,Apartment,8,0,"Parking,Elevator",83000
+122,4,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Parking,Air Conditioning",123000
+126,3,2,Algiers,Sidi M'Hamed,Apartment,0,1,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",173500
+71,4,2,Algiers,Zeralda,Apartment,0,0,"Heating,Elevator",87500
+294,7,1,Constantine,Constantine City,Villa,0,0,"Heating,Security 24/7,Wifi",229000
+61,3,1,M'Sila,M'Sila City,Apartment,3,0,"Wifi,Air Conditioning",34000
+122,3,1,Algiers,Bab Ezzouar,Apartment,7,0,Parking,99000
+76,2,2,M'Sila,Magra,Apartment,6,1,Heating,35000
+43,1,2,Algiers,Sidi M'Hamed,Studio,4,1,"Parking,Wifi,Air Conditioning",52500
+68,3,2,M'Sila,M'Sila City,Apartment,1,1,Elevator,50500
+61,4,2,Oran,Oran City,Apartment,8,0,"Heating,Air Conditioning",49500
+153,4,2,Setif,Setif City,Apartment,2,0,"Parking,Elevator,Security 24/7,Wifi",80500
+100,2,1,Algiers,Sidi M'Hamed,Apartment,5,1,"Parking,Elevator,Air Conditioning,Wifi",132000
+69,3,1,Oran,Oran City,Apartment,2,1,"Security 24/7,Wifi",92500
+96,4,2,M'Sila,M'Sila City,Apartment,4,0,"Heating,Elevator,Air Conditioning,Wifi",36000
+100,3,1,M'Sila,Magra,Apartment,0,1,Air Conditioning,64000
+132,2,2,Setif,El Eulma,Apartment,6,1,Parking,87000
+143,4,2,Algiers,Zeralda,Apartment,1,0,"Parking,Elevator,Air Conditioning",134500
+69,2,2,Algiers,Sidi M'Hamed,Apartment,7,1,"Parking,Air Conditioning,Wifi",87500
+140,4,1,Setif,Setif City,Apartment,1,0,"Heating,Security 24/7,Parking,Elevator,Wifi",77000
+156,3,1,Setif,Setif City,Apartment,5,1,"Parking,Elevator",114000
+50,1,1,M'Sila,Boussaada,Studio,3,1,Wifi,25500
+256,4,2,Setif,Ain Arnat,Villa,0,0,Wifi,174000
+138,2,1,Setif,El Eulma,Apartment,5,0,"Parking,Elevator,Wifi",61500
+68,4,2,Constantine,Constantine City,Apartment,7,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",49000
+33,1,2,Setif,Ain Arnat,Studio,2,0,"Elevator,Security 24/7",15500
+64,3,2,M'Sila,Magra,Apartment,6,1,"Heating,Elevator",48000
+157,3,2,Constantine,El Khroub,Apartment,6,0,"Parking,Security 24/7,Heating",73500
+155,2,1,Algiers,Sidi M'Hamed,Apartment,2,0,"Heating,Elevator,Air Conditioning,Parking",126000
+411,6,2,Oran,Oran City,Villa,0,0,"Elevator,Security 24/7,Air Conditioning,Wifi",324500
+145,4,2,M'Sila,Boussaada,Apartment,1,0,"Heating,Security 24/7,Wifi",52500
+64,4,2,M'Sila,Magra,Apartment,3,0,"Elevator,Security 24/7,Air Conditioning,Wifi",31000
+46,1,1,Constantine,Constantine City,Studio,4,0,"Heating,Security 24/7,Wifi",24000
+69,2,1,Algiers,Sidi M'Hamed,Apartment,0,0,"Heating,Elevator,Security 24/7",66500
+142,2,2,Constantine,Ali Mendjeli,Apartment,2,1,"Heating,Elevator,Security 24/7,Air Conditioning",111500
+35,1,2,Constantine,Ali Mendjeli,Studio,2,0,"Elevator,Wifi",18000
+143,2,1,Algiers,El Biar,Apartment,2,0,"Elevator,Security 24/7",114500
+92,2,1,Oran,Bir El Djir,Apartment,4,0,"Elevator,Wifi",60500
+132,4,2,M'Sila,Boussaada,Apartment,1,0,"Parking,Elevator,Security 24/7,Wifi",57500
+109,4,1,Algiers,El Biar,Apartment,3,0,"Elevator,Security 24/7,Air Conditioning",107000
+104,4,1,Setif,El Eulma,Apartment,4,0,"Parking,Air Conditioning",52500
+132,2,1,Oran,Bir El Djir,Apartment,0,1,"Heating,Wifi,Air Conditioning",125500
+97,3,2,Oran,Bir El Djir,Apartment,4,1,"Parking,Security 24/7,Wifi,Air Conditioning",95500
+151,2,1,Oran,Bir El Djir,Apartment,1,0,"Heating,Elevator,Security 24/7,Air Conditioning",91000
+85,3,2,Oran,Akid Lotfi,Apartment,6,1,"Elevator,Wifi",97500
+46,1,2,Algiers,Zeralda,Studio,4,0,"Parking,Elevator,Wifi",31000
+153,3,1,Algiers,Bab Ezzouar,Apartment,6,0,Air Conditioning,117000
+123,4,2,Oran,Es Senia,Apartment,4,0,"Parking,Elevator,Air Conditioning,Heating",81000
+60,2,2,Constantine,Ali Mendjeli,Apartment,8,1,Wifi,50000
+109,3,2,Algiers,Bab Ezzouar,Apartment,6,1,"Elevator,Air Conditioning",136500
+151,4,1,Oran,Es Senia,Apartment,1,0,"Elevator,Security 24/7,Air Conditioning",104000
+79,4,2,Setif,Setif City,Apartment,3,1,"Elevator,Air Conditioning",86000
+71,2,1,Setif,El Eulma,Apartment,0,1,"Elevator,Security 24/7",60000
+87,4,1,M'Sila,Boussaada,Apartment,2,0,"Parking,Elevator,Heating",37500
+92,2,1,Setif,El Eulma,Apartment,4,0,Elevator,44000
+86,4,1,Setif,Setif City,Apartment,8,0,"Security 24/7,Air Conditioning,Wifi",48500
+179,5,2,Algiers,Bab Ezzouar,Villa,0,0,"Heating,Security 24/7,Wifi",259000
+121,2,2,Algiers,Bab Ezzouar,Apartment,4,0,Wifi,90000
+149,3,1,Algiers,Zeralda,Apartment,6,1,Elevator,174000
+133,2,1,Oran,Oran City,Apartment,2,0,"Heating,Elevator,Wifi",80500
+38,1,1,Setif,Ain Arnat,Studio,1,0,Security 24/7,15000
+146,3,2,Constantine,Constantine City,Apartment,7,0,"Heating,Elevator,Wifi,Parking",85500
+149,2,1,Setif,El Eulma,Apartment,4,1,"Parking,Elevator",96500
+145,4,1,Algiers,Hydra,Apartment,3,0,"Elevator,Security 24/7",133500
+73,2,2,Setif,Ain Arnat,Apartment,8,1,"Parking,Elevator,Air Conditioning",59000
+292,7,1,Setif,El Eulma,Villa,0,1,"Elevator,Security 24/7,Air Conditioning",312500
+133,4,2,Setif,El Eulma,Apartment,6,0,"Parking,Elevator,Air Conditioning",74500
+83,3,2,Algiers,Sidi M'Hamed,Apartment,0,1,"Heating,Elevator,Security 24/7",129500
+85,3,2,M'Sila,Boussaada,Apartment,4,1,"Parking,Elevator,Air Conditioning",54500
+110,2,2,M'Sila,Magra,Apartment,5,0,"Heating,Elevator,Air Conditioning",32000
+96,3,2,Constantine,Ali Mendjeli,Apartment,5,0,"Elevator,Wifi",64000
+147,3,2,Constantine,El Khroub,Apartment,7,1,"Elevator,Security 24/7",111000
+93,3,2,Algiers,Zeralda,Apartment,4,1,"Heating,Elevator",144000
+110,3,2,Algiers,El Biar,Apartment,1,0,"Heating,Elevator,Wifi",105500
+87,3,2,Algiers,Zeralda,Apartment,2,0,"Parking,Elevator,Wifi",83000
+30,1,2,M'Sila,M'Sila City,Studio,2,1,"Security 24/7,Wifi",18500
+85,2,2,Oran,Akid Lotfi,Apartment,3,1,"Elevator,Air Conditioning,Wifi",90000
+123,4,1,Setif,Ain Arnat,Apartment,1,0,"Parking,Elevator",67000
+153,3,1,Algiers,Hydra,Apartment,3,0,"Heating,Elevator",132500
+156,4,2,Setif,Setif City,Apartment,1,0,"Parking,Security 24/7,Wifi,Heating",82000
+190,8,1,Algiers,Hydra,Villa,0,0,"Heating,Elevator",296000
+71,4,2,M'Sila,Boussaada,Apartment,3,0,"Elevator,Wifi",37000
+52,1,1,Constantine,El Khroub,Studio,1,0,"Parking,Elevator,Wifi,Air Conditioning",24500
+115,2,1,Constantine,El Khroub,Apartment,5,0,"Parking,Elevator,Security 24/7",57500
+309,4,1,Setif,Setif City,Villa,0,1,"Heating,Elevator",303500
+102,2,1,Setif,El Eulma,Apartment,8,0,Wifi,43500
+143,3,1,Constantine,Ali Mendjeli,Apartment,8,0,"Elevator,Wifi",83000
+74,2,2,Algiers,Bab Ezzouar,Apartment,0,1,"Elevator,Security 24/7,Wifi,Air Conditioning",105000
+37,1,2,Setif,El Eulma,Studio,3,0,"Heating,Air Conditioning,Wifi",18500
+114,4,2,Oran,Bir El Djir,Apartment,0,0,"Heating,Wifi,Air Conditioning,Parking",89000
+33,1,1,Setif,El Eulma,Studio,2,1,"Parking,Elevator,Security 24/7",28000
+144,2,2,Constantine,El Khroub,Apartment,7,0,"Elevator,Security 24/7",64000
+30,1,2,M'Sila,Magra,Studio,3,0,Heating,15000
+114,2,1,Algiers,Bab Ezzouar,Apartment,3,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",95500
+94,3,2,Constantine,Constantine City,Apartment,0,0,"Heating,Security 24/7,Parking,Elevator,Wifi",60000
+435,7,1,Oran,Es Senia,Villa,0,0,"Parking,Air Conditioning",345500
+67,2,1,Constantine,Ali Mendjeli,Apartment,5,0,"Heating,Security 24/7,Wifi",39000
+81,4,2,Oran,Es Senia,Apartment,1,1,"Parking,Elevator,Air Conditioning",108000
+124,3,1,Oran,Es Senia,Apartment,3,0,"Parking,Air Conditioning",86000
+94,4,1,Algiers,Sidi M'Hamed,Apartment,2,1,"Parking,Air Conditioning,Wifi",155500
+133,4,2,Constantine,Constantine City,Apartment,7,0,Security 24/7,75500
+85,4,2,M'Sila,Magra,Apartment,3,0,"Parking,Security 24/7,Air Conditioning,Heating",37500
+140,3,1,M'Sila,Boussaada,Apartment,2,1,"Parking,Elevator,Air Conditioning,Heating",80000
+151,2,1,Setif,Ain Arnat,Apartment,5,0,"Elevator,Security 24/7,Wifi,Air Conditioning",63000
+80,3,1,Constantine,El Khroub,Apartment,7,0,"Elevator,Air Conditioning",53500
+387,6,2,Oran,Bir El Djir,Villa,0,0,"Elevator,Wifi,Air Conditioning",315500
+75,4,2,Algiers,Hydra,Apartment,5,1,"Heating,Elevator,Air Conditioning",137500
+120,4,1,M'Sila,Boussaada,Apartment,3,1,"Heating,Elevator,Security 24/7,Wifi",79000
+154,3,2,Algiers,Zeralda,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",131500
+153,3,2,Algiers,Zeralda,Apartment,1,0,"Heating,Elevator,Security 24/7,Wifi",129000
+92,4,1,M'Sila,Boussaada,Apartment,5,0,"Elevator,Security 24/7,Wifi",38500
+417,4,1,Algiers,Hydra,Villa,0,0,"Elevator,Air Conditioning",412000
+146,4,1,Oran,Akid Lotfi,Apartment,3,1,Wifi,162000
+129,4,1,Setif,Setif City,Apartment,2,0,"Parking,Elevator,Security 24/7,Wifi",68000
+98,2,1,Constantine,El Khroub,Apartment,1,0,"Parking,Elevator,Security 24/7",54500
+87,3,1,Setif,Ain Arnat,Apartment,6,0,"Heating,Elevator,Air Conditioning",49000
+105,3,2,Oran,Bir El Djir,Apartment,8,0,"Heating,Elevator,Wifi,Air Conditioning",64000
+98,4,2,Constantine,Constantine City,Apartment,1,1,"Heating,Elevator,Wifi,Air Conditioning",101500
+129,4,1,Setif,Setif City,Apartment,3,1,"Elevator,Air Conditioning",110500
+137,2,1,M'Sila,Boussaada,Apartment,5,0,"Elevator,Security 24/7,Air Conditioning,Wifi",44000
+40,1,1,M'Sila,Boussaada,Studio,3,0,"Security 24/7,Wifi,Air Conditioning",15000
+34,1,1,Constantine,Constantine City,Studio,1,1,"Parking,Elevator",32500
+108,2,2,Oran,Bir El Djir,Apartment,1,0,Air Conditioning,69500
+123,3,2,Algiers,Bab Ezzouar,Apartment,1,0,"Parking,Wifi,Air Conditioning",114000
+110,2,1,Setif,Setif City,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",54500
+36,1,1,M'Sila,Boussaada,Studio,3,0,"Security 24/7,Air Conditioning",15000
+112,2,1,Algiers,Zeralda,Apartment,7,0,"Parking,Elevator",83000
+36,1,1,Constantine,El Khroub,Studio,4,1,"Security 24/7,Wifi",32000
+31,1,2,Oran,Es Senia,Studio,0,0,"Heating,Security 24/7,Wifi,Parking",23000
+132,3,2,Oran,Oran City,Apartment,6,0,"Parking,Elevator,Security 24/7",86000
+39,1,1,Oran,Bir El Djir,Studio,0,1,"Parking,Elevator,Air Conditioning,Heating",41000
+71,4,1,M'Sila,M'Sila City,Apartment,0,1,"Security 24/7,Wifi,Air Conditioning",54000
+385,7,2,Oran,Oran City,Villa,0,0,"Parking,Wifi,Air Conditioning,Heating",319000
+38,1,2,Oran,Bir El Djir,Studio,4,0,"Elevator,Wifi",27500
+85,3,1,Constantine,Constantine City,Apartment,6,0,Parking,46500
+229,5,2,M'Sila,Magra,Villa,0,1,"Parking,Elevator,Heating",186000
+100,3,2,Oran,Bir El Djir,Apartment,3,1,"Heating,Elevator,Air Conditioning,Parking",109500
+159,4,1,M'Sila,M'Sila City,Apartment,5,1,"Heating,Elevator",79000
+66,3,1,Oran,Bir El Djir,Apartment,8,1,"Parking,Security 24/7,Heating",75500
+130,3,2,Algiers,Bab Ezzouar,Apartment,4,0,"Heating,Elevator",120000
+148,3,1,Algiers,Bab Ezzouar,Apartment,0,0,"Parking,Elevator,Wifi,Air Conditioning",132500
+372,7,2,Oran,Akid Lotfi,Villa,0,0,Security 24/7,311000
+135,2,1,Setif,El Eulma,Apartment,2,1,Elevator,95000
+177,8,2,M'Sila,Boussaada,Villa,0,1,"Parking,Elevator,Security 24/7",181000
+101,2,2,Algiers,Zeralda,Apartment,1,0,"Elevator,Security 24/7,Air Conditioning,Wifi",88000
+157,3,1,Setif,El Eulma,Apartment,3,0,"Heating,Elevator",78500
+99,2,1,Setif,Ain Arnat,Apartment,5,1,"Heating,Elevator,Wifi,Parking",75500
+89,4,1,Constantine,Ali Mendjeli,Apartment,8,0,Elevator,55500
+119,3,2,Setif,Ain Arnat,Apartment,4,0,"Wifi,Air Conditioning",56000
+113,4,2,Setif,El Eulma,Apartment,6,0,"Heating,Elevator",60000
+304,5,1,Setif,Ain Arnat,Villa,0,0,"Elevator,Wifi,Air Conditioning",202000
+61,4,1,Constantine,El Khroub,Apartment,5,0,"Parking,Elevator,Air Conditioning",48000
+152,3,1,Constantine,El Khroub,Apartment,3,0,"Elevator,Wifi",82500
+80,2,2,Algiers,Hydra,Apartment,3,0,"Heating,Air Conditioning,Wifi,Parking",71000
+87,2,2,Setif,Ain Arnat,Apartment,5,1,"Parking,Elevator,Air Conditioning,Wifi",69500
+155,2,2,Oran,Akid Lotfi,Apartment,0,1,"Parking,Elevator",146000
+153,4,2,Oran,Es Senia,Apartment,6,1,Wifi,144500
+112,4,2,Oran,Es Senia,Apartment,8,1,"Elevator,Air Conditioning,Wifi",132500
+76,3,2,Constantine,El Khroub,Apartment,3,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",73000
+66,2,2,Setif,Ain Arnat,Apartment,8,0,"Elevator,Wifi",29500
+109,3,2,Oran,Akid Lotfi,Apartment,1,1,"Elevator,Security 24/7,Air Conditioning,Wifi",119500
+140,4,1,Algiers,Sidi M'Hamed,Apartment,2,1,"Heating,Elevator,Security 24/7,Wifi",209000
+113,4,1,Oran,Bir El Djir,Apartment,4,0,"Elevator,Air Conditioning",90500
+82,2,1,Oran,Es Senia,Apartment,7,0,"Parking,Elevator,Security 24/7,Heating",54500
+109,2,2,Constantine,Constantine City,Apartment,8,0,"Parking,Elevator,Security 24/7",53500
+140,2,1,M'Sila,Boussaada,Apartment,5,0,Elevator,49500
+209,8,2,Algiers,Sidi M'Hamed,Villa,0,1,"Parking,Elevator,Security 24/7,Wifi",483500
+73,3,1,Setif,Setif City,Apartment,1,1,"Heating,Elevator,Parking",66500
+61,4,2,Setif,El Eulma,Apartment,0,0,"Heating,Elevator,Parking",44000
+142,3,2,Algiers,El Biar,Apartment,8,1,"Parking,Elevator",193500
+150,4,2,Setif,El Eulma,Apartment,8,0,"Parking,Elevator,Air Conditioning,Wifi",72500
+71,4,1,Oran,Bir El Djir,Apartment,7,0,Security 24/7,54500
+105,4,2,Algiers,Hydra,Apartment,3,1,"Heating,Elevator,Wifi,Air Conditioning",168000
+107,3,2,M'Sila,Boussaada,Apartment,3,0,Security 24/7,41500
+50,1,2,Algiers,Bab Ezzouar,Studio,4,0,"Parking,Security 24/7,Air Conditioning,Heating",43000
+134,2,2,Setif,Ain Arnat,Apartment,5,0,"Parking,Elevator,Air Conditioning",65500
+49,1,1,Oran,Akid Lotfi,Studio,4,0,"Heating,Elevator,Security 24/7",27000
+75,3,1,Setif,Ain Arnat,Apartment,0,1,"Heating,Elevator,Air Conditioning,Wifi",68000
+62,3,2,Algiers,Bab Ezzouar,Apartment,0,0,"Heating,Elevator,Air Conditioning,Parking",69500
+100,3,1,M'Sila,M'Sila City,Apartment,7,0,"Heating,Elevator",36500
+105,3,2,Algiers,Zeralda,Apartment,1,0,"Heating,Elevator,Security 24/7,Wifi",96500
+54,1,1,Constantine,El Khroub,Studio,3,1,"Heating,Elevator,Security 24/7,Air Conditioning",48000
+128,2,1,Algiers,Sidi M'Hamed,Apartment,5,1,"Elevator,Security 24/7",143000
+130,3,2,Setif,Setif City,Apartment,5,0,"Elevator,Wifi",58000
+43,1,2,Algiers,Bab Ezzouar,Studio,2,1,"Heating,Elevator,Security 24/7,Air Conditioning",60000
+38,1,1,Setif,El Eulma,Studio,0,0,"Parking,Elevator",23500
+362,8,1,Setif,Setif City,Villa,0,0,"Parking,Security 24/7,Heating",235500
+92,3,2,Oran,Akid Lotfi,Apartment,3,0,"Parking,Elevator,Air Conditioning",69500
+156,4,1,M'Sila,Magra,Apartment,2,0,"Parking,Elevator,Air Conditioning",58500
+137,4,2,Constantine,Ali Mendjeli,Apartment,3,0,"Elevator,Security 24/7",83500
+75,4,2,M'Sila,Boussaada,Apartment,5,0,Wifi,31500
+96,4,2,Oran,Akid Lotfi,Apartment,4,1,Elevator,119500
+141,3,2,M'Sila,M'Sila City,Apartment,2,1,"Parking,Elevator,Heating",79500
+40,1,2,M'Sila,Boussaada,Studio,4,1,"Elevator,Security 24/7,Air Conditioning,Wifi",21000
+117,2,1,Setif,Setif City,Apartment,4,0,"Wifi,Air Conditioning",50000
+133,2,1,Oran,Akid Lotfi,Apartment,5,0,"Heating,Elevator,Security 24/7,Wifi",81500
+37,1,2,Setif,Ain Arnat,Studio,4,1,"Heating,Security 24/7",35500
+70,3,1,Constantine,Constantine City,Apartment,1,1,Wifi,74500
+60,2,2,Setif,El Eulma,Apartment,0,0,Wifi,37500
+283,4,2,M'Sila,Boussaada,Villa,0,0,"Heating,Elevator,Wifi,Air Conditioning",133000
+68,4,2,Constantine,Ali Mendjeli,Apartment,5,0,"Heating,Elevator,Security 24/7,Wifi",49500
+252,6,1,M'Sila,Boussaada,Villa,0,0,"Elevator,Security 24/7,Air Conditioning",128500
+96,2,2,Algiers,Bab Ezzouar,Apartment,8,0,Parking,75500
+152,3,2,Setif,Ain Arnat,Apartment,6,0,"Elevator,Air Conditioning",75500
+39,1,2,Oran,Bir El Djir,Studio,1,0,"Heating,Elevator",28000
+121,3,1,Constantine,Ali Mendjeli,Apartment,0,0,Heating,66000
+418,7,2,Algiers,Sidi M'Hamed,Villa,0,1,"Parking,Security 24/7,Air Conditioning",682000
+107,4,2,Oran,Akid Lotfi,Apartment,7,0,"Parking,Elevator,Air Conditioning,Heating",80000
+113,3,2,Oran,Akid Lotfi,Apartment,2,1,"Heating,Elevator,Air Conditioning",122000
+130,3,2,M'Sila,Boussaada,Apartment,3,0,"Heating,Elevator,Wifi",51500
+41,1,1,Setif,Setif City,Studio,2,1,"Parking,Elevator,Wifi,Air Conditioning",34000
+69,3,2,Algiers,Sidi M'Hamed,Apartment,5,0,"Elevator,Wifi",72500
+87,3,2,Setif,Setif City,Apartment,6,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",74500
+31,1,1,Oran,Akid Lotfi,Studio,1,0,Heating,27500
+80,2,2,Algiers,Bab Ezzouar,Apartment,4,0,Security 24/7,67500
+70,4,2,Algiers,Sidi M'Hamed,Apartment,7,0,"Parking,Air Conditioning,Heating",75500
+67,3,2,Constantine,Ali Mendjeli,Apartment,1,0,"Heating,Elevator,Air Conditioning",48500
+76,2,2,Constantine,Constantine City,Apartment,4,0,"Parking,Elevator",41000
+345,7,1,Algiers,Hydra,Villa,0,1,Elevator,606000
+159,2,1,Constantine,El Khroub,Apartment,0,0,"Heating,Elevator",82000
+128,4,1,Algiers,El Biar,Apartment,6,0,"Heating,Elevator,Security 24/7",110000
+84,4,1,Algiers,Sidi M'Hamed,Apartment,4,1,"Heating,Wifi,Parking",132500
+155,3,2,Constantine,Ali Mendjeli,Apartment,7,0,Air Conditioning,71000
+100,3,1,Constantine,Ali Mendjeli,Apartment,7,1,"Heating,Elevator,Security 24/7,Air Conditioning",103000
+118,3,2,Setif,El Eulma,Apartment,2,0,"Heating,Wifi,Air Conditioning",62500
+119,2,1,Setif,El Eulma,Apartment,1,0,"Elevator,Security 24/7,Wifi",56500
+34,1,1,M'Sila,M'Sila City,Studio,1,1,"Heating,Elevator,Air Conditioning,Wifi",19000
+107,4,2,Oran,Oran City,Apartment,7,0,"Elevator,Security 24/7",88000
+227,8,2,M'Sila,Magra,Villa,0,1,"Parking,Elevator,Air Conditioning,Heating",204000
+157,2,2,Algiers,Zeralda,Apartment,4,1,"Heating,Elevator,Security 24/7,Air Conditioning",167000
+72,2,2,Algiers,Sidi M'Hamed,Apartment,4,1,"Elevator,Security 24/7,Wifi,Air Conditioning",107500
+83,2,2,Constantine,Constantine City,Apartment,2,0,"Elevator,Security 24/7,Air Conditioning,Wifi",49500
+88,4,1,Setif,El Eulma,Apartment,1,0,"Heating,Elevator,Wifi",53000
+153,3,2,Setif,Setif City,Apartment,4,1,"Heating,Elevator,Security 24/7,Parking",116000
+124,4,2,Setif,Setif City,Apartment,4,0,"Heating,Wifi",61500
+104,2,2,Constantine,El Khroub,Apartment,8,1,"Parking,Elevator,Wifi",86500
+108,2,1,Constantine,Constantine City,Apartment,2,0,"Elevator,Air Conditioning",58000
+98,2,1,Oran,Oran City,Apartment,3,0,Wifi,67000
+77,3,2,Setif,Ain Arnat,Apartment,0,1,"Parking,Elevator,Security 24/7,Air Conditioning",68000
+90,3,2,Constantine,El Khroub,Apartment,0,1,Security 24/7,92500
+148,2,1,Oran,Es Senia,Apartment,2,1,"Heating,Security 24/7,Wifi,Air Conditioning",145000
+141,3,1,Oran,Es Senia,Apartment,7,1,"Heating,Elevator,Security 24/7,Air Conditioning",128500
+98,2,2,Constantine,El Khroub,Apartment,6,0,"Heating,Elevator,Air Conditioning,Wifi",45000
+124,2,2,Constantine,El Khroub,Apartment,1,0,Elevator,62500
+89,4,2,M'Sila,Boussaada,Apartment,8,1,Parking,53500
+91,2,2,Constantine,Ali Mendjeli,Apartment,4,0,Parking,44000
+129,2,2,Constantine,Ali Mendjeli,Apartment,5,1,"Heating,Air Conditioning,Parking",92000
+30,1,2,Oran,Akid Lotfi,Studio,4,0,Wifi,23000
+147,4,1,Constantine,Constantine City,Apartment,7,1,"Elevator,Security 24/7,Air Conditioning",139000
+150,3,2,Oran,Oran City,Apartment,8,0,"Heating,Elevator,Parking",98000
+53,1,1,M'Sila,M'Sila City,Studio,0,0,Heating,22500
+88,2,2,M'Sila,M'Sila City,Apartment,7,0,"Parking,Elevator,Air Conditioning,Heating",31000
+40,1,2,Setif,Setif City,Studio,1,0,Air Conditioning,20500
+320,7,2,Constantine,El Khroub,Villa,0,1,Wifi,375500
+136,2,1,Constantine,Ali Mendjeli,Apartment,7,0,"Elevator,Air Conditioning",70000
+137,2,2,Setif,Setif City,Apartment,6,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",61000
+71,2,2,Setif,Setif City,Apartment,5,1,"Elevator,Wifi",60000
+118,3,2,Setif,El Eulma,Apartment,1,1,"Heating,Wifi,Air Conditioning,Parking",95000
+129,4,1,Oran,Oran City,Apartment,0,0,"Heating,Security 24/7,Wifi,Air Conditioning",91000
+150,2,1,M'Sila,Magra,Apartment,3,0,"Elevator,Security 24/7",48500
+149,2,1,Setif,Ain Arnat,Apartment,8,0,"Elevator,Security 24/7,Air Conditioning",68500
+141,4,2,Algiers,Bab Ezzouar,Apartment,5,1,"Parking,Elevator,Air Conditioning",179000
+99,3,2,M'Sila,M'Sila City,Apartment,4,0,"Parking,Security 24/7,Air Conditioning,Wifi",35000
+144,3,2,Setif,El Eulma,Apartment,8,0,"Parking,Security 24/7,Air Conditioning,Wifi",64000
+155,4,2,Algiers,Zeralda,Apartment,3,0,"Parking,Air Conditioning,Wifi",140500
+186,8,2,Oran,Bir El Djir,Villa,0,0,"Parking,Elevator,Security 24/7,Wifi",227500
+43,1,2,Constantine,Constantine City,Studio,3,0,"Parking,Security 24/7,Wifi,Air Conditioning",24500
+143,3,2,Algiers,El Biar,Apartment,8,0,"Air Conditioning,Wifi",113000
+153,2,1,M'Sila,M'Sila City,Apartment,0,0,"Elevator,Security 24/7,Air Conditioning",49500
+126,3,2,Oran,Bir El Djir,Apartment,0,1,"Heating,Elevator,Air Conditioning,Wifi",128500
+371,4,2,Oran,Bir El Djir,Villa,0,0,Security 24/7,289500
+98,4,1,Constantine,El Khroub,Apartment,8,1,"Elevator,Security 24/7",97500
+201,8,2,M'Sila,Magra,Villa,0,0,"Elevator,Wifi,Air Conditioning",123000
+152,3,2,Setif,Setif City,Apartment,5,0,"Parking,Elevator,Security 24/7",64500
+336,5,1,M'Sila,Magra,Villa,0,0,"Heating,Wifi,Air Conditioning",153500
+436,7,1,Constantine,Constantine City,Villa,0,0,"Heating,Elevator,Security 24/7",289500
+134,3,2,Algiers,Hydra,Apartment,4,0,"Elevator,Wifi,Air Conditioning",115500
+153,4,2,M'Sila,Magra,Apartment,6,0,"Heating,Elevator,Wifi,Parking",55500
+137,4,2,Oran,Oran City,Apartment,3,0,"Heating,Elevator,Wifi",99500
+159,3,1,Setif,Ain Arnat,Apartment,7,0,"Parking,Elevator,Wifi,Air Conditioning",69000
+87,2,1,Constantine,El Khroub,Apartment,2,1,"Heating,Elevator,Wifi",78000
+107,3,1,Algiers,Zeralda,Apartment,0,0,"Elevator,Security 24/7,Wifi",100000
+224,8,1,Constantine,El Khroub,Villa,0,1,"Air Conditioning,Wifi",320000
+33,1,2,Setif,Ain Arnat,Studio,4,0,"Heating,Wifi,Air Conditioning",17500
+159,4,1,Algiers,Zeralda,Apartment,1,1,"Elevator,Air Conditioning",219000
+436,6,1,M'Sila,Boussaada,Villa,0,1,Air Conditioning,278500
+152,4,2,Oran,Akid Lotfi,Apartment,7,1,Parking,144000
+100,3,2,Algiers,El Biar,Apartment,8,1,Elevator,146000
+95,4,2,Algiers,El Biar,Apartment,3,1,"Parking,Elevator,Security 24/7,Air Conditioning",163000
+108,3,1,Oran,Es Senia,Apartment,7,0,"Heating,Elevator,Security 24/7",75000
+147,2,1,Algiers,Sidi M'Hamed,Apartment,0,0,Elevator,116500
+203,8,1,Algiers,El Biar,Villa,0,1,"Parking,Security 24/7,Air Conditioning,Wifi",478000
+134,4,1,Setif,Setif City,Apartment,7,1,"Heating,Wifi",97500
+77,2,2,Oran,Oran City,Apartment,1,1,"Heating,Elevator,Wifi,Parking",81500
+70,3,2,Oran,Bir El Djir,Apartment,5,0,"Elevator,Security 24/7,Air Conditioning",55000
+159,4,2,Setif,Setif City,Apartment,5,0,"Elevator,Security 24/7,Wifi",71500
+127,2,2,Oran,Oran City,Apartment,2,1,"Heating,Elevator,Air Conditioning,Parking",119000
+70,3,1,Oran,Oran City,Apartment,6,0,"Heating,Security 24/7,Wifi,Air Conditioning",53000
+186,6,2,Algiers,Hydra,Villa,0,1,"Elevator,Wifi,Air Conditioning",428500
+83,3,1,Algiers,Sidi M'Hamed,Apartment,3,1,"Heating,Elevator,Parking",131000
+141,3,2,Setif,El Eulma,Apartment,5,0,"Parking,Elevator,Wifi",67000
+113,2,1,Oran,Bir El Djir,Apartment,5,0,"Heating,Elevator,Wifi",78500
+141,4,2,M'Sila,Boussaada,Apartment,0,0,Security 24/7,54500
+43,1,2,Algiers,Zeralda,Studio,4,0,"Parking,Air Conditioning,Wifi,Heating",36500
+72,4,1,Algiers,Bab Ezzouar,Apartment,0,0,"Parking,Elevator,Air Conditioning",85000
+130,4,2,Oran,Bir El Djir,Apartment,5,1,"Heating,Elevator",130000
+38,1,1,M'Sila,M'Sila City,Studio,3,0,"Elevator,Wifi",15000
+81,3,1,Constantine,Constantine City,Apartment,3,0,"Security 24/7,Air Conditioning,Wifi",52000
+102,2,1,Constantine,Ali Mendjeli,Apartment,3,1,"Elevator,Security 24/7,Wifi,Air Conditioning",90000
+77,4,2,Setif,El Eulma,Apartment,6,0,Security 24/7,48000
+88,2,2,Constantine,Constantine City,Apartment,6,1,"Elevator,Security 24/7,Air Conditioning,Wifi",71500
+322,4,2,Oran,Es Senia,Villa,0,1,Security 24/7,416000
+53,1,1,Constantine,Ali Mendjeli,Studio,1,0,"Heating,Security 24/7,Wifi",28000
+91,4,2,M'Sila,M'Sila City,Apartment,3,0,"Heating,Air Conditioning,Wifi",42000
+101,2,1,M'Sila,M'Sila City,Apartment,0,0,"Elevator,Wifi",32000
+137,2,1,M'Sila,Magra,Apartment,5,0,"Parking,Elevator,Security 24/7,Air Conditioning",39500
+154,4,2,M'Sila,Boussaada,Apartment,6,0,"Heating,Elevator,Wifi",59000
+98,3,1,M'Sila,Boussaada,Apartment,7,0,"Heating,Elevator,Security 24/7",33500
+149,3,2,Setif,Ain Arnat,Apartment,1,0,Wifi,75500
+126,2,2,Algiers,Sidi M'Hamed,Apartment,1,0,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",99500
+145,3,1,M'Sila,Magra,Apartment,1,0,"Heating,Elevator,Wifi,Air Conditioning",52000
+141,3,2,Setif,Ain Arnat,Apartment,4,1,"Heating,Elevator,Parking",99000
+33,1,1,Constantine,El Khroub,Studio,1,0,"Heating,Air Conditioning",21000
+86,2,1,Algiers,Zeralda,Apartment,8,0,"Heating,Elevator,Security 24/7",78000
+45,1,1,M'Sila,Magra,Studio,1,0,"Heating,Security 24/7,Wifi",20500
+141,4,1,Constantine,Constantine City,Apartment,8,0,"Heating,Security 24/7,Air Conditioning,Parking",73000
+95,3,2,Oran,Oran City,Apartment,6,0,"Elevator,Security 24/7,Air Conditioning",67500
+67,4,1,Constantine,El Khroub,Apartment,0,1,"Parking,Elevator,Security 24/7,Wifi",86000
+73,3,2,Constantine,El Khroub,Apartment,5,0,"Parking,Elevator,Air Conditioning,Heating",51500
+127,3,2,M'Sila,M'Sila City,Apartment,5,0,"Heating,Elevator,Security 24/7,Wifi",46000
+87,2,2,Oran,Akid Lotfi,Apartment,8,0,"Heating,Elevator,Security 24/7,Parking",58000
+238,7,2,Oran,Oran City,Villa,0,0,"Elevator,Security 24/7",235000
+106,2,2,Constantine,El Khroub,Apartment,2,0,"Heating,Elevator,Security 24/7",63000
+152,4,1,M'Sila,Magra,Apartment,8,1,"Parking,Elevator,Security 24/7",87000
+84,2,2,Algiers,El Biar,Apartment,7,0,Elevator,70500
+151,3,2,Setif,Ain Arnat,Apartment,2,0,"Elevator,Security 24/7,Air Conditioning",70000
+36,1,1,M'Sila,Boussaada,Studio,0,0,Air Conditioning,15000
+31,1,2,Constantine,Constantine City,Studio,2,1,"Parking,Elevator,Security 24/7",30500
+100,3,1,Oran,Bir El Djir,Apartment,3,1,"Parking,Elevator,Security 24/7",111000
+116,4,2,Constantine,El Khroub,Apartment,7,0,"Elevator,Wifi,Air Conditioning",74500
+144,4,1,Algiers,Sidi M'Hamed,Apartment,8,0,Heating,119000
+60,2,2,Constantine,Constantine City,Apartment,2,0,"Elevator,Wifi",39500
+44,1,2,Setif,Setif City,Studio,4,0,Heating,20000
+123,4,1,Constantine,El Khroub,Apartment,6,1,"Heating,Elevator,Air Conditioning",119500
+118,2,1,M'Sila,Boussaada,Apartment,2,1,"Elevator,Security 24/7",59000
+123,3,2,M'Sila,M'Sila City,Apartment,8,1,"Heating,Elevator,Air Conditioning,Parking",66500
+71,4,2,M'Sila,M'Sila City,Apartment,8,0,"Parking,Elevator",25000
+154,2,1,Algiers,Bab Ezzouar,Apartment,7,0,"Parking,Elevator",121500
+51,1,1,Oran,Oran City,Studio,4,1,"Elevator,Security 24/7,Air Conditioning",47000
+382,4,1,Constantine,El Khroub,Villa,0,0,Air Conditioning,244500
+348,4,2,M'Sila,Boussaada,Villa,0,0,Security 24/7,143500
+130,4,1,M'Sila,M'Sila City,Apartment,1,0,"Security 24/7,Air Conditioning",50000
+85,3,1,M'Sila,Magra,Apartment,2,0,"Parking,Elevator,Security 24/7,Heating",35000
+96,4,1,Oran,Oran City,Apartment,0,1,Elevator,120500
+44,1,2,Oran,Akid Lotfi,Studio,0,0,"Heating,Security 24/7,Air Conditioning,Wifi",28500
+67,4,1,Constantine,Ali Mendjeli,Apartment,1,1,"Parking,Elevator,Wifi",83000
+40,1,2,Setif,Ain Arnat,Studio,2,0,"Heating,Elevator",23000
+99,3,1,Oran,Bir El Djir,Apartment,0,1,Elevator,115500
+74,2,2,M'Sila,Boussaada,Apartment,3,1,Air Conditioning,47000
+45,1,1,Oran,Es Senia,Studio,2,0,"Elevator,Security 24/7,Wifi",28000
+42,1,2,Setif,Ain Arnat,Studio,1,0,"Security 24/7,Wifi",24000
+37,1,2,Constantine,Constantine City,Studio,4,0,"Heating,Elevator,Parking",22500
+63,3,2,Algiers,Bab Ezzouar,Apartment,6,0,Elevator,70500
+85,3,1,M'Sila,Boussaada,Apartment,1,0,"Heating,Air Conditioning,Parking,Elevator,Wifi",34000
+424,8,1,Constantine,El Khroub,Villa,0,0,Elevator,292000
+205,8,1,Setif,El Eulma,Villa,0,0,"Heating,Wifi,Air Conditioning",176000
+117,2,1,Algiers,Zeralda,Apartment,8,0,"Parking,Air Conditioning,Wifi,Heating",87000
+75,2,2,Constantine,Ali Mendjeli,Apartment,6,0,Parking,39000
+53,1,2,Algiers,Bab Ezzouar,Studio,1,0,Parking,47500
+375,4,2,Oran,Es Senia,Villa,0,1,"Elevator,Security 24/7,Wifi",458500
+67,2,2,Setif,El Eulma,Apartment,6,1,"Parking,Elevator,Air Conditioning,Heating",56000
+47,1,2,Oran,Oran City,Studio,3,1,Elevator,46000
+165,4,2,Algiers,Zeralda,Villa,0,0,"Wifi,Air Conditioning",240000
+63,2,2,M'Sila,Boussaada,Apartment,5,1,"Parking,Security 24/7,Wifi,Air Conditioning",31500
+130,3,2,Setif,Ain Arnat,Apartment,4,0,"Security 24/7,Wifi",60000
+95,4,2,Constantine,Ali Mendjeli,Apartment,6,0,"Elevator,Security 24/7",66000
+73,4,2,Algiers,Sidi M'Hamed,Apartment,0,0,"Parking,Air Conditioning",83500
+120,2,1,Constantine,Constantine City,Apartment,4,1,"Heating,Elevator",100500
+155,2,2,Oran,Bir El Djir,Apartment,8,0,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",94500
+74,4,1,Constantine,El Khroub,Apartment,1,0,Parking,54000
+106,4,2,Oran,Akid Lotfi,Apartment,2,0,"Parking,Elevator,Heating",82500
+36,1,1,M'Sila,Magra,Studio,3,0,"Parking,Wifi,Air Conditioning",15000
+75,2,1,Constantine,Ali Mendjeli,Apartment,0,0,"Elevator,Security 24/7",44500
+128,2,1,Algiers,Sidi M'Hamed,Apartment,1,0,"Parking,Elevator,Wifi",100000
+50,1,1,M'Sila,Magra,Studio,3,0,"Parking,Elevator,Wifi",18500
+122,4,1,Setif,Ain Arnat,Apartment,4,0,"Parking,Elevator,Wifi,Heating",62500
+108,3,1,Constantine,El Khroub,Apartment,2,0,"Security 24/7,Wifi",65500
+64,3,2,Algiers,Hydra,Apartment,7,0,"Parking,Elevator,Air Conditioning",72000
+107,3,2,Algiers,Hydra,Apartment,6,0,"Parking,Wifi,Air Conditioning,Heating",88500
+144,4,1,M'Sila,Boussaada,Apartment,8,0,"Heating,Elevator,Parking",52500
+73,4,1,Setif,Setif City,Apartment,3,1,"Elevator,Security 24/7",78500
+124,4,2,M'Sila,Magra,Apartment,1,1,"Elevator,Security 24/7,Air Conditioning,Wifi",75500
+110,2,2,Constantine,El Khroub,Apartment,1,0,"Elevator,Security 24/7,Wifi",57500
+99,4,1,Oran,Oran City,Apartment,3,1,"Elevator,Wifi",125500
+251,5,2,Oran,Akid Lotfi,Villa,0,0,"Parking,Air Conditioning,Wifi,Heating",234500
+63,4,1,M'Sila,M'Sila City,Apartment,4,0,"Elevator,Security 24/7",37000
+72,4,1,Constantine,Ali Mendjeli,Apartment,5,0,"Heating,Elevator",47500
+103,3,1,Constantine,Constantine City,Apartment,2,0,"Heating,Security 24/7,Air Conditioning",65500
+85,4,2,Oran,Akid Lotfi,Apartment,3,1,Wifi,112500
+72,2,1,M'Sila,M'Sila City,Apartment,2,1,"Heating,Elevator,Air Conditioning,Wifi",42000
+150,4,2,Setif,El Eulma,Apartment,0,0,"Parking,Elevator,Security 24/7,Air Conditioning",78500
+115,4,1,Setif,El Eulma,Apartment,8,1,"Parking,Security 24/7,Air Conditioning",90000
+113,2,1,Setif,Setif City,Apartment,7,0,"Heating,Elevator,Parking",48500
+121,4,1,Oran,Es Senia,Apartment,5,0,"Parking,Elevator,Heating",91000
+130,3,2,M'Sila,Magra,Apartment,0,1,"Parking,Air Conditioning",70000
+87,3,2,Oran,Es Senia,Apartment,7,0,"Elevator,Wifi",63500
+149,4,1,Constantine,Ali Mendjeli,Apartment,7,0,"Parking,Elevator,Air Conditioning",82500
+75,2,1,Oran,Es Senia,Apartment,6,0,"Heating,Elevator,Air Conditioning,Wifi",49000
+116,2,2,Oran,Bir El Djir,Apartment,7,1,"Heating,Elevator,Wifi",103000
+33,1,1,Oran,Es Senia,Studio,0,1,"Air Conditioning,Wifi",42000
+100,4,1,Setif,Setif City,Apartment,3,0,"Security 24/7,Wifi,Air Conditioning",60000
+48,1,1,M'Sila,M'Sila City,Studio,0,1,"Security 24/7,Air Conditioning",28500
+30,1,1,M'Sila,Magra,Studio,1,1,"Heating,Wifi",18500
+75,4,2,Oran,Oran City,Apartment,4,1,"Parking,Air Conditioning,Wifi",89500
+92,2,1,Setif,Setif City,Apartment,1,0,"Parking,Security 24/7,Wifi",44500
+106,4,2,Oran,Bir El Djir,Apartment,1,0,"Security 24/7,Air Conditioning",83500
+136,2,1,Setif,Ain Arnat,Apartment,4,0,"Elevator,Security 24/7,Air Conditioning",57500
+53,1,2,Setif,Ain Arnat,Studio,1,0,"Parking,Security 24/7,Air Conditioning",25000
+93,4,2,Setif,Ain Arnat,Apartment,2,0,"Heating,Security 24/7,Parking,Elevator,Wifi",51000
+126,3,1,Constantine,El Khroub,Apartment,5,1,"Elevator,Air Conditioning",117000
+296,5,1,Oran,Oran City,Villa,0,0,"Parking,Elevator,Air Conditioning,Wifi",257000
+130,3,2,Oran,Oran City,Apartment,4,0,Elevator,85500
+100,2,1,Algiers,Hydra,Apartment,5,1,Elevator,117500
+110,3,1,Setif,Ain Arnat,Apartment,4,0,"Heating,Elevator",60000
+356,8,2,Constantine,El Khroub,Villa,0,1,"Parking,Air Conditioning",411000
+73,2,2,Algiers,Bab Ezzouar,Apartment,3,1,"Parking,Elevator,Security 24/7,Air Conditioning",101500
+382,7,2,Setif,El Eulma,Villa,0,0,"Elevator,Security 24/7,Wifi",241500
+151,4,2,Oran,Oran City,Apartment,2,0,"Parking,Elevator,Security 24/7,Heating",108000
+48,1,1,Oran,Es Senia,Studio,4,0,"Parking,Elevator,Air Conditioning,Heating",34500
+245,6,1,Setif,Ain Arnat,Villa,0,0,"Heating,Elevator",181500
+60,3,1,Oran,Oran City,Apartment,1,0,"Elevator,Security 24/7",52500
+52,1,2,Oran,Bir El Djir,Studio,2,0,"Heating,Air Conditioning,Wifi",31000
+114,3,1,M'Sila,Magra,Apartment,2,0,"Parking,Elevator,Wifi",39500
+141,4,2,M'Sila,Magra,Apartment,5,0,"Parking,Elevator,Security 24/7",51500
+62,4,2,Algiers,Bab Ezzouar,Apartment,5,0,"Heating,Elevator,Air Conditioning,Wifi",79000
+152,2,1,Setif,El Eulma,Apartment,0,1,Elevator,103000
+104,3,2,Algiers,El Biar,Apartment,7,1,"Elevator,Wifi",148000
+86,3,2,M'Sila,Boussaada,Apartment,7,0,"Parking,Elevator,Air Conditioning",30500
+143,3,2,Setif,Setif City,Apartment,3,1,"Elevator,Security 24/7,Air Conditioning,Wifi",113000
+95,4,1,Algiers,Hydra,Apartment,1,1,"Parking,Elevator",158500
+141,2,1,Algiers,Sidi M'Hamed,Apartment,4,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",113000
+129,2,1,M'Sila,Magra,Apartment,7,0,"Parking,Elevator,Wifi,Heating",45000
+91,3,2,Oran,Es Senia,Apartment,4,1,"Parking,Elevator,Security 24/7,Wifi",110000
+140,2,1,Constantine,Constantine City,Apartment,5,0,"Parking,Elevator,Wifi",72000
+39,1,2,Constantine,El Khroub,Studio,0,0,"Parking,Security 24/7,Air Conditioning,Heating",21000
+272,4,2,Algiers,Zeralda,Villa,0,0,Elevator,311000
+147,3,2,Algiers,Hydra,Apartment,4,0,"Parking,Elevator,Air Conditioning",112000
+74,3,1,Setif,El Eulma,Apartment,0,0,"Heating,Elevator,Security 24/7,Air Conditioning",43000
+115,3,2,Oran,Oran City,Apartment,2,0,Air Conditioning,79000
+124,2,1,M'Sila,Magra,Apartment,2,0,"Parking,Air Conditioning",41000
+155,4,1,Oran,Es Senia,Apartment,7,0,Air Conditioning,95500
+410,8,2,Oran,Akid Lotfi,Villa,0,1,"Parking,Elevator,Air Conditioning,Heating",527500
+94,2,2,Oran,Es Senia,Apartment,2,0,"Elevator,Wifi",62500
+30,1,2,Oran,Oran City,Studio,0,0,"Heating,Security 24/7,Wifi",24000
+136,2,1,Oran,Es Senia,Apartment,7,0,"Heating,Security 24/7,Air Conditioning",70500
+86,2,1,Setif,El Eulma,Apartment,8,0,"Parking,Security 24/7,Air Conditioning,Wifi",41000
+78,3,2,Algiers,Sidi M'Hamed,Apartment,6,0,"Security 24/7,Air Conditioning,Parking,Elevator,Wifi",80000
+260,5,2,Setif,Ain Arnat,Villa,0,0,"Parking,Elevator,Heating",181000
+134,4,1,Algiers,Hydra,Apartment,3,0,Parking,124500
+117,4,2,Algiers,Bab Ezzouar,Apartment,4,0,"Elevator,Air Conditioning",103500
+105,2,2,M'Sila,Boussaada,Apartment,5,1,"Heating,Security 24/7,Parking",52000
+146,4,1,Constantine,Constantine City,Apartment,2,0,"Parking,Elevator",83500
+121,2,2,M'Sila,Boussaada,Apartment,3,0,"Parking,Elevator,Security 24/7,Wifi",41500
+52,1,1,Constantine,Ali Mendjeli,Studio,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",22000
+147,4,1,Constantine,Constantine City,Apartment,2,0,Parking,84500
+100,2,2,Algiers,Bab Ezzouar,Apartment,0,0,Elevator,87000
+115,4,1,Oran,Akid Lotfi,Apartment,2,0,"Heating,Security 24/7,Air Conditioning,Parking",84500
+149,2,2,Oran,Bir El Djir,Apartment,7,0,"Elevator,Wifi",95000
+120,2,2,Constantine,El Khroub,Apartment,2,0,"Parking,Air Conditioning",63000
+159,3,1,Setif,Setif City,Apartment,1,0,"Parking,Elevator,Wifi",79500
+46,1,2,Algiers,Bab Ezzouar,Studio,1,0,"Heating,Elevator,Air Conditioning",44500
+133,2,1,Oran,Oran City,Apartment,2,0,"Heating,Elevator",84500
+142,4,1,Setif,El Eulma,Apartment,2,1,Parking,116500
+109,4,2,Oran,Akid Lotfi,Apartment,4,0,"Heating,Elevator,Security 24/7,Air Conditioning",86500
+124,4,2,M'Sila,Boussaada,Apartment,2,1,"Elevator,Air Conditioning",76500
+143,2,1,M'Sila,Boussaada,Apartment,1,0,"Parking,Air Conditioning,Heating",49000
+157,4,1,M'Sila,Boussaada,Apartment,4,1,"Elevator,Security 24/7,Air Conditioning",79000
+50,1,1,Algiers,Bab Ezzouar,Studio,3,0,"Heating,Elevator,Wifi,Air Conditioning",40000
+150,2,2,M'Sila,Magra,Apartment,6,0,"Parking,Elevator,Security 24/7",41500
+105,4,2,M'Sila,Boussaada,Apartment,4,1,"Heating,Elevator,Security 24/7",63000
+130,4,2,M'Sila,Magra,Apartment,3,1,Elevator,79500
+357,6,1,Oran,Bir El Djir,Villa,0,0,"Parking,Elevator,Wifi",298500
+35,1,1,Oran,Oran City,Studio,4,0,Elevator,20500
+30,1,1,Oran,Bir El Djir,Studio,0,1,Heating,34000
+36,1,2,Oran,Bir El Djir,Studio,3,0,Heating,24500
+99,4,2,M'Sila,Boussaada,Apartment,5,0,Security 24/7,36500
+101,3,2,Oran,Akid Lotfi,Apartment,1,0,"Elevator,Security 24/7,Wifi,Air Conditioning",72000
+138,4,2,M'Sila,M'Sila City,Apartment,6,1,"Parking,Elevator,Air Conditioning,Wifi",83500
+76,3,1,Oran,Es Senia,Apartment,2,0,"Parking,Elevator,Security 24/7,Air Conditioning",60500
+35,1,1,M'Sila,Magra,Studio,4,1,"Air Conditioning,Wifi",15500
+116,2,2,M'Sila,Magra,Apartment,6,1,"Heating,Elevator,Security 24/7,Parking",56000
+96,4,2,M'Sila,Magra,Apartment,6,1,"Elevator,Security 24/7,Wifi",65000
+140,3,2,Constantine,El Khroub,Apartment,3,0,"Elevator,Air Conditioning",76500
+85,2,1,Algiers,Zeralda,Apartment,3,1,Security 24/7,119500
+70,4,2,Algiers,El Biar,Apartment,7,0,"Parking,Elevator,Wifi,Air Conditioning",82000
+140,4,2,M'Sila,Boussaada,Apartment,6,1,"Security 24/7,Wifi",74500
+88,2,1,Setif,Setif City,Apartment,8,0,Elevator,37000
+159,4,2,M'Sila,Boussaada,Apartment,4,0,"Heating,Elevator,Wifi",56000
+102,2,1,Setif,El Eulma,Apartment,5,0,"Heating,Wifi,Air Conditioning",47000
+416,5,1,M'Sila,M'Sila City,Villa,0,1,Air Conditioning,264500
+143,2,1,Constantine,Ali Mendjeli,Apartment,0,1,"Elevator,Security 24/7",111000
+144,4,2,M'Sila,Boussaada,Apartment,8,0,Parking,48000
+103,2,1,Oran,Akid Lotfi,Apartment,3,1,"Heating,Elevator",101000
+154,4,2,Setif,Ain Arnat,Apartment,7,0,"Parking,Security 24/7,Air Conditioning",72000
+348,7,1,Algiers,El Biar,Villa,0,0,Security 24/7,394000
+146,2,2,Setif,Ain Arnat,Apartment,6,1,"Security 24/7,Wifi",91000
+153,4,2,Algiers,Sidi M'Hamed,Apartment,3,1,"Heating,Elevator,Wifi",217000
+137,2,2,Algiers,El Biar,Apartment,8,0,"Elevator,Security 24/7,Wifi",111000
+127,4,1,Setif,Ain Arnat,Apartment,1,1,Heating,109000
+75,3,1,Oran,Akid Lotfi,Apartment,3,1,"Parking,Elevator",97500
+151,2,1,M'Sila,M'Sila City,Apartment,1,0,Air Conditioning,52500
+118,3,1,M'Sila,M'Sila City,Apartment,7,0,Parking,37000
+96,3,1,Oran,Bir El Djir,Apartment,2,0,"Elevator,Security 24/7,Air Conditioning",70500
+118,2,2,Setif,Setif City,Apartment,2,0,"Elevator,Security 24/7,Wifi",58000
+70,2,1,M'Sila,Boussaada,Apartment,3,0,"Heating,Elevator",29000
+158,2,1,Setif,Setif City,Apartment,7,1,"Elevator,Wifi",112000
+144,4,1,M'Sila,Boussaada,Apartment,8,1,"Elevator,Air Conditioning,Wifi",72500
+105,2,2,Constantine,Ali Mendjeli,Apartment,8,0,Heating,47000
+101,3,1,M'Sila,M'Sila City,Apartment,3,1,Security 24/7,60500
+149,4,1,Oran,Bir El Djir,Apartment,7,0,"Parking,Elevator,Security 24/7,Heating",100000
+100,4,2,M'Sila,Boussaada,Apartment,8,0,Parking,38000
+35,1,1,M'Sila,Boussaada,Studio,3,0,Heating,15000
+80,2,1,Constantine,El Khroub,Apartment,2,0,"Heating,Security 24/7,Wifi,Parking",49000
+92,4,2,Constantine,Ali Mendjeli,Apartment,3,1,"Parking,Air Conditioning",100000
+60,2,1,Algiers,Sidi M'Hamed,Apartment,8,0,Wifi,52500
+149,2,2,Constantine,Ali Mendjeli,Apartment,5,1,"Heating,Elevator,Air Conditioning",105000
+36,1,2,Setif,Setif City,Studio,2,1,"Heating,Elevator,Security 24/7,Wifi",26000
+128,3,1,Constantine,El Khroub,Apartment,1,0,"Elevator,Wifi",72500
+150,4,2,M'Sila,M'Sila City,Apartment,0,0,"Parking,Air Conditioning",58500
+63,2,1,Constantine,Ali Mendjeli,Apartment,4,0,"Heating,Security 24/7,Air Conditioning,Parking,Elevator",37500
+149,3,1,Constantine,El Khroub,Apartment,7,0,Elevator,85500
+399,8,1,Constantine,El Khroub,Villa,0,0,"Security 24/7,Wifi",282500
+50,1,2,Constantine,Ali Mendjeli,Studio,4,1,"Parking,Elevator,Wifi,Air Conditioning",36000
+38,1,1,Algiers,Sidi M'Hamed,Studio,1,1,"Elevator,Security 24/7,Air Conditioning",52500
+37,1,2,Setif,Ain Arnat,Studio,4,0,Elevator,21000
+129,4,2,Oran,Akid Lotfi,Apartment,0,1,Air Conditioning,147000
+60,4,2,Setif,El Eulma,Apartment,1,0,"Elevator,Security 24/7",47500
+84,2,1,Algiers,Sidi M'Hamed,Apartment,5,0,"Security 24/7,Air Conditioning",64000
+66,3,1,Algiers,Bab Ezzouar,Apartment,1,0,"Heating,Elevator,Air Conditioning",74500
+99,2,2,Constantine,Ali Mendjeli,Apartment,8,0,"Security 24/7,Air Conditioning",51000
+63,3,2,Algiers,Zeralda,Apartment,2,1,"Heating,Elevator,Security 24/7,Air Conditioning",109000
+85,3,1,Oran,Akid Lotfi,Apartment,5,0,"Parking,Elevator,Wifi,Air Conditioning",61000
+305,6,2,Algiers,Hydra,Villa,0,0,"Wifi,Air Conditioning",353500
+128,2,1,Algiers,Bab Ezzouar,Apartment,8,1,Wifi,144000
+94,3,2,Algiers,El Biar,Apartment,3,0,"Parking,Elevator,Security 24/7",94500
+137,2,2,Oran,Es Senia,Apartment,1,0,"Heating,Elevator,Parking",81500
+363,6,1,M'Sila,M'Sila City,Villa,0,0,Wifi,161500
+106,4,1,Setif,El Eulma,Apartment,3,0,"Elevator,Security 24/7,Air Conditioning,Wifi",62000
+138,2,1,Algiers,Hydra,Apartment,8,0,"Elevator,Air Conditioning",96000
+62,3,2,Constantine,Constantine City,Apartment,0,0,Elevator,44500
+77,4,2,Constantine,Constantine City,Apartment,8,1,"Parking,Elevator,Wifi,Air Conditioning",80500
+126,4,2,Constantine,Ali Mendjeli,Apartment,7,0,Elevator,77500
+33,1,2,Setif,Setif City,Studio,0,1,"Elevator,Security 24/7,Air Conditioning,Wifi",31500
+138,2,1,Oran,Oran City,Apartment,5,0,"Heating,Elevator,Wifi",84000
+64,2,1,Algiers,Zeralda,Apartment,5,0,Air Conditioning,54500
+214,8,1,Oran,Oran City,Villa,0,1,"Elevator,Security 24/7",369500
+72,2,2,Constantine,Ali Mendjeli,Apartment,8,0,"Parking,Elevator",46500
+159,2,1,Setif,Ain Arnat,Apartment,3,0,"Heating,Elevator,Air Conditioning,Parking",71000
+109,3,2,M'Sila,Boussaada,Apartment,5,1,"Parking,Wifi,Air Conditioning",58000
+80,3,2,Algiers,Hydra,Apartment,3,0,Wifi,80500
+61,2,1,M'Sila,Boussaada,Apartment,6,0,"Heating,Elevator,Air Conditioning",18500
+142,4,1,Oran,Oran City,Apartment,2,0,Elevator,97500
+42,1,2,Constantine,Constantine City,Studio,3,1,Wifi,34000
+111,3,2,M'Sila,M'Sila City,Apartment,4,1,"Parking,Elevator,Wifi",66500
+83,2,1,Algiers,Sidi M'Hamed,Apartment,3,0,"Parking,Security 24/7,Wifi",75000
+70,4,1,M'Sila,M'Sila City,Apartment,0,0,Security 24/7,34000
+266,5,2,M'Sila,Magra,Villa,0,1,"Parking,Elevator,Air Conditioning",202500
+115,3,1,Setif,Ain Arnat,Apartment,8,0,"Elevator,Wifi",61500
+108,2,2,Algiers,Sidi M'Hamed,Apartment,3,0,"Parking,Elevator,Wifi,Air Conditioning",95000
+157,3,2,Algiers,El Biar,Apartment,6,0,"Parking,Security 24/7,Wifi,Air Conditioning",116500
+147,2,2,Algiers,Bab Ezzouar,Apartment,4,0,"Heating,Security 24/7",102500
+47,1,2,Algiers,El Biar,Studio,0,0,"Heating,Elevator,Air Conditioning,Parking",42000
+109,4,2,Algiers,Sidi M'Hamed,Apartment,1,0,Heating,113500
+85,4,2,Algiers,Zeralda,Apartment,8,0,"Heating,Air Conditioning",86500
+152,4,2,Algiers,Bab Ezzouar,Apartment,0,1,"Heating,Security 24/7,Air Conditioning,Elevator,Wifi",216500
+74,3,1,Oran,Es Senia,Apartment,2,1,"Elevator,Security 24/7,Wifi,Air Conditioning",92000
+84,2,1,Constantine,Constantine City,Apartment,1,1,"Elevator,Air Conditioning",67500
+106,4,1,Oran,Es Senia,Apartment,2,0,Security 24/7,77500
+76,3,1,Constantine,Ali Mendjeli,Apartment,0,0,"Parking,Elevator,Wifi",53000
+125,2,2,M'Sila,Boussaada,Apartment,8,0,"Heating,Elevator,Security 24/7",41000
+129,3,1,Algiers,El Biar,Apartment,0,0,"Parking,Elevator,Security 24/7,Wifi",111000
+48,1,2,M'Sila,Magra,Studio,0,0,"Parking,Security 24/7,Wifi",16000
+76,3,1,M'Sila,Magra,Apartment,8,0,"Parking,Security 24/7,Air Conditioning",30500
+145,2,2,Oran,Es Senia,Apartment,5,1,"Elevator,Security 24/7,Wifi",121500
+116,3,2,Setif,El Eulma,Apartment,2,0,Elevator,61500
+46,1,1,Setif,El Eulma,Studio,1,0,"Parking,Elevator,Air Conditioning,Heating",24000
+152,4,1,Setif,El Eulma,Apartment,3,0,"Heating,Elevator,Parking",83000
+86,4,2,Setif,El Eulma,Apartment,2,1,"Heating,Elevator,Parking",85500
+136,4,1,M'Sila,Boussaada,Apartment,4,0,"Elevator,Air Conditioning",51500
+31,1,1,Setif,Setif City,Studio,0,0,"Parking,Elevator,Security 24/7",15000
+152,4,1,Setif,Ain Arnat,Apartment,0,0,"Heating,Elevator,Wifi",77500
+111,2,2,Algiers,El Biar,Apartment,5,0,"Elevator,Security 24/7,Wifi",83500
+69,3,1,Constantine,El Khroub,Apartment,8,1,"Elevator,Security 24/7,Air Conditioning",66000
+83,3,2,Constantine,El Khroub,Apartment,8,0,"Parking,Elevator,Wifi,Air Conditioning",49000
+46,1,2,M'Sila,M'Sila City,Studio,0,1,"Parking,Elevator,Security 24/7",25000
+150,2,2,Algiers,Bab Ezzouar,Apartment,5,0,"Parking,Elevator,Wifi,Air Conditioning",119000
+49,1,2,Algiers,El Biar,Studio,0,0,"Heating,Elevator",40000
+154,3,1,Constantine,Ali Mendjeli,Apartment,0,1,"Heating,Elevator,Security 24/7",129500
+388,7,2,Constantine,Constantine City,Villa,0,0,"Parking,Security 24/7",271500
+141,2,1,M'Sila,Magra,Apartment,7,1,"Elevator,Air Conditioning",71500
+94,3,1,Setif,Setif City,Apartment,3,1,"Elevator,Air Conditioning,Wifi",83000
+78,4,1,Setif,Ain Arnat,Apartment,2,1,"Elevator,Air Conditioning,Wifi",76500
+139,2,1,Setif,El Eulma,Apartment,4,1,"Parking,Elevator,Wifi,Air Conditioning",96500
+136,4,1,Constantine,El Khroub,Apartment,1,0,"Heating,Elevator,Security 24/7,Air Conditioning",85500
+315,6,2,Constantine,Constantine City,Villa,0,0,Elevator,231000
+37,1,1,Setif,El Eulma,Studio,4,0,"Heating,Elevator,Air Conditioning",15000
+229,4,1,Oran,Bir El Djir,Villa,0,1,Parking,341000
+73,3,1,Oran,Bir El Djir,Apartment,0,0,Air Conditioning,59500
+107,2,1,Algiers,El Biar,Apartment,1,1,"Elevator,Security 24/7,Wifi",141500
+155,4,1,Setif,Setif City,Apartment,8,1,"Parking,Security 24/7",109000
+78,3,1,Constantine,Ali Mendjeli,Apartment,2,0,Parking,50500
+131,4,1,Setif,Setif City,Apartment,2,0,Heating,73500
+65,4,2,Constantine,El Khroub,Apartment,1,0,Air Conditioning,49500
+38,1,2,Setif,El Eulma,Studio,4,0,"Heating,Wifi",18000
+103,4,1,Algiers,Bab Ezzouar,Apartment,7,0,"Heating,Elevator,Security 24/7,Wifi",93000
+124,2,2,Constantine,Ali Mendjeli,Apartment,3,0,"Heating,Security 24/7,Parking,Elevator,Wifi",67000
+146,3,1,Setif,El Eulma,Apartment,7,0,Air Conditioning,61500
+80,4,1,Constantine,Constantine City,Apartment,2,0,"Parking,Elevator,Security 24/7",55500
+145,4,2,M'Sila,Magra,Apartment,2,0,Wifi,56000
+87,3,1,Algiers,El Biar,Apartment,5,0,"Heating,Elevator,Wifi",84000
+159,3,1,M'Sila,M'Sila City,Apartment,1,0,"Elevator,Wifi,Air Conditioning",57000
+47,1,2,M'Sila,Magra,Studio,2,0,"Heating,Elevator,Wifi,Parking",16500
+109,2,2,Oran,Oran City,Apartment,6,0,"Elevator,Air Conditioning",65000
+89,4,1,Setif,Setif City,Apartment,1,0,"Parking,Elevator,Air Conditioning",56000
+87,4,1,Algiers,Hydra,Apartment,4,0,"Heating,Parking",85000
+79,3,2,Constantine,El Khroub,Apartment,4,1,"Parking,Elevator",82000
+147,4,1,Constantine,El Khroub,Apartment,6,1,"Parking,Security 24/7,Air Conditioning,Wifi",121500
+75,2,2,Setif,El Eulma,Apartment,1,0,"Parking,Security 24/7,Wifi,Heating",35500
+74,3,2,Constantine,Ali Mendjeli,Apartment,1,0,"Heating,Elevator,Security 24/7",49000
+149,2,2,Constantine,Constantine City,Apartment,0,0,Parking,76000
+153,2,1,Oran,Akid Lotfi,Apartment,0,0,"Air Conditioning,Wifi",91500
+64,2,1,Setif,Ain Arnat,Apartment,8,0,"Elevator,Wifi",36000
+46,1,2,Constantine,Ali Mendjeli,Studio,2,0,Air Conditioning,27000
+64,4,1,Constantine,Ali Mendjeli,Apartment,0,0,"Parking,Security 24/7,Heating",50000
+143,4,1,Constantine,El Khroub,Apartment,2,1,Elevator,130000
+32,1,1,Setif,Setif City,Studio,0,0,"Elevator,Security 24/7,Air Conditioning",18000
+268,4,2,Setif,Setif City,Villa,0,0,"Parking,Security 24/7,Air Conditioning,Wifi",177000
+36,1,1,Oran,Es Senia,Studio,1,1,"Parking,Security 24/7",43000
+37,1,1,Constantine,El Khroub,Studio,2,0,"Heating,Elevator,Wifi,Air Conditioning",21000
+36,1,2,Setif,El Eulma,Studio,0,0,"Security 24/7,Air Conditioning",19500
+93,2,1,Oran,Akid Lotfi,Apartment,6,0,"Parking,Wifi,Heating",51000
