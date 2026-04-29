@@ -3,6 +3,7 @@ from pydantic import BaseModel, Field, validator
 import pandas as pd
 import joblib
 from typing import List, Literal
+from fastapi.middleware.cors import CORSMiddleware
 
 # =============================================================================
 # Smart Rent DZ - API v2.0
@@ -31,6 +32,14 @@ app = FastAPI(
     version="2.0.0"
 )
 
+# 👇 هنا مباشرة (مهم جدًا)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # لاحقًا ضع دومين الفرونت
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class ApartmentFeatures(BaseModel):
     area:          float = Field(..., gt=20,  description="المساحة بالمتر المربع")
